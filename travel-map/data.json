@@ -1,0 +1,518 @@
+{
+  "days": [
+    {
+      "date": "2026-06-26",
+      "day": "Day 0",
+      "title": "羽田抵達",
+      "segment": "SEG1",
+      "locations": [
+        {
+          "id": "haneda",
+          "name": "羽田空港 國際線",
+          "lat": 35.5494,
+          "lng": 139.7798,
+          "time": "15:40",
+          "description": "抵達日本，入境＋行李提取＋Suica兌換",
+          "type": "airport"
+        },
+        {
+          "id": "tsukiji-hotel",
+          "name": "東京前段酒店（待決定）",
+          "lat": 35.6622,
+          "lng": 139.7738,
+          "time": "17:30",
+          "description": "3選一：Section L Tsukiji / Villa Fontaine Ariake / Home Story 門前仲町",
+          "type": "hotel"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-27",
+      "day": "Day 1",
+      "title": "有明・お台場 全日遊",
+      "segment": "SEG1",
+      "locations": [
+        {
+          "id": "tokyo-dream-park",
+          "name": "Tokyo Dream Park - 哆啦A夢展",
+          "lat": 35.6329,
+          "lng": 139.7909,
+          "time": "10:00–12:30",
+          "description": "100%ドラえもん＆フレンズ展；屋上広場・大谷翔平金像；必須提前購票",
+          "type": "attraction",
+          "price": "大人2,400円・中高生1,800円"
+        },
+        {
+          "id": "divercity",
+          "name": "DiverCity Tokyo Plaza - ガンダム",
+          "lat": 35.6323,
+          "lng": 139.7788,
+          "time": "14:00–18:30",
+          "description": "ユニコーンガンダム立像（19.7米）・Gundam Base Tokyo・晚餐",
+          "type": "attraction",
+          "price": "免費入場"
+        },
+        {
+          "id": "gundam-night",
+          "name": "ユニコーンガンダム 夜間演出",
+          "lat": 35.6323,
+          "lng": 139.7788,
+          "time": "19:00",
+          "description": "免費；19.7米實物大ガンダム；燈光效果；每30分一場",
+          "type": "attraction",
+          "price": "免費"
+        },
+        {
+          "id": "aqua-symphony",
+          "name": "Tokyo Aqua Symphony 夜間噴水秀",
+          "lat": 35.6307,
+          "lng": 139.7770,
+          "time": "20:00",
+          "description": "免費；台場駅徒歩3分；光影＋音樂約10分",
+          "type": "attraction",
+          "price": "免費"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "day": "Day 2",
+      "title": "吉卜力 + 吉祥寺 + 原宿",
+      "segment": "SEG1",
+      "locations": [
+        {
+          "id": "ghibli-museum",
+          "name": "三鷹の森ジブリ美術館",
+          "lat": 35.6714,
+          "lng": 139.5597,
+          "time": "10:00–13:00",
+          "description": "必須提前購票（Lawson線上，抽選制）；獨家短片・機器兵人・貓巴士",
+          "type": "attraction",
+          "price": "大人1,000円・中高生700円"
+        },
+        {
+          "id": "kichijoji",
+          "name": "吉祥寺エリア散策",
+          "lat": 35.7010,
+          "lng": 139.5771,
+          "time": "13:00–15:30",
+          "description": "吉祥寺プティット村・ハモニカ横丁・CAPOON抹茶製造所",
+          "type": "area"
+        },
+        {
+          "id": "harajuku-cute",
+          "name": "原宿かわいいランドキュンキュン",
+          "lat": 35.6654,
+          "lng": 139.7039,
+          "time": "16:00–18:00",
+          "description": "小動物咖啡；原宿駅徒歩3分；竹下通り散策",
+          "type": "cafe"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "day": "Day 3",
+      "title": "越後湯沢 溫泉一泊",
+      "segment": "SEG2",
+      "locations": [
+        {
+          "id": "ponshu-kan",
+          "name": "ぽんしゅ館",
+          "lat": 36.7976,
+          "lng": 138.4439,
+          "time": "抵達後",
+          "description": "新潟縣95間酒造清酒試飲；駅構內；米麴軟冰淇淋",
+          "type": "shop",
+          "price": "試飲500円/人"
+        },
+        {
+          "id": "kiyotsu-gorge",
+          "name": "清津峡渓谷トンネル - 水鏡",
+          "lat": 36.8161,
+          "lng": 138.3778,
+          "time": "下午",
+          "description": "日本三大峽谷；750米觀景隧道；終端水鏡裝置（晴天最佳）；踩水拍倒影必備備用襪子",
+          "type": "attraction",
+          "price": "大人1,200円・中高生500円"
+        },
+        {
+          "id": "yuzawa-hotel",
+          "name": "湯沢グランドホテル",
+          "lat": 36.8036,
+          "lng": 138.4426,
+          "time": "18:00",
+          "description": "駅步行圈；大浴場＋露天風呂；和洋中自助晚餐＋早餐",
+          "type": "hotel"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "day": "Day 4",
+      "title": "新潟市散策 + 蒲原まつり初夜",
+      "segment": "SEG3",
+      "locations": [
+        {
+          "id": "manga-museum",
+          "name": "新潟市マンガ・アニメ情報館",
+          "lat": 37.9281,
+          "lng": 139.0297,
+          "time": "14:00–15:30",
+          "description": "万代シテイBP 1階；聲優體驗・漫畫家展示",
+          "type": "museum",
+          "price": "大人200円・中高生100円"
+        },
+        {
+          "id": "bandai-bridge",
+          "name": "万代橋 + 信濃川河畔",
+          "lat": 37.9260,
+          "lng": 139.0319,
+          "time": "15:30–16:30",
+          "description": "國家重要文化財；過橋拍照；河畔散步",
+          "type": "landmark"
+        },
+        {
+          "id": "numatarai",
+          "name": "沼垂テラス商店街",
+          "lat": 37.9226,
+          "lng": 139.0472,
+          "time": "16:30–17:30",
+          "description": "昭和長屋文青商店街；約1小時散策",
+          "type": "area"
+        },
+        {
+          "id": "honmachi-furucho",
+          "name": "本町市場・古町",
+          "lat": 37.9189,
+          "lng": 139.0345,
+          "time": "17:30–18:30",
+          "description": "晚餐前逛街；のどぐろ・へぎそば・タレかつ丼推薦",
+          "type": "area"
+        },
+        {
+          "id": "kahara-shrine",
+          "name": "蒲原神社 - 蒲原まつり 初夜",
+          "lat": 37.9127,
+          "lng": 139.0270,
+          "time": "19:30起",
+          "description": "宵宮のぼり行列・万代太鼓・参道燈籠・露店（ぽっぽ焼き・おばけ屋敷・射的等）",
+          "type": "festival",
+          "price": "免費"
+        },
+        {
+          "id": "niigata-hotel",
+          "name": "アートホテル新潟駅前",
+          "lat": 37.9333,
+          "lng": 139.0598,
+          "time": "晚間",
+          "description": "JR新潟駅南口直結；前往新発田・蒲原神社皆便利",
+          "type": "hotel"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "day": "Day 5",
+      "title": "新発田市一日遊 + 御託宣",
+      "segment": "SEG3",
+      "locations": [
+        {
+          "id": "zoushuん-kaku",
+          "name": "蔵春閣",
+          "lat": 37.9929,
+          "lng": 139.1381,
+          "time": "09:15–10:00",
+          "description": "明治迎賓館；日式外觀＋西式內裝；龍紋天花板；大理石馬賽克地板",
+          "type": "museum",
+          "price": "大人500円・中高生約400円"
+        },
+        {
+          "id": "shimizu-en",
+          "name": "清水園",
+          "lat": 37.9930,
+          "lng": 139.1432,
+          "time": "10:10–11:00",
+          "description": "大名庭園；6月底睡蓮・菖蒲初開；苔庭・池泉・茶室",
+          "type": "garden",
+          "price": "大人700円・中高生約700円"
+        },
+        {
+          "id": "shibata-castle",
+          "name": "新発田城",
+          "lat": 37.9924,
+          "lng": 139.1381,
+          "time": "11:10–12:00",
+          "description": "三隻鯱天守（日本百名城 #17）；外圍免費；復原建築需確認開放時間",
+          "type": "castle",
+          "price": "外圍免費"
+        },
+        {
+          "id": "senbei-kingdom",
+          "name": "せんべい王国",
+          "lat": 37.8897,
+          "lng": 139.1694,
+          "time": "13:00–14:00",
+          "description": "免費入場；超特大繪畫煎餅手燒＆調味（平日限定，需預約）",
+          "type": "experience",
+          "price": "超特大2,500円/人 或 特大1,800円/人"
+        },
+        {
+          "id": "otakusen-night",
+          "name": "蒲原神社 - 御託宣（中日）",
+          "lat": 37.9127,
+          "lng": 139.0270,
+          "time": "19:00",
+          "description": "830年傳統神事；蒲原神社神楽殿；免費觀禮；夜間繼續逛露店",
+          "type": "festival",
+          "price": "免費"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "day": "Day 6",
+      "title": "蒲原まつり最終日 + 新潟→東京",
+      "segment": "SEG3, SEG4",
+      "locations": [
+        {
+          "id": "kahara-final",
+          "name": "蒲原まつり 最終日",
+          "lat": 37.9127,
+          "lng": 139.0270,
+          "time": "10:00–18:30",
+          "description": "露店・散策・大黒舞奉納（15:00）・万代太鼓（18:30）",
+          "type": "festival",
+          "price": "免費"
+        },
+        {
+          "id": "tsukiji-honganji",
+          "name": "築地本願寺",
+          "lat": 35.6663,
+          "lng": 139.7738,
+          "time": "晚間",
+          "description": "步行10分；免費；夜間亦開放；獨特建築",
+          "type": "temple",
+          "price": "免費"
+        },
+        {
+          "id": "ginza-hotel",
+          "name": "ヴィアイン東銀座",
+          "lat": 35.6663,
+          "lng": 139.7762,
+          "time": "21:30",
+          "description": "築地2-15-13；歌舞伎座步行3分；築地場外市場步行5分",
+          "type": "hotel"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "day": "Day 7",
+      "title": "歌舞伎座 + 浅草 + 下町七夕まつり + 秋葉原",
+      "segment": "SEG4",
+      "locations": [
+        {
+          "id": "kabuki-za",
+          "name": "歌舞伎座 - 幕見席（朝の部）",
+          "lat": 35.6660,
+          "lng": 139.7753,
+          "time": "08:30–09:30",
+          "description": "七月大歌舞伎；早場（朝の部）；當日現場排隊購票；看一折約60分",
+          "type": "theater",
+          "price": "約1,000–2,000円/人"
+        },
+        {
+          "id": "senso-ji",
+          "name": "浅草寺・雷門・仲見世商店街",
+          "lat": 35.7148,
+          "lng": 139.7966,
+          "time": "09:30–10:00",
+          "description": "免費；早上人潮較少；傳統寺廟氛圍",
+          "type": "temple",
+          "price": "免費"
+        },
+        {
+          "id": "higashi-hongan-ji",
+          "name": "東本願寺（浅草）",
+          "lat": 35.7125,
+          "lng": 139.7927,
+          "time": "10:00–10:30",
+          "description": "免費；台東区西浅草1-5-5；浅草寺から徒歩5分",
+          "type": "temple",
+          "price": "免費"
+        },
+        {
+          "id": "samurai-ninja",
+          "name": "Samurai Ninja Museum Asakusa",
+          "lat": 35.7129,
+          "lng": 139.7924,
+          "time": "10:30–11:30",
+          "description": "英語ガイド付き；甲冑体験・手裏剣；約60分；建議提前網上預約",
+          "type": "museum",
+          "price": "3,000円/人"
+        },
+        {
+          "id": "kappabashi-tanabata",
+          "name": "かっぱ橋本通り + 下町七夕まつり",
+          "lat": 35.7118,
+          "lng": 139.7913,
+          "time": "11:30–13:00",
+          "description": "笹飾り・屋台；推算開幕日；免費散策",
+          "type": "festival",
+          "price": "免費"
+        },
+        {
+          "id": "akiba-fukurou",
+          "name": "Akiba Fukurou Owl Cafe",
+          "lat": 35.6975,
+          "lng": 139.7708,
+          "time": "14:30–16:00",
+          "description": "必須提前預約；現金only；浅草→秋葉原 約15分",
+          "type": "cafe",
+          "price": "3,300円/人"
+        },
+        {
+          "id": "akihabara",
+          "name": "秋葉原散策",
+          "lat": 35.6975,
+          "lng": 139.7708,
+          "time": "16:00–17:30",
+          "description": "電器・アニメ・ゲーム；自由購物",
+          "type": "area"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "day": "Day 8",
+      "title": "teamLab + みなとみらい + Ado演唱會第一夜",
+      "segment": "SEG4",
+      "locations": [
+        {
+          "id": "teamlab",
+          "name": "teamLab Borderless 麻布台ヒルズ",
+          "lat": 35.6684,
+          "lng": 139.7382,
+          "time": "10:15–13:15",
+          "description": "無邊界沉浸式藝術；多個房間連貫；必須提前網上購票",
+          "type": "attraction",
+          "price": "大人3,600円・中高生2,800円"
+        },
+        {
+          "id": "cup-noodles",
+          "name": "カップヌードルミュージアム横浜",
+          "lat": 35.4434,
+          "lng": 139.6374,
+          "time": "15:00–16:00",
+          "description": "自製杯麵體驗；建議提前網上預約時段",
+          "type": "museum",
+          "price": "大人・中高生各500円"
+        },
+        {
+          "id": "air-cabin",
+          "name": "YOKOHAMA AIR CABIN",
+          "lat": 35.4436,
+          "lng": 139.6381,
+          "time": "16:00–16:10",
+          "description": "運河パーク駅→桜木町駅；約5分；空中纜車體驗",
+          "type": "attraction",
+          "price": "1,000円/人"
+        },
+        {
+          "id": "akarenga",
+          "name": "赤レンガ倉庫周邊・港灣散策",
+          "lat": 35.4414,
+          "lng": 139.6377,
+          "time": "16:10–17:30",
+          "description": "免費；拍照・逛街・晚餐",
+          "type": "area",
+          "price": "免費"
+        },
+        {
+          "id": "shinyoko-hotel",
+          "name": "Super Hotel 新横浜 check-in",
+          "lat": 35.4968,
+          "lng": 139.6234,
+          "time": "17:45",
+          "description": "天然温泉付き；朝食無料；日産スタジアム步行10–12分",
+          "type": "hotel"
+        },
+        {
+          "id": "ado-1",
+          "name": "Ado 演唱會 第一夜",
+          "lat": 35.5042,
+          "lng": 139.6229,
+          "time": "19:00",
+          "description": "日産スタジアム（約72,000人）；屋外大型演唱會；已購票",
+          "type": "event",
+          "price": "✅ 已購票"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "day": "Day 9",
+      "title": "横浜散策 + Ado演唱會第二夜",
+      "segment": "SEG4",
+      "locations": [
+        {
+          "id": "yamashita-park",
+          "name": "山下公園",
+          "lat": 35.4403,
+          "lng": 139.6435,
+          "time": "10:30–12:00",
+          "description": "免費；横浜港灣全景；臨海公園；散步拍照",
+          "type": "park",
+          "price": "免費"
+        },
+        {
+          "id": "osaka-daisan-bashi",
+          "name": "横浜港大さん橋（国際客船ターミナル）",
+          "lat": 35.4388,
+          "lng": 139.6449,
+          "time": "12:00–13:30",
+          "description": "免費；全木甲板屋頂；港灣360°全景；獨特建築",
+          "type": "landmark",
+          "price": "免費"
+        },
+        {
+          "id": "motomachi",
+          "name": "元町周邊昼食",
+          "lat": 35.4412,
+          "lng": 139.6384,
+          "time": "13:30–14:30",
+          "description": "元町商店街沿線；多選擇",
+          "type": "area"
+        },
+        {
+          "id": "ado-2",
+          "name": "Ado 演唱會 第二夜",
+          "lat": 35.5042,
+          "lng": 139.6229,
+          "time": "19:00",
+          "description": "日産スタジアム（約72,000人）；已購票；散場後建議稍等，準備翌日退房",
+          "type": "event",
+          "price": "✅ 已購票"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "day": "Day 10",
+      "title": "返回台灣",
+      "segment": "SEG4",
+      "locations": [
+        {
+          "id": "haneda-return",
+          "name": "羽田空港 國際線出發",
+          "lat": 35.5494,
+          "lng": 139.7798,
+          "time": "15:30",
+          "description": "建議13:30前抵達機場；登機手續＋出境審查",
+          "type": "airport"
+        }
+      ]
+    }
+  ]
+}
