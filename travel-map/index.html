@@ -49,6 +49,24 @@
             opacity: 0.9;
         }
 
+        .back-btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 1em;
+            border: 2px solid white;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .back-btn:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateX(-5px);
+        }
+
         .container {
             max-width: 1400px;
             margin: 0 auto;
@@ -295,7 +313,10 @@
 </head>
 <body>
     <div class="header">
-        <h1>🗺️ 日本之旅 2026 - 互動地圖</h1>
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+            <h1 style="margin: 0;">🗺️ 日本之旅 2026 - 互動地圖</h1>
+            <a href="../README.md" class="back-btn" title="返回到主頁">← 返回主頁</a>
+        </div>
         <p>2026年6月26日 ~ 7月6日 | 11天行程導覽</p>
     </div>
 
