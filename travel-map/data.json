@@ -63,12 +63,12 @@
           "price": "大人2,400円・中高生1,800円"
         },
         {
-          "id": "ariake-lunch",
-          "name": "有明ガーデン 午餐",
-          "lat": 35.6369,
-          "lng": 139.7941,
-          "time": "12:00–13:00",
-          "description": "酒店旁；選擇豐富；彈性時間",
+          "id": "divercity-lunch",
+          "name": "DiverCity 午餐",
+          "lat": 35.6247851,
+          "lng": 139.7758551,
+          "time": "13:15–14:00",
+          "description": "抵達DiverCity後直接在商場內用午餐；眾多餐廳選擇",
           "type": "restaurant"
         },
         {
