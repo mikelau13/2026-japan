@@ -3,7 +3,7 @@
     {
       "date": "2026-06-26",
       "day": "Day 0",
-      "title": "羽田抵達",
+      "title": "羽田抵達 ＋ 彈性晚餐",
       "segment": "SEG1",
       "locations": [
         {
@@ -16,41 +16,79 @@
           "type": "airport"
         },
         {
-          "id": "tsukiji-hotel",
-          "name": "東京前段酒店（待決定）",
-          "lat": 35.6660,
-          "lng": 139.7715,
+          "id": "ariake-hotel",
+          "name": "Villa Fontaine Grand Ariake（有明）",
+          "lat": 35.6369,
+          "lng": 139.7941,
           "time": "17:30",
-          "description": "3選一：Section L Tsukiji / Villa Fontaine Ariake / Home Story 門前仲町",
+          "description": "Hotel check-in；或選擇其他東京前段酒店",
           "type": "hotel"
+        },
+        {
+          "id": "toyosu-market",
+          "name": "豊洲市場 汐待茶寮（彈性選項）",
+          "lat": 35.6447,
+          "lng": 139.7975,
+          "time": "18:30–21:00",
+          "description": "體力充足→可前往；體力不足→在有明ガーデン或Hotel附近輕鬆用餐；ゆりかもめ 有明駅直通 5分",
+          "type": "restaurant",
+          "price": "晚餐 17:30–21:30"
         }
       ]
     },
     {
       "date": "2026-06-27",
       "day": "Day 1",
-      "title": "有明・お台場 全日遊",
+      "title": "有明・青海・台場 彈性全日遊",
       "segment": "SEG1",
       "locations": [
         {
+          "id": "small-worlds",
+          "name": "SMALL WORLDS TOKYO（選項A）",
+          "lat": 35.6351,
+          "lng": 139.8044,
+          "time": "09:30–11:30",
+          "description": "世界最大級迷你模型館；有明テニスの森駅 3分；建議1.5–2.5小時（實際時間彈性）",
+          "type": "attraction",
+          "price": "大人3,200円・中高生2,100円"
+        },
+        {
           "id": "tokyo-dream-park",
-          "name": "Tokyo Dream Park - 哆啦A夢展",
+          "name": "Tokyo Dream Park - 哆啦A夢展（選項B）",
           "lat": 35.6293567,
           "lng": 139.7878091,
-          "time": "10:00–12:30",
-          "description": "100%ドラえもん＆フレンズ展；屋上広場・大谷翔平金像；必須提前購票",
+          "time": "13:00–15:30",
+          "description": "100%ドラえもん＆フレンズ展；屋上広場・大谷翔平金像；必須提前購票；建議2–3小時（實際時間彈性）",
           "type": "attraction",
           "price": "大人2,400円・中高生1,800円"
         },
         {
-          "id": "divercity",
-          "name": "DiverCity Tokyo Plaza - ガンダム",
+          "id": "ariake-lunch",
+          "name": "有明ガーデン 午餐",
+          "lat": 35.6369,
+          "lng": 139.7941,
+          "time": "12:00–13:00",
+          "description": "酒店旁；選擇豐富；彈性時間",
+          "type": "restaurant"
+        },
+        {
+          "id": "divercity-menu",
+          "name": "DiverCity 下午菜單組合（14:00–18:00）",
           "lat": 35.6247851,
           "lng": 139.7758551,
-          "time": "14:00–18:30",
-          "description": "ユニコーンガンダム立像（19.7米）・Gundam Base Tokyo・晚餐",
+          "time": "14:00–18:00",
+          "description": "在同一地點自由選擇：✅便便博物館(1–1.5h) ✅Gundam Base(0.5–2h) ✅Gundam立像日景 ✅購物逛街；進出自由，時間完全彈性",
           "type": "attraction",
-          "price": "免費入場"
+          "price": "便便博物館¥2,000～；其他免費"
+        },
+        {
+          "id": "divercity-dinner",
+          "name": "DiverCity 晚餐",
+          "lat": 35.6247851,
+          "lng": 139.7758551,
+          "time": "17:30–18:30",
+          "description": "視下午進度，可提前或延後；邊吃邊看Gundam日景變夜景",
+          "type": "restaurant"
         },
         {
           "id": "gundam-night",
@@ -58,7 +96,7 @@
           "lat": 35.6247851,
           "lng": 139.7758551,
           "time": "19:00–21:30",
-          "description": "免費；19.7米實物大ガンダム；燈光效果；每30分一場；最終演出 21:30",
+          "description": "免費；19.7米實物大ガンダム；燈光效果；每30分一場；建議場次：19:00或20:00（自選，與Aqua Symphony協調）",
           "type": "attraction",
           "price": "免費"
         },
@@ -67,8 +105,8 @@
           "name": "Tokyo Aqua Symphony 夜間噴水秀",
           "lat": 35.6311,
           "lng": 139.7781,
-          "time": "20:00",
-          "description": "免費；台場駅徒歩3分；光影＋音樂約10分",
+          "time": "20:00–21:00",
+          "description": "免費；台場駅徒歩3分；DiverCity後方步行15–20分；建議場次：20:00或21:00（與Gundam協調）；每場約10分",
           "type": "attraction",
           "price": "免費"
         }
