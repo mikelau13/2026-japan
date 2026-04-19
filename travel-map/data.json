@@ -390,6 +390,26 @@
       "segment": "SEG4",
       "locations": [
         {
+          "id": "reiyukai-shakaden",
+          "name": "霊友会釋迦殿",
+          "lat": 35.6655,
+          "lng": 139.7328,
+          "time": "10:00–10:05",
+          "description": "麻布台周邊景點；快速拍照；不停留",
+          "type": "shrine",
+          "price": "免費"
+        },
+        {
+          "id": "nishikubo-hachiman",
+          "name": "西久保八幡神社",
+          "lat": 35.6669,
+          "lng": 139.7315,
+          "time": "10:05–10:15",
+          "description": "麻布台周邊景點；快速拍照；不停留",
+          "type": "shrine",
+          "price": "免費"
+        },
+        {
           "id": "teamlab",
           "name": "teamLab Borderless 麻布台ヒルズ",
           "lat": 35.6684,
@@ -400,32 +420,12 @@
           "price": "大人3,600円・中高生2,800円"
         },
         {
-          "id": "cup-noodles",
-          "name": "カップヌードルミュージアム横浜",
-          "lat": 35.4434,
-          "lng": 139.6374,
-          "time": "15:00–16:00",
-          "description": "自製杯麵體驗；建議提前網上預約時段",
-          "type": "museum",
-          "price": "大人・中高生各500円"
-        },
-        {
-          "id": "air-cabin",
-          "name": "YOKOHAMA AIR CABIN",
-          "lat": 35.4436,
-          "lng": 139.6381,
-          "time": "16:00–16:10",
-          "description": "運河パーク駅→桜木町駅；約5分；空中纜車體驗",
-          "type": "attraction",
-          "price": "1,000円/人"
-        },
-        {
           "id": "akarenga",
           "name": "赤レンガ倉庫周邊・港灣散策",
           "lat": 35.4414,
           "lng": 139.6377,
-          "time": "16:10–17:30",
-          "description": "免費；拍照・逛街・晚餐",
+          "time": "15:00–16:00",
+          "description": "免費；拍照・逛街",
           "type": "area",
           "price": "免費"
         },
@@ -453,7 +453,7 @@
     {
       "date": "2026-07-05",
       "day": "Day 9",
-      "title": "横浜散策 + Ado演唱會第二夜",
+      "title": "横浜散策 + みなとみらい體驗 + Ado演唱會第二夜",
       "segment": "SEG4",
       "locations": [
         {
@@ -484,6 +484,26 @@
           "time": "13:30–14:30",
           "description": "元町商店街沿線；多選擇",
           "type": "area"
+        },
+        {
+          "id": "cup-noodles",
+          "name": "カップヌードルミュージアム横浜",
+          "lat": 35.4434,
+          "lng": 139.6374,
+          "time": "14:30–15:30",
+          "description": "自製杯麵體驗；建議提前網上預約時段",
+          "type": "museum",
+          "price": "大人・中高生各500円"
+        },
+        {
+          "id": "air-cabin",
+          "name": "YOKOHAMA AIR CABIN",
+          "lat": 35.4436,
+          "lng": 139.6381,
+          "time": "15:30–15:45",
+          "description": "運河パーク駅→桜木町駅；約5分；空中纜車體驗",
+          "type": "attraction",
+          "price": "1,000円/人"
         },
         {
           "id": "ado-2",
