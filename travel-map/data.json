@@ -312,24 +312,24 @@
       "segment": "SEG4",
       "locations": [
         {
-          "id": "tsukiji-honganji",
-          "name": "築地本願寺",
-          "lat": 35.6664862,
-          "lng": 139.7722836,
-          "time": "08:00–09:00",
-          "description": "步行10分；免費；獨特建築；朝陽時段最美；精進料理推薦",
-          "type": "temple",
-          "price": "免費"
-        },
-        {
           "id": "tsukiji-market",
           "name": "築地場外市場",
           "lat": 35.6656,
           "lng": 139.7715,
-          "time": "09:00–10:30",
-          "description": "步行5分；鮮魚・玉子燒・握壽司等；上午商家營業最活躍；早餐推薦",
+          "time": "08:00–09:30",
+          "description": "早餐推薦；步行5分；鮮魚・玉子燒・握壽司等；金曜日朝最佳時段（6:00已開業、食材新鮮、人潮未高峰）",
           "type": "area",
           "price": "各店家自定"
+        },
+        {
+          "id": "tsukiji-honganji",
+          "name": "築地本願寺",
+          "lat": 35.6664862,
+          "lng": 139.7722836,
+          "time": "09:30–10:00",
+          "description": "步行10分；免費；獨特建築；朝陽已轉明亮；精進料理推薦",
+          "type": "temple",
+          "price": "免費"
         },
         {
           "id": "kabuki-za",
