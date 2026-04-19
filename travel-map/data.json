@@ -423,9 +423,19 @@
     {
       "date": "2026-07-04",
       "day": "Day 8",
-      "title": "teamLab + みなとみらい + Ado演唱會第一夜",
+      "title": "築地早餐 + teamLab + みなとみらい + Ado演唱會第一夜",
       "segment": "SEG4",
       "locations": [
+        {
+          "id": "tsukiji-market-morning",
+          "name": "築地場外市場（早餐快速版）",
+          "lat": 35.6656,
+          "lng": 139.7715,
+          "time": "08:00–08:30",
+          "description": "快速早餐；步行5分；鮮魚・玉子燒・握壽司等；7/4 checkout前最後一次築地；6:00已開業，食材新鮮",
+          "type": "area",
+          "price": "各店家自定"
+        },
         {
           "id": "reiyukai-shakaden",
           "name": "霊友会釋迦殿",
