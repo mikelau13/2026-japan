@@ -18,8 +18,8 @@
         {
           "id": "tsukiji-hotel",
           "name": "東京前段酒店（待決定）",
-          "lat": 35.6622,
-          "lng": 139.7738,
+          "lat": 35.6660,
+          "lng": 139.7715,
           "time": "17:30",
           "description": "3選一：Section L Tsukiji / Villa Fontaine Ariake / Home Story 門前仲町",
           "type": "hotel"
@@ -65,8 +65,8 @@
         {
           "id": "aqua-symphony",
           "name": "Tokyo Aqua Symphony 夜間噴水秀",
-          "lat": 35.6307,
-          "lng": 139.7770,
+          "lat": 35.6311,
+          "lng": 139.7781,
           "time": "20:00",
           "description": "免費；台場駅徒歩3分；光影＋音樂約10分",
           "type": "attraction",
@@ -129,8 +129,8 @@
         {
           "id": "kiyotsu-gorge",
           "name": "清津峡渓谷トンネル - 水鏡",
-          "lat": 36.993934,
-          "lng": 138.735342,
+          "lat": 36.9725,
+          "lng": 138.7498,
           "time": "下午",
           "description": "日本三大峽谷；750米觀景隧道；終端水鏡裝置（晴天最佳）；踩水拍倒影必備備用襪子",
           "type": "attraction",
@@ -156,8 +156,8 @@
         {
           "id": "manga-museum",
           "name": "新潟市マンガ・アニメ情報館",
-          "lat": 37.9281,
-          "lng": 139.0297,
+          "lat": 37.9184194,
+          "lng": 139.0488811,
           "time": "14:00–15:30",
           "description": "万代シテイBP 1階；聲優體驗・漫畫家展示",
           "type": "museum",
@@ -218,10 +218,10 @@
       "segment": "SEG3",
       "locations": [
         {
-          "id": "zoushuん-kaku",
+          "id": "zoushuukan",
           "name": "蔵春閣",
-          "lat": 37.9929,
-          "lng": 139.1381,
+          "lat": 37.9548,
+          "lng": 139.3258,
           "time": "09:15–10:00",
           "description": "明治迎賓館；日式外觀＋西式內裝；龍紋天花板；大理石馬賽克地板",
           "type": "museum",
@@ -250,8 +250,8 @@
         {
           "id": "senbei-kingdom",
           "name": "せんべい王国",
-          "lat": 37.8897,
-          "lng": 139.1694,
+          "lat": 37.9293,
+          "lng": 139.1638,
           "time": "13:00–14:00",
           "description": "免費入場；超特大繪畫煎餅手燒＆調味（平日限定，需預約）",
           "type": "experience",
@@ -298,8 +298,8 @@
         {
           "id": "ginza-hotel",
           "name": "ヴィアイン東銀座",
-          "lat": 35.6663,
-          "lng": 139.7762,
+          "lat": 35.6659,
+          "lng": 139.7722,
           "time": "21:30",
           "description": "築地2-15-13；歌舞伎座步行3分；築地場外市場步行5分",
           "type": "hotel"
@@ -412,8 +412,8 @@
         {
           "id": "teamlab",
           "name": "teamLab Borderless 麻布台ヒルズ",
-          "lat": 35.6684,
-          "lng": 139.7382,
+          "lat": 35.6652,
+          "lng": 139.7418,
           "time": "10:15–13:15",
           "description": "無邊界沉浸式藝術；多個房間連貫；必須提前網上購票",
           "type": "attraction",
@@ -432,8 +432,8 @@
         {
           "id": "shinyoko-hotel",
           "name": "Super Hotel 新横浜 check-in",
-          "lat": 35.5084162,
-          "lng": 139.6144988,
+          "lat": 35.5089,
+          "lng": 139.6145,
           "time": "17:45",
           "description": "天然温泉付き；朝食無料；日産スタジアム步行10–12分",
           "type": "hotel"
@@ -469,8 +469,8 @@
         {
           "id": "osaka-daisan-bashi",
           "name": "横浜港大さん橋（国際客船ターミナル）",
-          "lat": 35.4388,
-          "lng": 139.6449,
+          "lat": 35.4511766,
+          "lng": 139.6473228,
           "time": "12:00–13:30",
           "description": "免費；全木甲板屋頂；港灣360°全景；獨特建築",
           "type": "landmark",
@@ -479,8 +479,8 @@
         {
           "id": "motomachi",
           "name": "元町周邊昼食",
-          "lat": 35.4412,
-          "lng": 139.6384,
+          "lat": 35.4415,
+          "lng": 139.6397,
           "time": "13:30–14:30",
           "description": "元町商店街沿線；多選擇",
           "type": "area"
@@ -498,8 +498,8 @@
         {
           "id": "air-cabin",
           "name": "YOKOHAMA AIR CABIN",
-          "lat": 35.4436,
-          "lng": 139.6381,
+          "lat": 35.4453,
+          "lng": 139.6385,
           "time": "15:30–15:45",
           "description": "運河パーク駅→桜木町駅；約5分；空中纜車體驗",
           "type": "attraction",
@@ -508,8 +508,8 @@
         {
           "id": "ado-2",
           "name": "Ado 演唱會 第二夜",
-          "lat": 35.5042,
-          "lng": 139.6229,
+          "lat": 35.5100,
+          "lng": 139.6064,
           "time": "19:00",
           "description": "日産スタジアム（約72,000人）；已購票；散場後建議稍等，準備翌日退房",
           "type": "event",
