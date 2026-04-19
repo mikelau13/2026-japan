@@ -35,8 +35,8 @@
         {
           "id": "tokyo-dream-park",
           "name": "Tokyo Dream Park - 哆啦A夢展",
-          "lat": 35.6329,
-          "lng": 139.7909,
+          "lat": 35.6293567,
+          "lng": 139.7878091,
           "time": "10:00–12:30",
           "description": "100%ドラえもん＆フレンズ展；屋上広場・大谷翔平金像；必須提前購票",
           "type": "attraction",
@@ -45,8 +45,8 @@
         {
           "id": "divercity",
           "name": "DiverCity Tokyo Plaza - ガンダム",
-          "lat": 35.6323,
-          "lng": 139.7788,
+          "lat": 35.6247851,
+          "lng": 139.7758551,
           "time": "14:00–18:30",
           "description": "ユニコーンガンダム立像（19.7米）・Gundam Base Tokyo・晚餐",
           "type": "attraction",
@@ -55,8 +55,8 @@
         {
           "id": "gundam-night",
           "name": "ユニコーンガンダム 夜間演出",
-          "lat": 35.6323,
-          "lng": 139.7788,
+          "lat": 35.6247851,
+          "lng": 139.7758551,
           "time": "19:00",
           "description": "免費；19.7米實物大ガンダム；燈光效果；每30分一場",
           "type": "attraction",
@@ -83,8 +83,8 @@
         {
           "id": "ghibli-museum",
           "name": "三鷹の森ジブリ美術館",
-          "lat": 35.6714,
-          "lng": 139.5597,
+          "lat": 35.696238,
+          "lng": 139.5704317,
           "time": "10:00–13:00",
           "description": "必須提前購票（Lawson線上，抽選制）；獨家短片・機器兵人・貓巴士",
           "type": "attraction",
@@ -203,8 +203,8 @@
         {
           "id": "niigata-hotel",
           "name": "アートホテル新潟駅前",
-          "lat": 37.9333,
-          "lng": 139.0598,
+          "lat": 37.910903,
+          "lng": 139.063846,
           "time": "晚間",
           "description": "JR新潟駅南口直結；前往新発田・蒲原神社皆便利",
           "type": "hotel"
@@ -288,8 +288,8 @@
         {
           "id": "tsukiji-honganji",
           "name": "築地本願寺",
-          "lat": 35.6663,
-          "lng": 139.7738,
+          "lat": 35.6664862,
+          "lng": 139.7722836,
           "time": "晚間",
           "description": "步行10分；免費；夜間亦開放；獨特建築",
           "type": "temple",
@@ -315,8 +315,8 @@
         {
           "id": "kabuki-za",
           "name": "歌舞伎座 - 幕見席（朝の部）",
-          "lat": 35.6660,
-          "lng": 139.7753,
+          "lat": 35.6694253,
+          "lng": 139.7677446,
           "time": "08:30–09:30",
           "description": "七月大歌舞伎；早場（朝の部）；當日現場排隊購票；看一折約60分",
           "type": "theater",
@@ -335,8 +335,8 @@
         {
           "id": "higashi-hongan-ji",
           "name": "東本願寺（浅草）",
-          "lat": 35.7125,
-          "lng": 139.7927,
+          "lat": 35.7117329,
+          "lng": 139.7896779,
           "time": "10:00–10:30",
           "description": "免費；台東区西浅草1-5-5；浅草寺から徒歩5分",
           "type": "temple",
@@ -432,8 +432,8 @@
         {
           "id": "shinyoko-hotel",
           "name": "Super Hotel 新横浜 check-in",
-          "lat": 35.4968,
-          "lng": 139.6234,
+          "lat": 35.5084162,
+          "lng": 139.6144988,
           "time": "17:45",
           "description": "天然温泉付き；朝食無料；日産スタジアム步行10–12分",
           "type": "hotel"
@@ -459,8 +459,8 @@
         {
           "id": "yamashita-park",
           "name": "山下公園",
-          "lat": 35.4403,
-          "lng": 139.6435,
+          "lat": 35.4457655,
+          "lng": 139.6497793,
           "time": "10:30–12:00",
           "description": "免費；横浜港灣全景；臨海公園；散步拍照",
           "type": "park",
@@ -488,8 +488,8 @@
         {
           "id": "cup-noodles",
           "name": "カップヌードルミュージアム横浜",
-          "lat": 35.4434,
-          "lng": 139.6374,
+          "lat": 35.4557271,
+          "lng": 139.6391141,
           "time": "14:30–15:30",
           "description": "自製杯麵體驗；建議提前網上預約時段",
           "type": "museum",
