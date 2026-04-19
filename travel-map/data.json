@@ -520,16 +520,54 @@
     {
       "date": "2026-07-06",
       "day": "Day 10",
-      "title": "返回加拿大",
+      "title": "川崎大師 + 返回加拿大",
       "segment": "SEG4",
       "locations": [
+        {
+          "id": "shinyoko-checkout",
+          "name": "Super Hotel 新横浜 - 早點退房",
+          "lat": 35.5089,
+          "lng": 139.6145,
+          "time": "07:30-08:30",
+          "description": "早點退房（原11:00），準備前往川崎大師；整理行李",
+          "type": "hotel"
+        },
+        {
+          "id": "haneda-luggage",
+          "name": "羽田空港 行李寄存",
+          "lat": 35.5494,
+          "lng": 139.7798,
+          "time": "09:30-10:00",
+          "description": "各航廈都有Luggage Storage；¥600-800/件；出發前領回",
+          "type": "service",
+          "price": "¥600-800/件"
+        },
+        {
+          "id": "kawasaki-daishi",
+          "name": "川崎大師（平間寺）",
+          "lat": 35.5360,
+          "lng": 139.7325,
+          "time": "10:35-12:30",
+          "description": "1128年創建的古寺；參拜＋仲見世通り購物美食體驗；[詳情](http://kawasakidaishi-kanko.com/)",
+          "type": "temple",
+          "price": "免費"
+        },
+        {
+          "id": "nakamise-dori",
+          "name": "仲見世通り（參道街）",
+          "lat": 35.5362,
+          "lng": 139.7329,
+          "time": "11:00-12:30",
+          "description": "川崎大師參道街；傳統商店、紀念品、飲食；逛街購物最後美食",
+          "type": "area"
+        },
         {
           "id": "haneda-return",
           "name": "羽田空港 國際線出發",
           "lat": 35.5494,
           "lng": 139.7798,
           "time": "15:30",
-          "description": "建議13:30前抵達機場；登機手續＋出境審查",
+          "description": "領回行李＋shopping＋登機手續＋出境審查；建議13:30前抵達機場",
           "type": "airport"
         }
       ]
