@@ -405,7 +405,7 @@
 
         // 加載數據
         async function loadData() {
-            const response = await fetch('data.json?v=2.2');
+            const response = await fetch('data.json?v=2.3');
             const data = await response.json();
             allData = data;
 
@@ -414,7 +414,8 @@
             data.days.forEach(day => {
                 const option = document.createElement('option');
                 option.value = day.date;
-                option.textContent = `${day.day} - ${day.title}`;
+                const formattedDate = formatDateWithWeekday(day.date);
+                option.textContent = `${formattedDate} - ${day.title}`;
                 dayFilter.appendChild(option);
             });
 
@@ -423,6 +424,16 @@
 
             // 添加所有標記
             addAllMarkers(data.days);
+        }
+
+        // 格式化日期為 MM/DD (weekday) 格式
+        function formatDateWithWeekday(dateStr) {
+            const date = new Date(dateStr + 'T00:00:00');
+            const month = String(date.getMonth() + 1).padStart(2, '0');
+            const day = String(date.getDate()).padStart(2, '0');
+            const weekdays = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+            const weekday = weekdays[date.getDay()];
+            return `${month}/${day} (${weekday})`;
         }
 
         // 渲染行程列表
@@ -440,9 +451,10 @@
 
                 const dayTitle = document.createElement('div');
                 dayTitle.className = 'day-title';
+                const formattedDate = formatDateWithWeekday(day.date);
                 dayTitle.innerHTML = `
                     <span class="day-badge">${day.day}</span>
-                    <span>${day.date} ${day.title}</span>
+                    <span>${formattedDate} ${day.title}</span>
                 `;
                 dayGroup.appendChild(dayTitle);
 
