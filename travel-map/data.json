@@ -286,22 +286,21 @@
           "price": "免費"
         },
         {
-          "id": "tsukiji-honganji",
-          "name": "築地本願寺",
-          "lat": 35.6664862,
-          "lng": 139.7722836,
-          "time": "晚間",
-          "description": "步行10分；免費；夜間亦開放；獨特建築",
-          "type": "temple",
-          "price": "免費"
+          "id": "niigata-haneda-transit",
+          "name": "新潟駅 → 羽田空港路線 → 東京駅",
+          "lat": 35.6805,
+          "lng": 139.7663,
+          "time": "19:30–21:10",
+          "description": "上越新幹線→羽田・東京方向；約100分鐘；長途旅程後直接酒店休息",
+          "type": "landmark"
         },
         {
           "id": "ginza-hotel",
-          "name": "ヴィアイン東銀座",
+          "name": "ヴィアイン東銀座 Check-in",
           "lat": 35.6659,
           "lng": 139.7722,
           "time": "21:30",
-          "description": "築地2-15-13；歌舞伎座步行3分；築地場外市場步行5分",
+          "description": "築地2-15-13；抵達後直接Check-in休息；所有築地景點挪至7/3早午進行",
           "type": "hotel"
         }
       ]
@@ -309,7 +308,7 @@
     {
       "date": "2026-07-03",
       "day": "Day 7",
-      "title": "歌舞伎座 + 浅草 + 下町七夕まつり + 秋葉原",
+      "title": "築地 + 歌舞伎座 + 浅草 + 下町七夕まつり + 秋葉原夜遊",
       "segment": "SEG4",
       "locations": [
         {
@@ -323,11 +322,31 @@
           "price": "約1,000–2,000円/人"
         },
         {
+          "id": "tsukiji-honganji",
+          "name": "築地本願寺",
+          "lat": 35.6664862,
+          "lng": 139.7722836,
+          "time": "09:30–10:15",
+          "description": "步行10分；免費；獨特建築；朝陽時段最美",
+          "type": "temple",
+          "price": "免費"
+        },
+        {
+          "id": "tsukiji-market",
+          "name": "築地場外市場",
+          "lat": 35.6656,
+          "lng": 139.7715,
+          "time": "10:15–11:00",
+          "description": "步行5分；鮮魚・玉子燒・握壽司等；上午商家營業最活躍",
+          "type": "area",
+          "price": "各店家自定"
+        },
+        {
           "id": "senso-ji",
           "name": "浅草寺・雷門・仲見世商店街",
           "lat": 35.713454,
           "lng": 139.795952,
-          "time": "09:30–10:00",
+          "time": "11:00–11:30",
           "description": "免費；早上人潮較少；傳統寺廟氛圍",
           "type": "temple",
           "price": "免費"
@@ -337,7 +356,7 @@
           "name": "東本願寺（浅草）",
           "lat": 35.7117329,
           "lng": 139.7896779,
-          "time": "10:00–10:30",
+          "time": "11:30–12:00",
           "description": "免費；台東区西浅草1-5-5；浅草寺から徒歩5分",
           "type": "temple",
           "price": "免費"
@@ -347,7 +366,7 @@
           "name": "Samurai Ninja Museum Asakusa",
           "lat": 35.7115126,
           "lng": 139.7917746,
-          "time": "10:30–11:30",
+          "time": "12:00–13:00",
           "description": "英語ガイド付き；甲冑体験・手裏剣；約60分；建議提前網上預約",
           "type": "museum",
           "price": "3,000円/人"
@@ -357,8 +376,8 @@
           "name": "かっぱ橋本通り + 下町七夕まつり",
           "lat": 35.7105797,
           "lng": 139.7879645,
-          "time": "11:30–13:00",
-          "description": "笹飾り・屋台；推算開幕日；免費散策",
+          "time": "13:00–14:00",
+          "description": "笹飾り・屋台；推算開幕日；免費散策；午餐同時進行",
           "type": "festival",
           "price": "免費"
         },
@@ -373,12 +392,30 @@
           "price": "3,300円/人"
         },
         {
-          "id": "akihabara",
-          "name": "秋葉原散策",
+          "id": "akihabara-rest",
+          "name": "秋葉原周邊休息＋咖啡館",
           "lat": 35.702160,
           "lng": 139.774583,
           "time": "16:00–17:30",
-          "description": "電器・アニメ・ゲーム；自由購物",
+          "description": "休息、shopping、準備晚餐",
+          "type": "area"
+        },
+        {
+          "id": "akihabara-dinner",
+          "name": "秋葉原周邊晚餐",
+          "lat": 35.702160,
+          "lng": 139.774583,
+          "time": "17:30–19:00",
+          "description": "拉麵・定食・居酒屋各式選擇",
+          "type": "area"
+        },
+        {
+          "id": "akihabara-night",
+          "name": "秋葉原夜間散策",
+          "lat": 35.702160,
+          "lng": 139.774583,
+          "time": "19:00–21:00",
+          "description": "電器・アニメ・ゲーム；夜間購物體驗；店家大多營業至22:00；燈光夜景氛圍佳",
           "type": "area"
         }
       ]
