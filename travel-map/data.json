@@ -59,103 +59,141 @@
     {
       "date": "2026-06-27",
       "day": "Day 1",
-      "title": "浜松町・青海・台場 彈性全日遊",
+      "title": "浜松町 → 有明 → 豐洲 → 青海・台場 完整行程",
       "segment": "SEG1",
       "locations": [
         {
-          "id": "morning-option-a",
-          "name": "上午選項A：有明景點（需轉乘）",
+          "id": "hotel-breakfast",
+          "name": "Hotel Tabinos 早餐",
+          "lat": 35.654578,
+          "lng": 139.762111,
+          "time": "08:00–09:00",
+          "description": "竹芝駅併設餐廳；充分補給，準備整日活動",
+          "type": "restaurant"
+        },
+        {
+          "id": "movement-to-ariake",
+          "name": "竹芝駅 → 有明テニスの森駅",
           "lat": 35.637887,
           "lng": 139.788362,
-          "time": "09:00–12:00",
-          "description": "竹芝駅→汐留乗り換え→有明テニスの森駅（約15–20分）；SMALL WORLDS或Tokyo Dream Park；實際時間彈性",
-          "type": "attraction"
+          "time": "09:00–09:30",
+          "description": "ゆりかもめ 竹芝駅 → 有明テニスの森駅；約15–20分",
+          "type": "transit"
         },
         {
           "id": "small-worlds",
-          "name": "SMALL WORLDS TOKYO",
+          "name": "🎮 SMALL WORLDS TOKYO",
           "lat": 35.637887,
           "lng": 139.788362,
-          "time": "09:30–11:30",
-          "description": "世界最大級迷你模型館；有明テニスの森駅 3分；建議1.5–2.5小時",
+          "time": "09:30–12:30",
+          "description": "【必辦】世界最大級迷你模型館；有明テニスの森駅 3分；建議2.5–3小時；或改為 Tokyo Dream Park 哆啦A夢展（上下午可二選一）",
           "type": "attraction",
           "price": "大人3,200円・中高生2,100円"
         },
         {
           "id": "tokyo-dream-park",
-          "name": "Tokyo Dream Park - 哆啦A夢展",
+          "name": "🎡 Tokyo Dream Park",
           "lat": 35.6293567,
           "lng": 139.7878091,
-          "time": "09:30–12:00",
-          "description": "100%ドラえもん＆フレンズ展；屋上広場・大谷翔平金像；必須提前購票；建議2–3小時",
+          "time": "14:00–17:00",
+          "description": "【必辦】有明駅；屋上広場（免費）＋大谷翔平金像；100%ドラえもん展（¥2,400/人 週末前售，可選）；建議2–3小時；或改為 SMALL WORLDS（與上午協調）",
           "type": "attraction",
-          "price": "大人2,400円・中高生1,800円"
+          "price": "屋上広場免費；ドラえもん展 大人2,400円・中高生1,800円"
         },
         {
-          "id": "morning-option-b",
-          "name": "上午選項B：浜松町周邊悠閒",
-          "lat": 35.6559,
-          "lng": 139.7656,
-          "time": "09:00–12:00",
-          "description": "Hotel周邊散步、咖啡、逛街；無需遠距移動；實際時間彈性",
-          "type": "area"
+          "id": "movement-to-toyosu",
+          "name": "有明テニスの森駅 → 豐洲駅",
+          "lat": 35.6451,
+          "lng": 139.7946,
+          "time": "12:30–12:40",
+          "description": "ゆりかもめ 有明テニスの森駅 → 豐洲駅；極短距離 約9分；順路極佳",
+          "type": "transit"
         },
         {
-          "id": "morning-option-c",
-          "name": "上午選項C：直接前往DiverCity",
+          "id": "toyosu-sengyoku-mankara",
+          "name": "🍱 豐洲千客万来",
+          "lat": 35.6451,
+          "lng": 139.7946,
+          "time": "13:00–14:00",
+          "description": "【必辦】豐洲駅直結美食廣場；自由選擇海鮮・丼・蕎麦等；大樓地下～3F；約1小時用餐；品嚐新鮮漁獲",
+          "type": "restaurant",
+          "price": "價格自選（平均¥1,500–3,000/人）"
+        },
+        {
+          "id": "movement-back-to-ariake",
+          "name": "豐洲駅 → 有明テニスの森駅",
+          "lat": 35.637887,
+          "lng": 139.788362,
+          "time": "14:00–14:15",
+          "description": "ゆりかもめ 豐洲駅 → 有明テニスの森駅；約9分；返回午間景點區域",
+          "type": "transit"
+        },
+        {
+          "id": "movement-to-odaiba",
+          "name": "有明テニスの森駅 → 青海駅",
           "lat": 35.6247851,
           "lng": 139.7758551,
-          "time": "09:00–13:15",
-          "description": "竹芝駅→青海駅（約15分）；提早開始下午活動；彈性時間",
-          "type": "attraction"
+          "time": "17:00–17:15",
+          "description": "ゆりかもめ 有明テニスの森駅 → 青海駅；約15分；前往 DiverCity",
+          "type": "transit"
         },
         {
-          "id": "divercity-lunch",
-          "name": "DiverCity 午餐",
+          "id": "divercity-afternoon",
+          "name": "🎮 DiverCity 下午菜單（彈性組合）",
           "lat": 35.6247851,
           "lng": 139.7758551,
-          "time": "13:15–14:00",
-          "description": "抵達DiverCity後直接在商場內用午餐；眾多餐廳選擇",
-          "type": "restaurant"
-        },
-        {
-          "id": "divercity-menu",
-          "name": "DiverCity 下午菜單組合（14:00–18:00）",
-          "lat": 35.6247851,
-          "lng": 139.7758551,
-          "time": "14:00–18:00",
-          "description": "在同一地點自由選擇：✅便便博物館(1–1.5h) ✅Gundam Base(0.5–2h) ✅Gundam立像日景 ✅購物逛街；進出自由，時間完全彈性",
+          "time": "17:30–19:00",
+          "description": "進出自由，時間完全彈性，自由選擇：✅便便博物館(1–1.5h) ✅Gundam Base(0.5–2h) ✅Gundam立像日景＆拍照 ✅商場購物逛街 ✅咖啡輕食",
           "type": "attraction",
           "price": "便便博物館¥2,000～；其他免費"
         },
         {
           "id": "divercity-dinner",
-          "name": "DiverCity 晚餐",
+          "name": "🍽️ DiverCity 晚餐",
           "lat": 35.6247851,
           "lng": 139.7758551,
-          "time": "17:30–18:30",
-          "description": "視下午進度，可提前或延後；邊吃邊看Gundam日景變夜景",
-          "type": "restaurant"
+          "time": "19:00–20:00",
+          "description": "商場內餐廳眾多；邊吃邊看 Gundam 日景轉夜景",
+          "type": "restaurant",
+          "price": "價格自選（平均¥1,500–3,000/人）"
         },
         {
           "id": "gundam-night",
-          "name": "ユニコーンガンダム 夜間演出",
+          "name": "🌃 ユニコーンガンダム 夜間演出",
           "lat": 35.6247851,
           "lng": 139.7758551,
-          "time": "19:00–21:30",
-          "description": "免費；19.7米實物大ガンダム；燈光效果；每30分一場；建議場次：19:00或20:00（自選，與Aqua Symphony協調）",
+          "time": "20:00–20:20",
+          "description": "免費；19.7米實物大ガンダム；燈光秀；每30分一場；【推薦場次：20:00 場】",
           "type": "attraction",
           "price": "免費"
         },
         {
-          "id": "aqua-symphony",
-          "name": "Tokyo Aqua Symphony 夜間噴水秀",
+          "id": "movement-to-odaiba-bay",
+          "name": "青海駅 → 台場海浜公園",
           "lat": 35.6311,
           "lng": 139.7781,
-          "time": "20:00–21:00",
-          "description": "免費；台場駅徒歩3分；DiverCity後方步行15–20分；建議場次：20:00或21:00（與Gundam協調）；每場約10分",
+          "time": "20:20–20:45",
+          "description": "DiverCity 後方步行15–20分至台場海浜公園；沿路東京灣景色優美",
+          "type": "transit"
+        },
+        {
+          "id": "aqua-symphony",
+          "name": "💦 Tokyo Aqua Symphony 夜間噴水秀",
+          "lat": 35.6311,
+          "lng": 139.7781,
+          "time": "21:00–21:10",
+          "description": "免費；台場駅徒歩3分；在 Gundam 後方；每日10場（11/12/13/14/15/17/18/19/20/21時）；【推薦場次：21:00 場】；約10分",
           "type": "attraction",
           "price": "免費"
+        },
+        {
+          "id": "movement-return-to-hotel",
+          "name": "台場駅 → 竹芝駅 返 Hotel",
+          "lat": 35.654578,
+          "lng": 139.762111,
+          "time": "21:10–21:30",
+          "description": "ゆりかもめ 台場駅 → 竹芝駅；約20分；返回 Hotel Tabinos 休息",
+          "type": "transit"
         }
       ]
     },
