@@ -93,8 +93,8 @@
         {
           "id": "movement-to-toyosu",
           "name": "有明テニスの森駅 → 豐洲駅",
-          "lat": 35.6451,
-          "lng": 139.8046,
+          "lat": 35.65501,
+          "lng": 139.79613,
           "time": "12:30–12:40",
           "description": "ゆりかもめ 有明テニスの森駅 → 豐洲駅；極短距離 約9分；順路極佳",
           "type": "transit"
@@ -102,8 +102,8 @@
         {
           "id": "toyosu-sengyoku-mankara",
           "name": "🍱 豐洲千客万来",
-          "lat": 35.6445,
-          "lng": 139.8045,
+          "lat": 35.6545,
+          "lng": 139.7960,
           "time": "13:00–14:00",
           "description": "【必辦】豐洲駅直結美食廣場；自由選擇海鮮・丼・蕎麦等；大樓地下～3F；約1小時用餐；品嚐新鮮漁獲",
           "type": "restaurant",
@@ -170,8 +170,8 @@
         {
           "id": "movement-to-odaiba-bay",
           "name": "青海駅 → 台場海浜公園",
-          "lat": 35.6311,
-          "lng": 139.7781,
+          "lat": 35.6300,
+          "lng": 139.7750,
           "time": "20:20–20:45",
           "description": "DiverCity 後方步行15–20分至台場海浜公園；沿路東京灣景色優美",
           "type": "transit"
@@ -179,8 +179,8 @@
         {
           "id": "aqua-symphony",
           "name": "💦 Tokyo Aqua Symphony 夜間噴水秀",
-          "lat": 35.6311,
-          "lng": 139.7781,
+          "lat": 35.6300,
+          "lng": 139.7750,
           "time": "21:00–21:10",
           "description": "免費；台場駅徒歩3分；在 Gundam 後方；每日10場（11/12/13/14/15/17/18/19/20/21時）；【推薦場次：21:00 場】；約10分",
           "type": "attraction",
