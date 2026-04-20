@@ -26,13 +26,33 @@
           "price": "タビノス商店街併設"
         },
         {
-          "id": "hamamatsucho-evening",
-          "name": "浜松町周邊 彈性夜間活動",
-          "lat": 35.6559,
-          "lng": 139.7656,
-          "time": "17:10–",
-          "description": "體力充足：Hotel周邊散步；體力不足：早點休息；豐洲市場改到其他日期",
-          "type": "area"
+          "id": "divercity-evening",
+          "name": "DiverCity 晚餐 ＋ 彈性夜間表演",
+          "lat": 35.6247851,
+          "lng": 139.7758551,
+          "time": "17:15–20:00+",
+          "description": "竹芝駅→青海駅（10分）→DiverCity漫遊＆晚餐（18:00–20:00）→根據體力決定：體力足→Gundam夜演(20:00)+Aqua Symphony(20:30)；疲勞→返Hotel",
+          "type": "attraction"
+        },
+        {
+          "id": "gundam-night-optional-26",
+          "name": "ユニコーンガンダム 夜間演出（6/26 可選）",
+          "lat": 35.6247851,
+          "lng": 139.7758551,
+          "time": "20:00–20:17",
+          "description": "【可選】若體力充足，晚餐後可看；免費；Gundam立像正前方",
+          "type": "attraction",
+          "price": "免費"
+        },
+        {
+          "id": "aqua-symphony-optional-26",
+          "name": "Tokyo Aqua Symphony（6/26 可選）",
+          "lat": 35.6311,
+          "lng": 139.7781,
+          "time": "20:00–20:10",
+          "description": "【可選】若體力很充足，Gundam後可直接看；免費；步行15–20分",
+          "type": "attraction",
+          "price": "免費"
         }
       ]
     },
