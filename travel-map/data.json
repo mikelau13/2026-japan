@@ -3,7 +3,7 @@
     {
       "date": "2026-06-26",
       "day": "Day 0",
-      "title": "羽田抵達 ＋ 彈性晚餐",
+      "title": "羽田抵達 ＋ 輕鬆夜晚",
       "segment": "SEG1",
       "locations": [
         {
@@ -16,51 +16,78 @@
           "type": "airport"
         },
         {
-          "id": "ariake-hotel",
-          "name": "Villa Fontaine Grand Ariake（有明）",
-          "lat": 35.6369,
-          "lng": 139.7941,
-          "time": "17:30",
-          "description": "Hotel check-in；或選擇其他東京前段酒店",
-          "type": "hotel"
+          "id": "tabinos-hamamatsucho",
+          "name": "ホテルタビノス浜松町",
+          "lat": 35.6559,
+          "lng": 139.7656,
+          "time": "16:40",
+          "description": "百合海鷗線竹芝駅直結（2B出口）；現代設計飯店；check-in後根據體力彈性安排",
+          "type": "hotel",
+          "price": "タビノス商店街併設"
         },
         {
-          "id": "toyosu-market",
-          "name": "豊洲市場 汐待茶寮（彈性選項）",
-          "lat": 35.6447,
-          "lng": 139.7975,
-          "time": "18:30–21:00",
-          "description": "體力充足→可前往；體力不足→在有明ガーデン或Hotel附近輕鬆用餐；ゆりかもめ 有明駅直通 5分",
-          "type": "restaurant",
-          "price": "晚餐 17:30–21:30"
+          "id": "hamamatsucho-evening",
+          "name": "浜松町周邊 彈性夜間活動",
+          "lat": 35.6559,
+          "lng": 139.7656,
+          "time": "17:10–",
+          "description": "體力充足：Hotel周邊散步；體力不足：早點休息；豐洲市場改到其他日期",
+          "type": "area"
         }
       ]
     },
     {
       "date": "2026-06-27",
       "day": "Day 1",
-      "title": "有明・青海・台場 彈性全日遊",
+      "title": "浜松町・青海・台場 彈性全日遊",
       "segment": "SEG1",
       "locations": [
         {
+          "id": "morning-option-a",
+          "name": "上午選項A：有明景點（需轉乘）",
+          "lat": 35.6351,
+          "lng": 139.8044,
+          "time": "09:00–12:00",
+          "description": "竹芝駅→汐留乗り換え→有明テニスの森駅（約15–20分）；SMALL WORLDS或Tokyo Dream Park；實際時間彈性",
+          "type": "attraction"
+        },
+        {
           "id": "small-worlds",
-          "name": "SMALL WORLDS TOKYO（選項A）",
+          "name": "SMALL WORLDS TOKYO",
           "lat": 35.6351,
           "lng": 139.8044,
           "time": "09:30–11:30",
-          "description": "世界最大級迷你模型館；有明テニスの森駅 3分；建議1.5–2.5小時（實際時間彈性）",
+          "description": "世界最大級迷你模型館；有明テニスの森駅 3分；建議1.5–2.5小時",
           "type": "attraction",
           "price": "大人3,200円・中高生2,100円"
         },
         {
           "id": "tokyo-dream-park",
-          "name": "Tokyo Dream Park - 哆啦A夢展（選項B）",
+          "name": "Tokyo Dream Park - 哆啦A夢展",
           "lat": 35.6293567,
           "lng": 139.7878091,
-          "time": "13:00–15:30",
-          "description": "100%ドラえもん＆フレンズ展；屋上広場・大谷翔平金像；必須提前購票；建議2–3小時（實際時間彈性）",
+          "time": "09:30–12:00",
+          "description": "100%ドラえもん＆フレンズ展；屋上広場・大谷翔平金像；必須提前購票；建議2–3小時",
           "type": "attraction",
           "price": "大人2,400円・中高生1,800円"
+        },
+        {
+          "id": "morning-option-b",
+          "name": "上午選項B：浜松町周邊悠閒",
+          "lat": 35.6559,
+          "lng": 139.7656,
+          "time": "09:00–12:00",
+          "description": "Hotel周邊散步、咖啡、逛街；無需遠距移動；實際時間彈性",
+          "type": "area"
+        },
+        {
+          "id": "morning-option-c",
+          "name": "上午選項C：直接前往DiverCity",
+          "lat": 35.6247851,
+          "lng": 139.7758551,
+          "time": "09:00–13:15",
+          "description": "竹芝駅→青海駅（約15分）；提早開始下午活動；彈性時間",
+          "type": "attraction"
         },
         {
           "id": "divercity-lunch",
