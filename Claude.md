@@ -34,13 +34,19 @@
    - English name (if applicable)
 
 2. **Verify via Multiple Sources** (pick 2+ methods):
-   - [ ] **Google Maps**: Search address → click location → read URL coordinates
+   - [ ] **Google Maps (PRIMARY - MANDATORY)**: Search address → click location → read URL coordinates
      - Format: `@LAT,LNG` in URL
-     - Example: `https://maps.google.com/@35.654578,139.762111,15z`
-   - [ ] **latitude.to**: Visit latitude.to → search location → extract GPS coordinates
-   - [ ] **NAVITIME** (Japan-specific): Use for precise transit stations
+     - Example: `https://maps.google.com/@35.6457275,139.7836383,17z`
+     - **CRITICAL**: Do NOT estimate from address. Always visually confirm location on map.
+     - Check that location appears on LAND, not WATER
+   - [ ] **latitude.to** (secondary): Visit latitude.to → search location → extract GPS coordinates
+   - [ ] **NAVITIME** (for transit stations): Yurikamome/Tokyo Metro stations
    - [ ] **Official website**: Tourist bureau or venue site often lists coordinates
-   - [ ] **Japan Guide / GO TOKYO**: Official tourism sites with verified data
+   - [ ] **Japan Guide / GO TOKYO**: Official tourism sites (may have coordinates)
+   
+   **⚠️ Critical Warning**: NEVER estimate coordinates from address alone. User error example:
+   - ❌ "豐洲6-5-1 is near Toyosu Station, so coordinates should be ~35.6545, 139.7960"
+   - ✅ "Google Maps shows 豐洲千客万来 at 35.6457275, 139.7836383 (actually near Ichiba-mae, not Toyosu)"
 
 3. **Sanity Check** (all required):
    - [ ] Is latitude between 34.0–37.0? (Tokyo region bounds)
@@ -70,7 +76,7 @@
 | SMALL WORLDS TOKYO | 東京都江東区青海1-1-10 | 35.637887 | 139.788362 | verified | ✅ |
 | Tokyo Dream Park | 東京都江東区有明1丁目 | 35.6293567 | 139.7878091 | verified | ✅ |
 | 豐洲駅（Yurikamome/Tokyo Metro） | 東京都江東区豊洲 | 35.65501 | 139.79613 | latitude.to | ✅ |
-| 豐洲千客万来 | 東京都江東区豊洲6-5-1 | 35.6545 | 139.7960 | address-based | ✅ |
+| 豐洲千客万来 | 東京都江東区豊洲6-5-1 | 35.6457275 | 139.7836383 | Google Maps (VERIFIED) | ✅ |
 | 青海駅（Yurikamome） | 東京都江東区青海 | 35.6247851 | 139.7758551 | verified | ✅ |
 | DiverCity Tokyo Plaza | 東京都江東区青海1-1-10 | 35.6247851 | 139.7758551 | verified | ✅ |
 | 台場海浜公園（Odaiba Marine Park） | 東京都港区台場1-4 | 35.6300 | 139.7750 | latitude.to | ✅ |
