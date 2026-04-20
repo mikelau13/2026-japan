@@ -91,16 +91,6 @@
           "price": "大人3,200円・中高生2,100円"
         },
         {
-          "id": "tokyo-dream-park",
-          "name": "🎡 Tokyo Dream Park",
-          "lat": 35.6293567,
-          "lng": 139.7878091,
-          "time": "14:00–17:00",
-          "description": "【必辦】有明駅；屋上広場（免費）＋大谷翔平金像；100%ドラえもん展（¥2,400/人 週末前售，可選）；建議2–3小時；或改為 SMALL WORLDS（與上午協調）",
-          "type": "attraction",
-          "price": "屋上広場免費；ドラえもん展 大人2,400円・中高生1,800円"
-        },
-        {
           "id": "movement-to-toyosu",
           "name": "有明テニスの森駅 → 豐洲駅",
           "lat": 35.6451,
@@ -127,6 +117,16 @@
           "time": "14:00–14:15",
           "description": "ゆりかもめ 豐洲駅 → 有明テニスの森駅；約9分；返回午間景點區域",
           "type": "transit"
+        },
+        {
+          "id": "tokyo-dream-park",
+          "name": "🎡 Tokyo Dream Park",
+          "lat": 35.6293567,
+          "lng": 139.7878091,
+          "time": "14:00–17:00",
+          "description": "【必辦】有明駅；屋上広場（免費）＋大谷翔平金像；100%ドラえもん展（¥2,400/人 週末前售，可選）；建議2–3小時；或改為 SMALL WORLDS（與上午協調）",
+          "type": "attraction",
+          "price": "屋上広場免費；ドラえもん展 大人2,400円・中高生1,800円"
         },
         {
           "id": "movement-to-odaiba",
