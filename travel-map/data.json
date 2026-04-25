@@ -621,22 +621,30 @@
           "price": "3,000円/人（4人計12,000円）"
         },
         {
-          "id": "kappabashi-tanabata",
-          "name": "かっぱ橋本通り + 下町七夕まつり",
-          "lat": 35.7105797,
-          "lng": 139.7879645,
-          "time": "14:00–14:30",
-          "description": "笹飾り・屋台；推算開幕日；免費散策；午餐同時進行；Samurai Ninja Museumから徒歩5分",
-          "type": "festival",
-          "price": "免費"
+          "id": "asakusa-lunch-rest",
+          "name": "🍱 浅草周邊 午餐・散策・休息",
+          "lat": 35.7115,
+          "lng": 139.7895,
+          "time": "14:00–14:45",
+          "description": "【取消かっぱ橋；給充分午餐時間】浅草寺周邊、仲見世商店街；壽司、蕎麦、天婦羅等推薦；充分用餐＋短暫散步；東本願寺附近有多間飲食選擇",
+          "type": "restaurant"
+        },
+        {
+          "id": "movement-asakusa-to-akiba",
+          "name": "浅草 → 秋葉原",
+          "lat": 35.702160,
+          "lng": 139.774583,
+          "time": "14:45–15:00",
+          "description": "日比谷線 浅草駅 → 秋葉原駅；直達；約15分",
+          "type": "transit"
         },
         {
           "id": "akiba-fukurou",
-          "name": "Akiba Fukurou Owl Cafe",
+          "name": "🦉 Akiba Fukurou Owl Cafe【延長時間】",
           "lat": 35.702160,
           "lng": 139.774583,
-          "time": "14:30–16:00",
-          "description": "必須提前預約；現金only；浅草→秋葉原 約15分",
+          "time": "15:00–17:00",
+          "description": "【時間延長為2小時！】貓頭鷹互動體驗；必須提前預約；現金only；充分享受可愛的貓頭鷹、拍照、飲食體驗；預約時務必確認容額",
           "type": "cafe",
           "price": "3,300円/人"
         },
@@ -645,26 +653,26 @@
           "name": "秋葉原周邊休息＋咖啡館",
           "lat": 35.702160,
           "lng": 139.774583,
-          "time": "16:00–17:30",
-          "description": "休息、shopping、準備晚餐",
+          "time": "17:00–18:30",
+          "description": "休息、shopping、逛Akihabara電器街、遊戲廳；為晚餐準備",
           "type": "area"
         },
         {
           "id": "akihabara-dinner",
-          "name": "秋葉原周邊晚餐",
+          "name": "🍽️ 秋葉原周邊晚餐",
           "lat": 35.702160,
           "lng": 139.774583,
-          "time": "17:30–19:00",
-          "description": "拉麵・定食・居酒屋各式選擇",
-          "type": "area"
+          "time": "18:30–19:30",
+          "description": "拉麵・定食・居酒屋・迴轉壽司；各式選擇豐富",
+          "type": "restaurant"
         },
         {
           "id": "akihabara-night",
-          "name": "秋葉原夜間散策",
+          "name": "✨ 秋葉原夜間散策【延長至2.5小時】",
           "lat": 35.702160,
           "lng": 139.774583,
-          "time": "19:00–21:00",
-          "description": "電器・アニメ・ゲーム；夜間購物體驗；店家大多營業至22:00；燈光夜景氛圍佳",
+          "time": "19:30–22:00",
+          "description": "電器・アニメ・ゲーム・模型・手辦店；夜間購物體驗；店家大多營業至22:00；燈光夜景氛圍佳；充分時間遊覽；逛街、拍照、尋寶",
           "type": "area"
         }
       ]
