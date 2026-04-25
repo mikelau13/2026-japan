@@ -200,36 +200,127 @@
     {
       "date": "2026-06-28",
       "day": "Day 2",
-      "title": "吉卜力 + 吉祥寺 + 原宿",
+      "title": "新宿 + 原宿 全天行程 ～投影映射夜景必看～",
       "segment": "SEG1",
       "locations": [
         {
-          "id": "ghibli-museum",
-          "name": "三鷹の森ジブリ美術館",
-          "lat": 35.696238,
-          "lng": 139.5704317,
-          "time": "10:00–13:00",
-          "description": "必須提前購票（Lawson線上，抽選制）；獨家短片・機器兵人・貓巴士",
-          "type": "attraction",
-          "price": "大人1,000円・中高生700円"
+          "id": "hotel-breakfast-28",
+          "name": "Hotel Tabinos 早餐",
+          "lat": 35.654578,
+          "lng": 139.762111,
+          "time": "08:00–09:00",
+          "description": "竹芝駅併設餐廳；充分補給，準備整日活動",
+          "type": "restaurant"
         },
         {
-          "id": "kichijoji",
-          "name": "吉祥寺エリア散策",
-          "lat": 35.7031305,
-          "lng": 139.5799847,
-          "time": "13:00–15:30",
-          "description": "吉祥寺プティット村・ハモニカ横丁・CAPOON抹茶製造所",
+          "id": "movement-hotel-to-shinjuku",
+          "name": "竹芝駅 → 新宿駅",
+          "lat": 35.6901,
+          "lng": 139.7005,
+          "time": "09:00–09:40",
+          "description": "JR山手線 竹芝駅→新宿駅；約40分；或東京メトロ副都心線；下車後往新宿三丁目方向",
+          "type": "transit"
+        },
+        {
+          "id": "shinjuku-morning",
+          "name": "🏙️ 新宿早上活動",
+          "lat": 35.6901,
+          "lng": 139.7005,
+          "time": "09:40–12:00",
+          "description": "新宿三丁目駅周邊；自由選擇：思い出横丁（懷舊街景）、小商店咖啡館、Shinjuku Gyoen國立公園（免費；綠意盎然）、逛街購物；約2.5小時彈性活動",
           "type": "area"
         },
         {
-          "id": "harajuku-cute",
-          "name": "原宿かわいいランドキュンキュン",
-          "lat": 35.6694426,
-          "lng": 139.7050172,
-          "time": "16:00–18:00",
-          "description": "小動物咖啡；原宿駅徒歩3分；竹下通り散策",
-          "type": "cafe"
+          "id": "shinjuku-lunch",
+          "name": "🍽️ 新宿午餐",
+          "lat": 35.6901,
+          "lng": 139.7005,
+          "time": "12:00–13:30",
+          "description": "新宿駅周邊；Isetan百貨B1美食街、或拉麵小店、定食屋、迴轉壽司等眾多選擇；充足用餐時間",
+          "type": "restaurant"
+        },
+        {
+          "id": "shinjuku-afternoon-shopping",
+          "name": "🛍️ 新宿下午購物・逛街",
+          "lat": 35.6901,
+          "lng": 139.7005,
+          "time": "13:30–15:00",
+          "description": "Isetan、Takashimaya、Don Quijote超巨型折扣店、小型boutique；店家眾多；下午半天購物體驗",
+          "type": "shopping"
+        },
+        {
+          "id": "movement-shinjuku-to-harajuku",
+          "name": "新宿駅 → 原宿駅",
+          "lat": 35.6694,
+          "lng": 139.7050,
+          "time": "15:00–15:20",
+          "description": "JR山手線 新宿駅→原宿駅；直達；約15–20分",
+          "type": "transit"
+        },
+        {
+          "id": "harajuku-takeshita",
+          "name": "🚶 竹下通り + 周邊散策",
+          "lat": 35.6694,
+          "lng": 139.7050,
+          "time": "15:20–17:00",
+          "description": "原宿駅直結；世界最著名青少年時尚街；H&M、Forever 21、日本原創小店、Crepes、雜貨店；人潮眾多但充滿活力；約1.5小時遊覽",
+          "type": "area"
+        },
+        {
+          "id": "harajuku-meiji-shrine",
+          "name": "⛩️ 明治神宮",
+          "lat": 35.6764,
+          "lng": 139.6981,
+          "time": "17:00–17:45",
+          "description": "原宿駅步行5–10分；日本最重要神社；免費；靜謐森林參道；與上午鬧區形成平靜對比",
+          "type": "shrine",
+          "price": "免費"
+        },
+        {
+          "id": "harajuku-omotesando",
+          "name": "🚶 表參道（Omotesando）",
+          "lat": 35.6694,
+          "lng": 139.7091,
+          "time": "17:45–18:30",
+          "description": "明治神宮周邊；東京最高級購物街；LV、Gucci、Prada精品旗艦店；建築設計優美；逛街+拍照+咖啡",
+          "type": "shopping"
+        },
+        {
+          "id": "harajuku-dinner",
+          "name": "🍽️ 原宿晚餐",
+          "lat": 35.6694,
+          "lng": 139.7050,
+          "time": "18:30–19:30",
+          "description": "竹下通附近、表參道周邊餐廳；壽司、拉麵、義大利麵、各式選擇豐富",
+          "type": "restaurant"
+        },
+        {
+          "id": "movement-harajuku-to-tochomae",
+          "name": "原宿 → 都庁前駅（新宿）",
+          "lat": 35.6905,
+          "lng": 139.6926,
+          "time": "19:30–20:00",
+          "description": "JR山手線 原宿駅→新宿駅（約15分）→地鐵丸ノ内線 新宿駅→都庁前駅（約5分）；或步行至都廳；預留時間確保20:00前準時到達",
+          "type": "transit"
+        },
+        {
+          "id": "tokyo-night-light-projection",
+          "name": "✨ 東京夜のライト ～新宿投影映射秀～【必看】",
+          "lat": 35.6905,
+          "lng": 139.6926,
+          "time": "20:00–21:00",
+          "description": "東京都庁舎前（都庁前駅直結）；新宿特殊大型投影映射秀；每晚20:00–21:00點亮（需出發前確認營運狀況）；免費；璀璨光影秀；東京夜景必看體驗",
+          "type": "attraction",
+          "price": "免費"
+        },
+        {
+          "id": "movement-return-hotel-28",
+          "name": "都庁前駅 → 竹芝駅 返 Hotel",
+          "lat": 35.654578,
+          "lng": 139.762111,
+          "time": "21:00–21:45",
+          "description": "丸ノ内線 新宿駅→竹芝駅；約25分；返回 Hotel Tabinos 休息；準備次日早起出發越後湯沢",
+          "type": "transit"
         }
       ]
     },
@@ -273,64 +364,100 @@
     {
       "date": "2026-06-30",
       "day": "Day 4",
-      "title": "新潟市散策 + 蒲原まつり初夜",
-      "segment": "SEG3",
+      "title": "越後湯沢早晨 ～清津峡渓谷 + 新潟市一日～",
+      "segment": "SEG2, SEG3",
       "locations": [
         {
-          "id": "manga-museum",
-          "name": "新潟市マンガ・アニメ情報館",
+          "id": "yuzawa-checkout",
+          "name": "湯沢グランドホテル Checkout ＋ 行李寄存",
+          "lat": 36.9353,
+          "lng": 138.8074,
+          "time": "09:00–10:00",
+          "description": "【提早Checkout】前台提供免費行李寄存服務；預留時間辦理退房、寄放行李；準備出發前往清津峡",
+          "type": "hotel"
+        },
+        {
+          "id": "movement-yuzawa-to-kiyotsu",
+          "name": "湯沢駅 → 清津峡渓谷トンネル",
+          "lat": 36.9725,
+          "lng": 138.7498,
+          "time": "10:00–10:30",
+          "description": "酒店駅步行3分；轉乘巴士（急行バス）；清津峡渓谷站下車；約30分；購票後直達停車場",
+          "type": "transit"
+        },
+        {
+          "id": "kiyotsu-gorge-morning",
+          "name": "🏞️ 清津峡渓谷トンネル ～水鏡裝置～【重點】",
+          "lat": 36.9725,
+          "lng": 138.7498,
+          "time": "10:30–12:00",
+          "description": "日本三大峽谷；750米觀景隧道；終端水鏡裝置（晴天最佳）；約1.5小時遊覽；晴天倒影絕美；踩水拍照記得備用襪子；出發前查天氣確認最佳時機；早起造訪人少",
+          "type": "attraction",
+          "price": "大人1,200円・中高生500円"
+        },
+        {
+          "id": "movement-kiyotsu-to-yuzawa",
+          "name": "清津峡渓谷站 → 湯沢駅",
+          "lat": 36.9353,
+          "lng": 138.8074,
+          "time": "12:00–12:30",
+          "description": "巴士返回；約30分",
+          "type": "transit"
+        },
+        {
+          "id": "yuzawa-lunch-rest",
+          "name": "🍱 湯沢午餐 ＋ 溫泉體驗・休息",
+          "lat": 36.9353,
+          "lng": 138.8074,
+          "time": "12:30–13:00",
+          "description": "湯沢駅周邊；推薦爆弾おにぎり、HATAGO Isen的温泉珈琲；或酒店大浴場快速泡腳（足湯）；充分利用度假氛圍；駅附近多間咖啡館可休息；購票足湯券享受地熱溫泉體驗",
+          "type": "restaurant"
+        },
+        {
+          "id": "movement-yuzawa-to-niigata",
+          "name": "湯沢駅 → 新潟駅 (新幹線)",
+          "lat": 37.9108,
+          "lng": 139.0638,
+          "time": "13:00–13:45",
+          "description": "上越新幹線 Echigo-Yuzawa駅→Niigata駅；約45分；指定席推薦提前預訂（えきねっと）；新幹線內購買駅弁享受移動風景",
+          "type": "transit"
+        },
+        {
+          "id": "niigata-arrival-rest",
+          "name": "新潟駅到著・休息時間",
+          "lat": 37.9108,
+          "lng": 139.0638,
+          "time": "13:45–15:00",
+          "description": "早到新潟駅；行李可暫存於駅內寄物櫃或飯店前台（確認營業時間）；自由散策或休息；Popia萬代（駅直結）購物或站內咖啡館稍坐；為下午活動充電",
+          "type": "area"
+        },
+        {
+          "id": "niigata-hotel-checkin",
+          "name": "アートホテル新潟駅前 Check-in",
+          "lat": 37.910903,
+          "lng": 139.063846,
+          "time": "15:00",
+          "description": "JR新潟駅南口直結；官方check-in時間為15:00以後；提早抵達可先放行李、領房鑰匙；前往蒲原神社・新発田皆便利",
+          "type": "hotel"
+        },
+        {
+          "id": "niigata-afternoon-activities",
+          "name": "🎨 新潟市下午散策（彈性）",
           "lat": 37.9184194,
           "lng": 139.0488811,
-          "time": "14:00–15:30",
-          "description": "万代シテイBP 1階；聲優體驗・漫畫家展示",
-          "type": "museum",
-          "price": "大人200円・中高生100円"
-        },
-        {
-          "id": "bandai-bridge",
-          "name": "万代橋 + 信濃川河畔",
-          "lat": 37.9195424,
-          "lng": 139.0531961,
-          "time": "15:30–16:30",
-          "description": "國家重要文化財；過橋拍照；河畔散步",
-          "type": "landmark"
-        },
-        {
-          "id": "numatarai",
-          "name": "沼垂テラス商店街",
-          "lat": 37.9226,
-          "lng": 139.0472,
-          "time": "16:30–17:30",
-          "description": "昭和長屋文青商店街；約1小時散策",
+          "time": "15:00–18:30",
+          "description": "根據體力自由選擇：新潟市マンガ・アニメ情報館（200円）、万代橋・信濃川河畔散步、Popia萬代購物、沼垂テラス商店街（昭和懷舊街景）；或直接回飯店休息",
           "type": "area"
         },
         {
-          "id": "honmachi-furucho",
-          "name": "本町市場・古町",
-          "lat": 37.9189,
-          "lng": 139.0345,
-          "time": "17:30–18:30",
-          "description": "晚餐前逛街；のどぐろ・へぎそば・タレかつ丼推薦",
-          "type": "area"
-        },
-        {
-          "id": "kahara-shrine",
-          "name": "蒲原神社 - 蒲原まつり 初夜",
+          "id": "kahara-shrine-first-night",
+          "name": "🏮 蒲原神社 - 蒲原まつり 初夜",
           "lat": 37.9127,
           "lng": 139.0270,
           "time": "19:30起",
-          "description": "宵宮のぼり行列・万代太鼓・参道燈籠・露店（ぽっぽ焼き・おばけ屋敷・射的等）",
+          "description": "JR新潟駅→古町方向；宵宮のぼり行列・万代太鼓・参道燈籠・露店（ぽっぽ焼き・おばけ屋敷・射的等）；830年傳統祭典；免費散策；夜間熱鬧氛圍",
           "type": "festival",
           "price": "免費"
-        },
-        {
-          "id": "niigata-hotel",
-          "name": "アートホテル新潟駅前",
-          "lat": 37.910903,
-          "lng": 139.063846,
-          "time": "晚間",
-          "description": "JR新潟駅南口直結；前往新発田・蒲原神社皆便利",
-          "type": "hotel"
         }
       ]
     },
