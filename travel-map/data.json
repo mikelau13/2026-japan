@@ -340,13 +340,33 @@
           "type": "restaurant"
         },
         {
-          "id": "movement-hotel-to-teamlab",
-          "name": "竹芝駅 → teamLab Borderless（麻布台ヒルズ）",
+          "id": "movement-hotel-to-azabudai",
+          "name": "竹芝駅 → 麻布台（丸ノ内線）",
           "lat": 35.6652,
           "lng": 139.7418,
-          "time": "09:00–09:30",
-          "description": "丸ノ内線 竹芝駅→赤坂見附駅（約5分）→步行至麻布台ヒルズ（約10分）",
+          "time": "09:00–09:20",
+          "description": "丸ノ内線 竹芝駅→赤坂見附駅（約5分）→步行至麻布台（約10分）",
           "type": "transit"
+        },
+        {
+          "id": "reiyukai-shakaden-29",
+          "name": "霊友会釋迦殿",
+          "lat": 35.661127,
+          "lng": 139.742218,
+          "time": "09:20–09:25",
+          "description": "麻布台周邊景點；快速拍照；不停留；teamLab前順路經過",
+          "type": "shrine",
+          "price": "免費"
+        },
+        {
+          "id": "nishikubo-hachiman-29",
+          "name": "西久保八幡神社",
+          "lat": 35.661545,
+          "lng": 139.742754,
+          "time": "09:25–09:30",
+          "description": "麻布台周邊景點；快速拍照；不停留；直接進入teamLab",
+          "type": "shrine",
+          "price": "免費"
         },
         {
           "id": "teamlab-29",
@@ -691,26 +711,6 @@
           "description": "快速早餐；步行5分；鮮魚・玉子燒・握壽司等；7/4 checkout前最後一次築地；6:00已開業，食材新鮮",
           "type": "area",
           "price": "各店家自定"
-        },
-        {
-          "id": "reiyukai-shakaden",
-          "name": "霊友会釋迦殿",
-          "lat": 35.661127,
-          "lng": 139.742218,
-          "time": "10:00–10:05",
-          "description": "麻布台周邊景點；快速拍照；不停留",
-          "type": "shrine",
-          "price": "免費"
-        },
-        {
-          "id": "nishikubo-hachiman",
-          "name": "西久保八幡神社",
-          "lat": 35.661545,
-          "lng": 139.742754,
-          "time": "10:05–10:15",
-          "description": "麻布台周邊景點；快速拍照；不停留",
-          "type": "shrine",
-          "price": "免費"
         },
         {
           "id": "akiba-fukurou-morning",
