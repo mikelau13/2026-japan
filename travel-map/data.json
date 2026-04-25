@@ -327,26 +327,53 @@
     {
       "date": "2026-06-29",
       "day": "Day 3",
-      "title": "越後湯沢 溫泉一泊 ～清津峡は翌朝へ～",
+      "title": "新宿投影後返回・新幹線出發 ～teamLab + 越後湯沢溫泉～",
       "segment": "SEG2",
       "locations": [
         {
-          "id": "ponshu-kan",
-          "name": "ぽんしゅ館",
-          "lat": 36.9366306,
-          "lng": 138.8085721,
-          "time": "抵達後",
-          "description": "新潟縣95間酒造清酒試飲；駅構內；米麴軟冰淇淋；抵達後立即享受",
-          "type": "shop",
-          "price": "試飲500円/人"
+          "id": "hotel-breakfast-29",
+          "name": "Hotel Tabinos 早餐",
+          "lat": 35.654578,
+          "lng": 139.762111,
+          "time": "08:00–09:00",
+          "description": "竹芝駅併設餐廳；充分補給，準備前往teamLab",
+          "type": "restaurant"
         },
         {
-          "id": "yuzawa-onsen-evening",
-          "name": "湯沢 溫泉體驗・休息時間",
+          "id": "movement-hotel-to-teamlab",
+          "name": "竹芝駅 → teamLab Borderless（麻布台ヒルズ）",
+          "lat": 35.6652,
+          "lng": 139.7418,
+          "time": "09:00–09:30",
+          "description": "丸ノ内線 竹芝駅→赤坂見附駅（約5分）→步行至麻布台ヒルズ（約10分）",
+          "type": "transit"
+        },
+        {
+          "id": "teamlab-29",
+          "name": "🎨 teamLab Borderless 麻布台ヒルズ【重點】",
+          "lat": 35.6652,
+          "lng": 139.7418,
+          "time": "09:30–12:30",
+          "description": "無邊界沉浸式藝術體驗；多個房間連貫世界；光影互動展示；建議3小時充分遊覽；必須提前網上購票（https://www.teamlab.art/jp/）；兩位未成年孩童也能享受視覺盛宴",
+          "type": "attraction",
+          "price": "大人3,600円・中高生2,800円"
+        },
+        {
+          "id": "movement-teamlab-to-yuzawa",
+          "name": "麻布台ヒルズ → 越後湯沢駅（新幹線）",
           "lat": 36.9353,
           "lng": 138.8074,
-          "time": "抵達後～晚餐前",
-          "description": "湯沢駅周邊散策；酒店大浴場泡溫泉；足湯體驗；咖啡館休息；享受度假氛圍；為晚餐充電",
+          "time": "12:30–13:00",
+          "description": "丸ノ内線 赤坂見附駅→東京駅（約15分）；步行至新幹線乗車位置；上越新幹線 東京駅→越後湯沢駅 13:00–14:00（指定席推薦提前預訂：えきねっと https://www.eki-net.biz/）；列車內享受便當、沿途景色",
+          "type": "transit"
+        },
+        {
+          "id": "yuzawa-arrival",
+          "name": "越後湯沢到著・溫泉體驗",
+          "lat": 36.9353,
+          "lng": 138.8074,
+          "time": "14:00–18:00",
+          "description": "新幹線到著後駅周邊散策；酒店大浴場泡溫泉；足湯體驗；咖啡館休息；享受度假氛圍；為晚餐及翌日早起充電",
           "type": "spa"
         },
         {
@@ -626,7 +653,7 @@
           "lat": 35.7115,
           "lng": 139.7895,
           "time": "14:00–14:45",
-          "description": "【取消かっぱ橋；給充分午餐時間】浅草寺周邊、仲見世商店街；壽司、蕎麦、天婦羅等推薦；充分用餐＋短暫散步；東本願寺附近有多間飲食選擇",
+          "description": "浅草寺周邊、仲見世商店街；壽司、蕎麦、天婦羅等推薦；充分用餐＋短暫散步；東本願寺附近有多間飲食選擇",
           "type": "restaurant"
         },
         {
@@ -639,40 +666,12 @@
           "type": "transit"
         },
         {
-          "id": "akiba-fukurou",
-          "name": "🦉 Akiba Fukurou Owl Cafe【延長至2.5小時】",
+          "id": "akihabara-rest-dinner",
+          "name": "秋葉原周邊 休息・晚餐・夜間散策",
           "lat": 35.702160,
           "lng": 139.774583,
-          "time": "15:00–17:30",
-          "description": "貓頭鷹互動體驗；必須提前預約；現金only；充分享受可愛的貓頭鷹、拍照、飲食體驗；預約時務必確認容額；無壓力互動時間",
-          "type": "cafe",
-          "price": "3,300円/人"
-        },
-        {
-          "id": "akihabara-rest",
-          "name": "秋葉原周邊休息＋shopping",
-          "lat": 35.702160,
-          "lng": 139.774583,
-          "time": "17:30–19:00",
-          "description": "休息、逛Akihabara電器街、遊戲廳、模型店、手辦店；充分的購物和休整時間",
-          "type": "area"
-        },
-        {
-          "id": "akihabara-dinner",
-          "name": "🍽️ 秋葉原周邊晚餐【延長至1.5小時】",
-          "lat": 35.702160,
-          "lng": 139.774583,
-          "time": "19:00–20:30",
-          "description": "拉麵・定食・居酒屋・迴轉壽司；各式選擇豐富；悠閒享受晚餐，不趕時間",
-          "type": "restaurant"
-        },
-        {
-          "id": "akihabara-night",
-          "name": "✨ 秋葉原夜間散策【彈性時間】",
-          "lat": 35.702160,
-          "lng": 139.774583,
-          "time": "20:30–23:00+",
-          "description": "電器・アニメ・ゲーム・模型・手辦店；夜間購物體驗；店家大多營業至22:00；燈光夜景氛圍佳；【彈性時間】累了隨時回飯店；想逛就延長至23:00+；完全按體力調整",
+          "time": "15:00–23:00+",
+          "description": "秋葉原周邊彈性時間；休息、逛Akihabara電器街、遊戲廳、模型店、手辦店；晚餐（拉麵・定食・居酒屋・迴轉壽司等）；夜間購物體驗；店家大多營業至22:00；燈光夜景氛圍佳；【完全彈性】累了隨時回飯店；想逛就延長至23:00+；按體力調整",
           "type": "area"
         }
       ]
@@ -680,7 +679,7 @@
     {
       "date": "2026-07-04",
       "day": "Day 8",
-      "title": "築地早餐 + teamLab + みなとみらい + Ado演唱會第一夜",
+      "title": "築地早餐 + 麻布台兩神社 + Owl Cafe + 横浜 + Ado演唱會第一夜",
       "segment": "SEG4",
       "locations": [
         {
@@ -714,14 +713,23 @@
           "price": "免費"
         },
         {
-          "id": "teamlab",
-          "name": "teamLab Borderless 麻布台ヒルズ",
+          "id": "akiba-fukurou-morning",
+          "name": "🦉 Akiba Fukurou Owl Cafe",
+          "lat": 35.702160,
+          "lng": 139.774583,
+          "time": "11:00–12:00",
+          "description": "貓頭鷹互動體驗；必須提前預約；現金only；可愛的貓頭鷹、拍照、飲食體驗；預約時務必確認容額及開放時間（星期五全天休業）；土曜日11:00–12:00 時段已確認可訂",
+          "type": "cafe",
+          "price": "3,300円/人"
+        },
+        {
+          "id": "afternoon-blank",
+          "name": "【午後時間 12:00–15:00 空白】",
           "lat": 35.6652,
           "lng": 139.7418,
-          "time": "10:15–13:15",
-          "description": "無邊界沉浸式藝術；多個房間連貫；必須提前網上購票",
-          "type": "attraction",
-          "price": "大人3,600円・中高生2,800円"
+          "time": "12:00–15:00",
+          "description": "午餐・休息・彈性安排；後續補充",
+          "type": "placeholder"
         },
         {
           "id": "akarenga",
@@ -729,7 +737,7 @@
           "lat": 35.4529486,
           "lng": 139.6434541,
           "time": "15:00–16:00",
-          "description": "免費；拍照・逛街",
+          "description": "免費；拍照・逛街；横浜港灣風景；傍晚景色優美",
           "type": "area",
           "price": "免費"
         },
@@ -748,7 +756,7 @@
           "lat": 35.5099771,
           "lng": 139.6064006,
           "time": "19:00",
-          "description": "日産スタジアム（約72,000人）；屋外大型演唱會；已購票",
+          "description": "日産スタジアム（約72,000人）；屋外大型演唱會；已購票；散場後建議稍等，準備翌日行程",
           "type": "event",
           "price": "✅ 已購票"
         }
