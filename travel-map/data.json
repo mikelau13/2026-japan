@@ -700,34 +700,34 @@
           "name": "🍱 浅草周邊 午餐・散策・休息",
           "lat": 35.7115,
           "lng": 139.7895,
-          "time": "14:00–14:45",
+          "time": "14:00–14:30",
           "description": "浅草寺周邊、仲見世商店街；壽司、蕎麦、天婦羅等推薦；充分用餐＋短暫散步；東本願寺附近有多間飲食選擇",
           "type": "restaurant"
         },
         {
-          "id": "movement-asakusa-to-akiba",
-          "name": "浅草 → 秋葉原",
-          "lat": 35.702160,
-          "lng": 139.774583,
-          "time": "14:45–15:00",
-          "description": "日比谷線 浅草駅 → 秋葉原駅；直達；約15分",
+          "id": "movement-asakusa-to-hotel",
+          "name": "浅草 → 東銀座酒店 返回",
+          "lat": 35.6656,
+          "lng": 139.7715,
+          "time": "14:30–16:30",
+          "description": "日比谷線 浅草駅 → 東銀座駅；約20分；提早返回酒店為翌日做準備",
           "type": "transit"
         },
         {
-          "id": "akihabara-rest-dinner",
-          "name": "秋葉原周邊 休息・晚餐・夜間散策",
-          "lat": 35.702160,
-          "lng": 139.774583,
-          "time": "15:00–23:00+",
-          "description": "秋葉原周邊彈性時間；休息、逛Akihabara電器街、遊戲廳、模型店、手辦店；晚餐（拉麵・定食・居酒屋・迴轉壽司等）；夜間購物體驗；店家大多營業至22:00；燈光夜景氛圍佳；【完全彈性】累了隨時回飯店；想逛就延長至23:00+；按體力調整",
-          "type": "area"
+          "id": "hotel-rest-evening-3",
+          "name": "酒店休息・晚餐・早點睡眠",
+          "lat": 35.6656,
+          "lng": 139.7715,
+          "time": "16:30–19:00+",
+          "description": "返回 Hotel Viain 東銀座；休息、整理行李；酒店晚餐（17:30–19:00）；為翌日早起前往秋葉原做準備；【已移除】秋葉原貓頭鷹咖啡館改至 7/4；秋葉原活動改至 7/4 上午（時間更寬裕）",
+          "type": "hotel"
         }
       ]
     },
     {
       "date": "2026-07-04",
       "day": "Day 8",
-      "title": "築地早餐 + 麻布台兩神社 + Owl Cafe + 横浜 + Ado演唱會第一夜",
+      "title": "築地早餐 + 麻布台快拍 + 秋葉原 → みなとみらい + Ado演唱會第一夜",
       "segment": "SEG4",
       "locations": [
         {
@@ -741,23 +741,52 @@
           "price": "各店家自定"
         },
         {
-          "id": "akiba-fukurou-morning",
-          "name": "🦉 Akiba Fukurou Owl Cafe",
-          "lat": 35.702160,
-          "lng": 139.774583,
-          "time": "11:00–12:00",
-          "description": "貓頭鷹互動體驗；必須提前預約；現金only；可愛的貓頭鷹、拍照、飲食體驗；預約時務必確認容額及開放時間（星期五全天休業）；土曜日11:00–12:00 時段已確認可訂",
-          "type": "cafe",
-          "price": "3,300円/人"
+          "id": "hotel-checkout-4",
+          "name": "ヴィアイン東銀座 Checkout + 行李寄存",
+          "lat": 35.6656,
+          "lng": 139.7715,
+          "time": "09:00–09:45",
+          "description": "返回酒店後；辦理退房；行李由酒店代保管；務必 10:00 前完成",
+          "type": "hotel"
         },
         {
-          "id": "afternoon-blank",
-          "name": "【午後時間 12:00–15:00 空白】",
+          "id": "azabudai-quick-photo",
+          "name": "麻布台 快速拍照（兩神社）",
           "lat": 35.6652,
           "lng": 139.7418,
-          "time": "12:00–15:00",
-          "description": "午餐・休息・彈性安排；後續補充",
-          "type": "placeholder"
+          "time": "10:00–10:15",
+          "description": "霊友会釋迦殿 + 西久保八幡神社；免費；麻布台周邊；只拍照即走，不停留",
+          "type": "attraction",
+          "price": "免費",
+          "note": "✅ 麻布台→秋葉原（日比谷線 約15分）"
+        },
+        {
+          "id": "akihabara-lunch-afternoon",
+          "name": "★ 秋葉原午餐 + 周邊散策",
+          "lat": 35.702160,
+          "lng": 139.774583,
+          "time": "10:15–13:15",
+          "description": "【改至 7/4】麻布台→秋葉原（地鐵日比谷線 約15分）；電器街（Yodobashi、Sofmap）・アニメ・ゲーム店・模型店；午餐自選（拉麵、定食、迴轉壽司等）；彈性逛街購物；充分時間體驗秋葉原文化（比 7/3 晚間更寬裕、省力）",
+          "type": "area",
+          "note": "✅ 改至 7/4 上午（從 7/3 晚間移動），時間更充裕；Owl Cafe 由於 7/3 早點返回改動已移除；秋葉原成為 7/4 午前活動亮點"
+        },
+        {
+          "id": "movement-akiba-to-minato",
+          "name": "秋葉原 → みなとみらい（行李領回・移動）",
+          "lat": 35.6652,
+          "lng": 139.7418,
+          "time": "13:15–14:30",
+          "description": "秋葉原→東銀座（日比谷線）→領回行李→横浜方向（JR等）；約50分；準備赤レンガ散策",
+          "type": "transit"
+        },
+        {
+          "id": "minato-light-meal-rest",
+          "name": "みなとみらい 輕食・休息",
+          "lat": 35.4529486,
+          "lng": 139.6434541,
+          "time": "14:30–15:00",
+          "description": "抵達みなとみらいエリア後短暫休息；輕食補給",
+          "type": "restaurant"
         },
         {
           "id": "akarenga",
@@ -770,13 +799,31 @@
           "price": "免費"
         },
         {
-          "id": "shinyoko-hotel",
-          "name": "Super Hotel 新横浜 check-in",
+          "id": "movement-minato-to-shinyoko",
+          "name": "みなとみらい → 新横浜（チェックイン）",
           "lat": 35.5089,
           "lng": 139.6145,
-          "time": "17:45",
-          "description": "天然温泉付き；朝食無料；日産スタジアム步行10–12分",
+          "time": "16:00–17:00",
+          "description": "みなとみらい線→横浜線 約20分；抵達新横浜駅後 check-in Super Hotel",
+          "type": "transit"
+        },
+        {
+          "id": "shinyoko-hotel",
+          "name": "Super Hotel 新横浜 check-in + 休息",
+          "lat": 35.5089,
+          "lng": 139.6145,
+          "time": "16:00–18:30",
+          "description": "天然温泉付き；朝食無料；日産スタジアム步行10–12分；check-in 後短暫休息、盥洗",
           "type": "hotel"
+        },
+        {
+          "id": "movement-hotel-to-stadium",
+          "name": "Super Hotel 新横浜 → 日産スタジアム",
+          "lat": 35.5099771,
+          "lng": 139.6064006,
+          "time": "18:30–19:00",
+          "description": "步行 10–12分；提前到達排隊周邊商品；建議穿戴防暑用品（毛巾・水・防晒）",
+          "type": "transit"
         },
         {
           "id": "ado-1",
@@ -784,7 +831,7 @@
           "lat": 35.5099771,
           "lng": 139.6064006,
           "time": "19:00",
-          "description": "日産スタジアム（約72,000人）；屋外大型演唱會；已購票；散場後建議稍等，準備翌日行程",
+          "description": "日産スタジアム（約72,000人）；屋外大型演唱會；已購票；散場後建議稍等 30–45分（72,000人散場會很擁擠）",
           "type": "event",
           "price": "✅ 已購票"
         }
