@@ -406,6 +406,8 @@
 
     <script>
         let map;
+        let tileLayerZh = null;
+        let tileLayerEn = null;
         let markers = {};
         let allData = {};
         let currentMarkers = [];
@@ -488,6 +490,15 @@
         function setLang(lang) {
             currentLang = lang;
 
+            // Swap tile layer
+            if (lang === 'en') {
+                if (tileLayerZh && map.hasLayer(tileLayerZh)) map.removeLayer(tileLayerZh);
+                if (tileLayerEn && !map.hasLayer(tileLayerEn)) tileLayerEn.addTo(map);
+            } else {
+                if (tileLayerEn && map.hasLayer(tileLayerEn)) map.removeLayer(tileLayerEn);
+                if (tileLayerZh && !map.hasLayer(tileLayerZh)) tileLayerZh.addTo(map);
+            }
+
             document.getElementById('btn-en').classList.toggle('active', lang === 'en');
             document.getElementById('btn-zh').classList.toggle('active', lang === 'zh');
             document.documentElement.lang = lang === 'en' ? 'en' : 'zh-TW';
@@ -545,11 +556,22 @@
 
         function initMap() {
             map = L.map('map').setView([37.5, 138.5], 7);
-            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                attribution: '© OpenStreetMap contributors',
+
+            // Japanese labels (default)
+            tileLayerZh = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
                 maxZoom: 18,
                 minZoom: 6
-            }).addTo(map);
+            });
+
+            // English labels (CartoDB Voyager — no API key needed)
+            tileLayerEn = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+                attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors © <a href="https://carto.com/">CARTO</a>',
+                maxZoom: 19,
+                minZoom: 6
+            });
+
+            tileLayerZh.addTo(map);
         }
 
         // ── Data loading ─────────────────────────────────────────────
