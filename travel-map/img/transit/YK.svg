@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88">
+  <path fill="#F68C24" d="M74 88H14C6.3 88 0 81.7 0 74V14C0 6.3 6.3 0 14 0h60c7.7 0 14 6.3 14 14v60c0 7.7-6.3 14-14 14z"/>
+  <g fill="#FFF" font-family="'Helvetica Neue',Arial,sans-serif" font-weight="bold">
+    <text x="44" y="36" font-size="22" text-anchor="middle">ゆり</text>
+    <text x="44" y="62" font-size="22" text-anchor="middle">かもめ</text>
+  </g>
+</svg>

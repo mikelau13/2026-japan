@@ -77,7 +77,7 @@
           "lat": 35.637887,
           "lng": 139.788362,
           "time": "09:00–09:30",
-          "description": "ゆりかもめ 竹芝駅 → 有明テニスの森駅；約15–20分",
+          "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">ゆりかもめ 竹芝駅 → 有明テニスの森駅；約15–20分",
           "type": "transit"
         },
         {
@@ -96,7 +96,7 @@
           "lat": 35.6457334,
           "lng": 139.785686,
           "time": "12:30–12:35",
-          "description": "ゆりかもめ 有明テニスの森駅 → 市場前駅；極短距離 約5分；直達豐洲千客万来",
+          "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">ゆりかもめ 有明テニスの森駅 → 市場前駅；極短距離 約5分；直達豐洲千客万来",
           "type": "transit"
         },
         {
@@ -115,7 +115,7 @@
           "lat": 35.637887,
           "lng": 139.788362,
           "time": "14:00–14:05",
-          "description": "ゆりかもめ 市場前駅 → 有明テニスの森駅；約5分；午餐後返回景點區域",
+          "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">ゆりかもめ 市場前駅 → 有明テニスの森駅；約5分；午餐後返回景點區域",
           "type": "transit"
         },
         {
@@ -134,7 +134,7 @@
           "lat": 35.6247851,
           "lng": 139.7758551,
           "time": "17:00–17:15",
-          "description": "ゆりかもめ 有明テニスの森駅 → 青海駅；約15分；前往 DiverCity",
+          "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">ゆりかもめ 有明テニスの森駅 → 青海駅；約15分；前往 DiverCity",
           "type": "transit"
         },
         {
@@ -192,7 +192,7 @@
           "lat": 35.654578,
           "lng": 139.762111,
           "time": "21:10–21:30",
-          "description": "ゆりかもめ 台場駅 → 竹芝駅；約20分；返回 Hotel Tabinos 休息",
+          "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">ゆりかもめ 台場駅 → 竹芝駅；約20分；返回 Hotel Tabinos 休息",
           "type": "transit"
         }
       ]
@@ -218,7 +218,7 @@
           "lat": 35.6783,
           "lng": 139.6936,
           "time": "09:00–09:30",
-          "description": "JR山手線 竹芝駅→參宮橋駅 北上；約30分；前往明治神宮北入口",
+          "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR山手線 竹芝駅→參宮橋駅 北上；約30分；前往明治神宮北入口",
           "type": "transit",
           "note": "✅ 已驗證（latitude.to）"
         },
@@ -285,7 +285,7 @@
           "lat": 35.6895,
           "lng": 139.7003,
           "time": "14:15–14:45",
-          "description": "步行+轉乘；約30分；前往新宿歌舞伎町エリア",
+          "description": "<img src=\"img/transit/F.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">副都心線 明治神宮前→新宿三丁目（約4分）＋步行；合計約30分；前往新宿歌舞伎町エリア",
           "type": "transit",
           "note": "✅ 座標已驗證（latitude.to 新宿駅）"
         },
@@ -370,7 +370,7 @@
           "lat": 35.6906,
           "lng": 139.6926,
           "time": "19:50–20:00",
-          "description": "ゴールデン街から步行約12分 or 丸ノ内線約5分；確保20:00前到達",
+          "description": "<img src=\"img/transit/M.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">丸ノ内線 新宿三丁目→都庁前（約5分）；or 步行約12分；確保20:00前到達",
           "type": "transit",
           "note": "✅ 座標已驗證（Mapion）"
         },
@@ -391,7 +391,7 @@
           "lat": 35.654578,
           "lng": 139.762111,
           "time": "21:00–21:45",
-          "description": "丸ノ内線 都庁前駅→竹芝駅；約25分；返回 Hotel Tabinos 休息；準備次日早起出發越後湯沢",
+          "description": "<img src=\"img/transit/M.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">丸ノ内線 都庁前駅→竹芝駅；約25分；返回 Hotel Tabinos 休息；準備次日早起出發越後湯沢",
           "type": "transit"
         }
       ]
@@ -417,7 +417,7 @@
           "lat": 35.6652,
           "lng": 139.7418,
           "time": "09:00–09:30",
-          "description": "丸ノ内線 竹芝駅→赤坂見附駅（約5分）→步行至麻布台ヒルズ（約10分）",
+          "description": "<img src=\"img/transit/M.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">丸ノ内線 竹芝駅→赤坂見附駅（約5分）→步行至麻布台ヒルズ（約10分）",
           "type": "transit"
         },
         {
@@ -446,7 +446,7 @@
           "lat": 36.9353,
           "lng": 138.8074,
           "time": "12:45–13:00（彈性）",
-          "description": "丸ノ内線 赤坂見附駅→東京駅（約15分）；步行至新幹線乗車位置；上越新幹線 東京駅→越後湯沢駅 13:00–14:00（指定席推薦提前預訂：<a href=\"https://www.eki-net.biz/\" target=\"_blank\">えきねっと</a>）；列車內享受便當、沿途景色",
+          "description": "<img src=\"img/transit/M.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\"><img src=\"img/transit/JO.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">丸ノ内線 赤坂見附駅→東京駅（約15分）；步行至新幹線乗車位置；上越新幹線 東京駅→越後湯沢駅 13:00–14:00（指定席推薦提前預訂：<a href=\"https://www.eki-net.biz/\" target=\"_blank\">えきねっと</a>）；列車內享受便當、沿途景色",
           "type": "transit"
         },
         {
@@ -490,7 +490,7 @@
           "lat": 36.9725,
           "lng": 138.7498,
           "time": "10:00–10:30",
-          "description": "酒店駅步行3分；轉乘巴士（急行バス）；清津峡渓谷站下車；約30分；購票後直達停車場",
+          "description": "<img src=\"img/transit/bus.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">急行バス；駅步行3分；清津峡渓谷站下車；約30分；購票後直達停車場",
           "type": "transit"
         },
         {
@@ -509,7 +509,7 @@
           "lat": 36.9353,
           "lng": 138.8074,
           "time": "12:00–12:30",
-          "description": "巴士返回；約30分",
+          "description": "<img src=\"img/transit/bus.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">急行バス 返回湯沢駅；約30分",
           "type": "transit"
         },
         {
@@ -527,7 +527,7 @@
           "lat": 37.9108,
           "lng": 139.0638,
           "time": "13:00–13:45",
-          "description": "上越新幹線 Echigo-Yuzawa駅→Niigata駅；約45分；指定席推薦提前預訂（えきねっと）；新幹線內購買駅弁享受移動風景",
+          "description": "<img src=\"img/transit/JO.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">上越新幹線 Echigo-Yuzawa駅→Niigata駅；約45分；指定席推薦提前預訂（えきねっと）；新幹線內購買駅弁享受移動風景",
           "type": "transit"
         },
         {
@@ -649,7 +649,7 @@
           "lat": 35.6805,
           "lng": 139.7663,
           "time": "19:30–21:10",
-          "description": "上越新幹線→羽田・東京方向；約100分鐘；長途旅程後直接酒店休息",
+          "description": "<img src=\"img/transit/JO.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">上越新幹線→羽田・東京方向；約100分鐘；長途旅程後直接酒店休息",
           "type": "landmark"
         },
         {
@@ -746,7 +746,7 @@
           "lat": 35.6656,
           "lng": 139.7715,
           "time": "14:30–16:30",
-          "description": "日比谷線 浅草駅 → 東銀座駅；約20分；提早返回酒店為翌日做準備",
+          "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">日比谷線 浅草駅 → 東銀座駅；約20分；提早返回酒店為翌日做準備",
           "type": "transit"
         },
         {
@@ -821,7 +821,7 @@
           "lat": 35.6652,
           "lng": 139.7418,
           "time": "13:15–14:30",
-          "description": "秋葉原→東銀座（日比谷線）→領回行李→横浜方向（JR等）；約50分；準備赤レンガ散策",
+          "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\"><img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">日比谷線 秋葉原→東銀座（領回行李）→JR 横浜方向；約50分；準備赤レンガ散策",
           "type": "transit"
         },
         {
@@ -849,7 +849,7 @@
           "lat": 35.5089,
           "lng": 139.6145,
           "time": "16:00–17:00",
-          "description": "みなとみらい線→横浜線 約20分；抵達新横浜駅後 check-in Super Hotel",
+          "description": "<img src=\"img/transit/minatomirai.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">みなとみらい線→横浜線 約20分；抵達新横浜駅後 check-in Super Hotel",
           "type": "transit"
         },
         {
@@ -954,7 +954,7 @@
           "lat": 35.5089,
           "lng": 139.6145,
           "time": "16:30–17:00",
-          "description": "みなとみらい線→横浜線 約25分；返回酒店休息；為第二夜演唱會養精蓄銳",
+          "description": "<img src=\"img/transit/minatomirai.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">みなとみらい線→横浜線 約25分；返回酒店休息；為第二夜演唱會養精蓄銳",
           "type": "transit"
         },
         {
