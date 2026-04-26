@@ -86,7 +86,7 @@
           "lat": 35.637887,
           "lng": 139.788362,
           "time": "09:30–12:30",
-          "description": "【必辦】世界最大級迷你模型館；有明テニスの森駅 3分；建議2.5–3小時；或改為 Tokyo Dream Park 哆啦A夢展（上下午可二選一）",
+          "description": "【必辦】世界最大級迷你模型館；有明テニスの森駅 3分；建議2.5–3小時；或改為 Tokyo Dream Park 哆啦A夢展（上下午可二選一）；<a href=\"https://www.smallworlds.jp\" target=\"_blank\">官網</a>",
           "type": "attraction",
           "price": "大人3,200円・中高生2,100円"
         },
@@ -105,7 +105,7 @@
           "lat": 35.6457275,
           "lng": 139.7836383,
           "time": "13:00–14:00",
-          "description": "【必辦】豐洲駅附近美食廣場（市場前駅4分鐘）；自由選擇海鮮・丼・蕎麦等；大樓地下～3F；約1小時用餐；品嚐新鮮漁獲",
+          "description": "【必辦】豐洲駅附近美食廣場（市場前駅4分鐘）；自由選擇海鮮・丼・蕎麦等；大樓地下～3F；約1小時用餐；品嚐新鮮漁獲；<a href=\"https://www.toyosu-senkyakubanrai.jp\" target=\"_blank\">官網</a>",
           "type": "restaurant",
           "price": "價格自選（平均¥1,500–3,000/人）"
         },
@@ -237,7 +237,7 @@
           "lat": 35.6764,
           "lng": 139.6981,
           "time": "10:00–10:45",
-          "description": "日本最重要神社；免費；北入口進、東出口出；沿參道往南走；靜謐森林參道；與都市形成平靜對比",
+          "description": "日本最重要神社；免費；北入口進、東出口出；沿參道往南走；靜謐森林參道；與都市形成平靜對比；<a href=\"https://www.meijijingu.or.jp\" target=\"_blank\">官網</a>",
           "type": "shrine",
           "price": "免費"
         },
@@ -305,7 +305,7 @@
           "lat": 35.6954,
           "lng": 139.7018,
           "time": "15:45–15:55",
-          "description": "新宿東宝ビル8樓露台；著名地標；快速拍照；12米實物大哥斯拉雕像高聳於建築頂端；歌舞伎町象徵",
+          "description": "新宿東宝ビル8樓露台；著名地標；快速拍照；12米實物大哥斯拉雕像高聳於建築頂端；歌舞伎町象徵；<a href=\"https://www.toho.co.jp\" target=\"_blank\">東宝公式</a>",
           "type": "landmark",
           "price": "免費",
           "note": "✅ 座標已驗證（latitude.to）；地址：歌舞伎町1-19-1"
@@ -337,7 +337,7 @@
           "lat": 35.6937,
           "lng": 139.7049,
           "time": "19:30–19:50",
-          "description": "歌舞伎町旁六條窄巷；約200間迷你小酒吧密集；二戰後木造建築保留至今；夜燈全開氣氛最佳；純拍照散策完全免費；ゴジラヘッドから徒步3分",
+          "description": "歌舞伎町旁六條窄巷；約200間迷你小酒吧密集；二戰後木造建築保留至今；夜燈全開氣氛最佳；純拍照散策完全免費；ゴジラヘッドから徒步3分；<a href=\"https://goldengai.jp\" target=\"_blank\">官網</a>",
           "type": "area",
           "price": "免費（只散策）",
           "note": "✅ 座標已驗證（NAVITIME：35.6937, 139.7049）"
@@ -358,7 +358,7 @@
           "lat": 35.6872,
           "lng": 139.6887,
           "time": "20:00–21:00",
-          "description": "東京都庁舎前（都庁前駅直結）；新宿特殊大型投影映射秀；每晚20:00–21:00點亮（需出發前確認營運狀況）；免費；璀璨光影秀；東京夜景必看體驗",
+          "description": "東京都庁舎前（都庁前駅直結）；新宿特殊大型投影映射秀；每晚20:00–21:00點亮（需出發前確認營運狀況）；免費；璀璨光影秀；東京夜景必看體驗；<a href=\"https://tokyoprojectionmappingproject.jp/en/\" target=\"_blank\">公式サイト</a>",
           "type": "attraction",
           "price": "免費",
           "note": "✅ 座標已驗證（latitude.to 東京都庁舎）"
@@ -559,7 +559,7 @@
           "lat": 37.9548,
           "lng": 139.3258,
           "time": "09:15–10:00",
-          "description": "明治迎賓館；日式外觀＋西式內裝；龍紋天花板；大理石馬賽克地板",
+          "description": "明治迎賓館；日式外觀＋西式內裝；龍紋天花板；大理石馬賽克地板；<a href=\"https://shibata-machi-meguri.com/zoushunkaku\" target=\"_blank\">官網</a>",
           "type": "museum",
           "price": "大人500円・中高生約400円"
         },
@@ -569,7 +569,7 @@
           "lat": 37.943398,
           "lng": 139.3284003,
           "time": "10:10–11:00",
-          "description": "大名庭園；6月底睡蓮・菖蒲初開；苔庭・池泉・茶室",
+          "description": "大名庭園；6月底睡蓮・菖蒲初開；苔庭・池泉・茶室；<a href=\"https://hoppou-bunka.com\" target=\"_blank\">官網</a>",
           "type": "garden",
           "price": "大人700円・中高生約700円"
         },
@@ -579,7 +579,7 @@
           "lat": 37.9547806,
           "lng": 139.3260149,
           "time": "11:10–12:00",
-          "description": "三隻鯱天守（日本百名城 #17）；外圍免費；復原建築需確認開放時間",
+          "description": "三隻鯱天守（日本百名城 #17）；外圍免費；復原建築需確認開放時間；<a href=\"https://www.city.shibata.lg.jp\" target=\"_blank\">新発田市公式</a>",
           "type": "castle",
           "price": "外圍免費"
         },
@@ -589,7 +589,7 @@
           "lat": 37.9293,
           "lng": 139.1638,
           "time": "13:00–14:00",
-          "description": "免費入場；超特大繪畫煎餅手燒＆調味（平日限定，需預約）",
+          "description": "免費入場；超特大繪畫煎餅手燒＆調味（平日限定，需預約）；<a href=\"http://senbei-oukoku.jp/\" target=\"_blank\">官網</a>",
           "type": "experience",
           "price": "超特大2,500円/人 或 特大1,800円/人"
         },
