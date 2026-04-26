@@ -274,7 +274,7 @@
           "lat": 35.6707,
           "lng": 139.7050,
           "time": "12:45–13:45",
-          "description": "🎠 小動物互動樂園（FLEG原宿地下1樓）；1小時體驗限制（旺季規則）；竹下通附近；拍照打卡熱點；全年齡適合；必須提前網上購票；可與小動物互動（兔子、天竺鼠、刺蝟、倉鼠等）",
+          "description": "🎠 小動物互動樂園（FLEG原宿地下1樓）；1小時體驗限制（旺季規則）；竹下通附近；拍照打卡熱點；全年齡適合；可與小動物互動（兔子、天竺鼠、刺蝟、倉鼠等）；必須提前購票：<a href=\"https://harajukukawaiiland-kyunkyun.com\" target=\"_blank\">官網</a> 或 <a href=\"https://www.asoview.com\" target=\"_blank\">Asoview</a>",
           "type": "attraction",
           "price": "大人¥2,300・小孩（12歳以下）¥1,200・3歳以下無料",
           "note": "✅ 座標已驗證（Yahoo!マップ）；官網：harajukukawaiiland-kyunkyun.com；可於Asoview/Jalan等預約平台購票享折扣"
@@ -322,13 +322,14 @@
         },
         {
           "id": "shinjuku-dinner",
-          "name": "🍽️ 新宿晚餐",
-          "lat": 35.6895,
-          "lng": 139.7003,
+          "name": "🍜 元祖油堂 歌舞伎町店",
+          "lat": 35.6954,
+          "lng": 139.7018,
           "time": "19:00–19:30",
-          "description": "新宿駅周邊；Isetan美食街、拉麵、定食、迴轉壽司等眾多選擇",
+          "description": "油そば専門店；歌舞伎町1-4-8；ゴジラヘッドから徒步1分；營業 11:00–翌5:00；<a href=\"https://shop.ganso-aburado.com/japan/detail/112427/\" target=\"_blank\">公式サイト</a>",
           "type": "restaurant",
-          "note": "✅ 座標已驗證（latitude.to 新宿駅）"
+          "price": "約¥800–1,200/人",
+          "note": "✅ 座標沿用ゴジラヘッド（歌舞伎町1丁目エリア）"
         },
         {
           "id": "shinjuku-golden-gai",
@@ -403,7 +404,7 @@
           "lat": 35.6652,
           "lng": 139.7418,
           "time": "09:30–12:30",
-          "description": "無邊界沉浸式藝術體驗；多個房間連貫世界；光影互動展示；建議3小時充分遊覽；必須提前網上購票（https://www.teamlab.art/jp/）；兩位未成年孩童也能享受視覺盛宴",
+          "description": "無邊界沉浸式藝術體驗；多個房間連貫世界；光影互動展示；建議3小時充分遊覽；必須提前購票：<a href=\"https://www.teamlab.art/jp/\" target=\"_blank\">官網購票</a>；兩位未成年孩童也能享受視覺盛宴",
           "type": "attraction",
           "price": "大人3,600円・中高生2,800円"
         },
@@ -423,7 +424,7 @@
           "lat": 36.9353,
           "lng": 138.8074,
           "time": "12:45–13:00（彈性）",
-          "description": "丸ノ内線 赤坂見附駅→東京駅（約15分）；步行至新幹線乗車位置；上越新幹線 東京駅→越後湯沢駅 13:00–14:00（指定席推薦提前預訂：えきねっと https://www.eki-net.biz/）；列車內享受便當、沿途景色",
+          "description": "丸ノ内線 赤坂見附駅→東京駅（約15分）；步行至新幹線乗車位置；上越新幹線 東京駅→越後湯沢駅 13:00–14:00（指定席推薦提前預訂：<a href=\"https://www.eki-net.biz/\" target=\"_blank\">えきねっと</a>）；列車內享受便當、沿途景色",
           "type": "transit"
         },
         {
@@ -672,7 +673,7 @@
           "lat": 35.6694253,
           "lng": 139.7677446,
           "time": "11:00–11:17",
-          "description": "廓三番叟（Kuruwa Sanbaso）；祝儀舞踊（慶祝性傳統舞蹈）；4樓幕見席；朝の部（昼の部）開演；演出約17分鐘；高級芸妓（傾城）・芸妓修習者（新造）・招待者（幇間）による吉原花街の優雅な舞踏と語り；提前一天（7/2 12:00）在線購票：https://www.e-tix.jp/shochiku_makumi/ ；幕間（11:17–11:30）時間拍照最佳；4樓特色：視野有限但低価格；英語字幕導覽可租借（¥1,000/台）；撮影禁止時間中；表演前後・幕間は撮影可",
+          "description": "廓三番叟（Kuruwa Sanbaso）；祝儀舞踊（慶祝性傳統舞蹈）；4樓幕見席；朝の部（昼の部）開演；演出約17分鐘；高級芸妓（傾城）・芸妓修習者（新造）・招待者（幇間）による吉原花街の優雅な舞踏と語り；提前一天（7/2 12:00）<a href=\"https://www.e-tix.jp/shochiku_makumi/\" target=\"_blank\">一幕見席オンライン購票</a>；幕間（11:17–11:30）時間拍照最佳；4樓特色：視野有限但低価格；英語字幕導覽可租借（¥1,000/台）；撮影禁止時間中；表演前後・幕間は撮影可",
           "type": "theater",
           "price": "¥1,000/人（提前預購）"
         },
@@ -702,7 +703,7 @@
           "lat": 35.7115126,
           "lng": 139.7917746,
           "time": "13:00–14:00",
-          "description": "英語ガイド付き；甲冑体験・手裏剣；約60分；建議提前網上預約時段（https://www.samuraininja-museum.com/）；東本願寺から徒歩3分",
+          "description": "英語ガイド付き；甲冑体験・手裏剣；約60分；<a href=\"https://www.samuraininja-museum.com/\" target=\"_blank\">官網預約</a>；東本願寺から徒歩3分",
           "type": "museum",
           "price": "3,000円/人（4人計12,000円）"
         },
@@ -955,7 +956,7 @@
           "lat": 35.5360,
           "lng": 139.7325,
           "time": "10:35-12:30",
-          "description": "1128年創建的古寺；參拜＋仲見世通り購物美食體驗；[詳情](http://kawasakidaishi-kanko.com/)",
+          "description": "1128年創建的古寺；參拜＋仲見世通り購物美食體驗；<a href=\"http://kawasakidaishi-kanko.com/\" target=\"_blank\">詳情</a>",
           "type": "temple",
           "price": "免費"
         },
