@@ -260,7 +260,7 @@
     },
     "shimizu-en": {
       "name": "清水園 (Shimizu-en Garden)",
-      "description": "Traditional Japanese garden formerly attached to the Mizoguchi clan in Shibata; peaceful strolling garden; <a href=\"https://www.city.shibata.lg.jp\" target=\"_blank\">Shibata City Site</a>",
+      "description": "Traditional Japanese garden formerly attached to the Mizoguchi clan in Shibata; peaceful strolling garden; <a href=\"https://hoppou-bunka.com/shimizuen/\" target=\"_blank\">Official Site</a>",
       "price": "Free"
     },
     "shibata-castle": {
@@ -441,6 +441,11 @@
     "nakamise-dori": {
       "name": "仲見世通り (Nakamise Shopping Street)",
       "description": "Temple approach shopping street; traditional crafts, souvenirs, food; last Japan shopping before departure"
+    },
+    "kawasaki-yakuyoke-mon": {
+      "name": "📸 Kawasaki Daishi – Yakuyoke-mon Gate (大山門)",
+      "description": "Iconic vermillion main gate at the Nakamise-dori entrance; symbol of Kawasaki Daishi; quick photo stop only; free",
+      "price": "Free"
     },
     "haneda-return": {
       "name": "Haneda Airport – International Departure",
