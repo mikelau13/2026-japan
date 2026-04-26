@@ -23,16 +23,16 @@
     },
     "divercity-evening": {
       "name": "DiverCity Dinner + Flexible Evening",
-      "description": "Takeiba→Aomi (10 min)→DiverCity; dinner 18:00–20:00; if energized: Gundam Night Show (20:00) + Aqua Symphony (20:30); if tired: return hotel"
+      "description": "Takeiba→Aomi (10 min)→DiverCity; dinner 18:00–20:00; if energized: Gundam Night Show (20:00) + Aqua Symphony (20:30); if tired: return hotel; <a href=\"https://mitsui-shopping-park.com/divercity-tokyo/info/2670391.html\" target=\"_blank\">DiverCity Official</a>"
     },
     "gundam-night-optional-26": {
       "name": "Unicorn Gundam Night Show (6/26 Optional)",
-      "description": "[Optional] Free; 19.7m life-size; spectacular light show every 30 min from 19:00",
+      "description": "[Optional] Free; 19.7m life-size; spectacular light show every 30 min from 19:00; <a href=\"https://www.unicorn-gundam-statue.jp/\" target=\"_blank\">Official Site</a>",
       "price": "Free"
     },
     "aqua-symphony-optional-26": {
       "name": "Tokyo Aqua Symphony (6/26 Optional)",
-      "description": "[Optional] Free; Odaiba Marine Park; 15–20 min walk from DiverCity; 10-min fountain show; 20:00 or 21:00 show",
+      "description": "[Optional] Free; Odaiba Marine Park; 15–20 min walk from DiverCity; 10-min fountain show; 20:00 or 21:00 show; <a href=\"https://tokyoaquasymphony.jp/en/\" target=\"_blank\">Official Site</a>",
       "price": "Free"
     },
     "hotel-breakfast": {
@@ -62,7 +62,7 @@
     },
     "tokyo-dream-park": {
       "name": "🎡 Tokyo Dream Park",
-      "description": "[Must-do] Ariake; 6F rooftop plaza + Shohei Ohtani golden statue FREE; 100% Doraemon Exhibition ¥2,400 (weekend pre-sale, optional); 2–3 hrs",
+      "description": "[Must-do] Ariake; 6F rooftop plaza + Shohei Ohtani golden statue FREE; 100% Doraemon Exhibition ¥2,400 (weekend pre-sale, optional); 2–3 hrs; <a href=\"https://tdp.tv-asahi.co.jp/\" target=\"_blank\">Official Site</a>",
       "price": "Rooftop free; Doraemon: Adult ¥2,400 · Student ¥1,800"
     },
     "movement-to-odaiba": {
@@ -71,7 +71,7 @@
     },
     "divercity-afternoon": {
       "name": "🎮 DiverCity Afternoon (Flexible)",
-      "description": "Choose freely: ✅ Unko Museum (1–1.5h) ✅ Gundam Base Tokyo 5F (free) ✅ Unicorn Gundam statue photo ✅ Shopping & café",
+      "description": "Choose freely: ✅ <a href=\"https://unkomuseum.com/tokyo/\" target=\"_blank\">Unko Museum</a> (1–1.5h) ✅ Gundam Base Tokyo 5F (free) ✅ Unicorn Gundam statue photo ✅ Shopping & café; <a href=\"https://mitsui-shopping-park.com/divercity-tokyo/info/2670391.html\" target=\"_blank\">DiverCity Official</a>",
       "price": "Unko Museum ¥2,000+; others free"
     },
     "divercity-dinner": {
@@ -81,7 +81,7 @@
     },
     "gundam-night": {
       "name": "🌃 Unicorn Gundam Night Show",
-      "description": "Free; 19.7m life-size; light & sound show every 30 min; recommended 20:00 show",
+      "description": "Free; 19.7m life-size; light & sound show every 30 min; recommended 20:00 show; <a href=\"https://www.unicorn-gundam-statue.jp/\" target=\"_blank\">Official Site</a>",
       "price": "Free"
     },
     "movement-to-odaiba-bay": {
@@ -90,7 +90,7 @@
     },
     "aqua-symphony": {
       "name": "💦 Tokyo Aqua Symphony Night Fountain Show",
-      "description": "Free; 3 min from Odaiba Stn; 10 shows/day (11–21:00, no 16:00); recommended 21:00 show; ~10 min",
+      "description": "Free; 3 min from Odaiba Stn; 10 shows/day (11–21:00, no 16:00); recommended 21:00 show; ~10 min; <a href=\"https://tokyoaquasymphony.jp/en/\" target=\"_blank\">Official Site</a>",
       "price": "Free"
     },
     "movement-return-to-hotel": {
@@ -191,7 +191,7 @@
     },
     "teamlab-29": {
       "name": "🎨 teamLab Borderless – Azabudai Hills [Highlight]",
-      "description": "[Must-do] Boundary-less immersive digital art; interconnected rooms; light & interactive installations; 3 hrs recommended; must pre-book online; <a href=\"https://www.teamlab.art/jp/\" target=\"_blank\">Book Tickets</a>",
+      "description": "[Must-do] Boundary-less immersive digital art; interconnected rooms; light & interactive installations; 3 hrs recommended; must pre-book online; <a href=\"https://www.teamlab.art/jp/e/tokyo/\" target=\"_blank\">Book Tickets</a>",
       "price": "Adult ¥3,600 · Student (13–17) ¥2,800"
     },
     "azabudai-optional-shrines": {
@@ -209,7 +209,7 @@
     },
     "yuzawa-hotel": {
       "name": "湯沢グランドホテル (Yuzawa Grand Hotel)",
-      "description": "3 min walk from station; large communal onsen bath + outdoor bath; all-you-can-eat dinner & breakfast (Japanese/Western/Chinese); free luggage storage for 6/30 Kiyotsu trip"
+      "description": "3 min walk from station; large communal onsen bath + outdoor bath; all-you-can-eat dinner & breakfast (Japanese/Western/Chinese); free luggage storage for 6/30 Kiyotsu trip; <a href=\"https://yuzawagrandhotel.jp/\" target=\"_blank\">Official Site</a>"
     },
     "yuzawa-checkout": {
       "name": "Hotel Checkout + Luggage Storage",
@@ -221,7 +221,7 @@
     },
     "kiyotsu-gorge-morning": {
       "name": "🏞️ Kiyotsu Gorge Tunnel ～Mirror Reflection～ [Highlight]",
-      "description": "One of Japan's three great gorges; 750m observation tunnel with stunning 'water mirror' art installation at the far end (best on sunny days); ~1.5 hrs; arrive early for fewer crowds",
+      "description": "One of Japan's three great gorges; 750m observation tunnel with stunning 'water mirror' art installation at the far end (best on sunny days); ~1.5 hrs; arrive early for fewer crowds; <a href=\"https://nakasato-kiyotsu.com/tunnel/\" target=\"_blank\">Official Site</a>",
       "price": "Adult ¥1,200 · Student ¥500"
     },
     "movement-kiyotsu-to-yuzawa": {
@@ -289,11 +289,11 @@
     },
     "ginza-hotel": {
       "name": "Via Inn Higashi-Ginza – Check-in",
-      "description": "2-15-13 Tsukiji; check in and rest; Tsukiji market and all Day 7 sights are within easy walking distance"
+      "description": "2-15-13 Tsukiji; check in and rest; Tsukiji market and all Day 7 sights are within easy walking distance; <a href=\"https://www.viainn.com/higashiginza/\" target=\"_blank\">Official Site</a>"
     },
     "tsukiji-market": {
       "name": "Tsukiji Outer Market (築地場外市場)",
-      "description": "Breakfast recommended; 5 min walk; fresh seafood, tamagoyaki, sushi; open from 06:00; morning = freshest produce and best atmosphere",
+      "description": "Breakfast recommended; 5 min walk; fresh seafood, tamagoyaki, sushi; open from 06:00; morning = freshest produce and best atmosphere; <a href=\"https://www.tsukiji.or.jp/\" target=\"_blank\">Official Site</a>",
       "price": "Varies by stall"
     },
     "tsukiji-honganji": {
@@ -308,12 +308,12 @@
     },
     "senso-ji": {
       "name": "Senso-ji Temple, Kaminarimon & Nakamise",
-      "description": "Tokyo's most visited temple; free; iconic Kaminarimon thunder gate; Nakamise shopping street; morning = fewer crowds",
+      "description": "Tokyo's most visited temple; free; iconic Kaminarimon thunder gate; Nakamise shopping street; morning = fewer crowds; <a href=\"https://www.senso-ji.jp/guide/guide02.html\" target=\"_blank\">Official Site</a>",
       "price": "Free"
     },
     "higashi-hongan-ji": {
       "name": "Higashi Hongan-ji (Asakusa)",
-      "description": "Free; West Asakusa 1-5-5; 5 min walk from Senso-ji; peaceful alternative temple worth a quick visit",
+      "description": "Free; West Asakusa 1-5-5; 5 min walk from Senso-ji; peaceful alternative temple worth a quick visit; <a href=\"https://www.higashihonganji.or.jp/\" target=\"_blank\">Official Site</a>",
       "price": "Free"
     },
     "samurai-ninja": {
@@ -336,7 +336,7 @@
     },
     "tsukiji-market-morning": {
       "name": "Tsukiji Market (Quick Breakfast)",
-      "description": "Quick breakfast before checkout; fresh seafood, tamagoyaki, sushi; open from 06:00",
+      "description": "Quick breakfast before checkout; fresh seafood, tamagoyaki, sushi; open from 06:00; <a href=\"https://www.tsukiji.or.jp/\" target=\"_blank\">Official Site</a>",
       "price": "Varies by stall"
     },
     "hotel-checkout-4": {
@@ -349,7 +349,7 @@
     },
     "akiba-fukurou-owl-cafe-4": {
       "name": "🦉 Akiba Fukurou Owl Cafe",
-      "description": "Owl interaction experience; must pre-book; cash only; cute owls, photos, food & drink; 1-hr session in Akihabara",
+      "description": "Owl interaction experience; must pre-book; cash only; cute owls, photos, food & drink; 1-hr session in Akihabara; <a href=\"https://visit-chiyoda.tokyo/app/en/spot/detail/729\" target=\"_blank\">Info</a>",
       "price": "¥3,300/person"
     },
     "akihabara-afternoon-shopping": {
@@ -366,7 +366,7 @@
     },
     "akarenga": {
       "name": "赤レンガ倉庫 (Red Brick Warehouse) + Harbour Walk",
-      "description": "Free; photogenic Meiji-era red brick warehouses; Yokohama harbour scenery; beautiful in late afternoon light",
+      "description": "Free; photogenic Meiji-era red brick warehouses; Yokohama harbour scenery; beautiful in late afternoon light; <a href=\"https://www.yokohama-akarenga.jp/\" target=\"_blank\">Official Site</a>",
       "price": "Free"
     },
     "movement-minato-to-shinyoko": {
@@ -402,7 +402,7 @@
     },
     "cup-noodles": {
       "name": "カップヌードルミュージアム (Cup Noodles Museum)",
-      "description": "Hands-on food museum; create your own original Cup Noodle flavour; Chicken Ramen factory workshop; fun for all ages",
+      "description": "Hands-on food museum; create your own original Cup Noodle flavour; Chicken Ramen factory workshop; fun for all ages; <a href=\"https://www.cupnoodles-museum.jp/ja/yokohama/\" target=\"_blank\">Official Site</a>",
       "price": "Adult ¥500 · Under 12 free; Custom Cup Noodle +¥500; Chicken Ramen workshop +¥500"
     },
     "air-cabin": {
