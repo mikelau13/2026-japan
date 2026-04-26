@@ -200,7 +200,7 @@
     {
       "date": "2026-06-28",
       "day": "Day 2",
-      "title": "新宿 + 原宿 全天行程 ～投影映射夜景必看～",
+      "title": "原宿 + 新宿 全天行程 ～投影映射夜景必看～",
       "segment": "SEG1",
       "locations": [
         {
@@ -213,48 +213,12 @@
           "type": "restaurant"
         },
         {
-          "id": "movement-hotel-to-shinjuku",
-          "name": "竹芝駅 → 新宿駅",
-          "lat": 35.6901,
-          "lng": 139.7005,
-          "time": "09:00–09:40",
-          "description": "JR山手線 竹芝駅→新宿駅；約40分；或東京メトロ副都心線；下車後往新宿三丁目方向",
-          "type": "transit"
-        },
-        {
-          "id": "shinjuku-morning",
-          "name": "🏙️ 新宿早上活動",
-          "lat": 35.6901,
-          "lng": 139.7005,
-          "time": "09:40–12:00",
-          "description": "新宿三丁目駅周邊；自由選擇：思い出横丁（懷舊街景）、小商店咖啡館、Shinjuku Gyoen國立公園（免費；綠意盎然）、逛街購物；約2.5小時彈性活動",
-          "type": "area"
-        },
-        {
-          "id": "shinjuku-lunch",
-          "name": "🍽️ 新宿午餐",
-          "lat": 35.6901,
-          "lng": 139.7005,
-          "time": "12:00–13:30",
-          "description": "新宿駅周邊；Isetan百貨B1美食街、或拉麵小店、定食屋、迴轉壽司等眾多選擇；充足用餐時間",
-          "type": "restaurant"
-        },
-        {
-          "id": "shinjuku-afternoon-shopping",
-          "name": "🛍️ 新宿下午購物・逛街",
-          "lat": 35.6901,
-          "lng": 139.7005,
-          "time": "13:30–15:00",
-          "description": "Isetan、Takashimaya、Don Quijote超巨型折扣店、小型boutique；店家眾多；下午半天購物體驗",
-          "type": "shopping"
-        },
-        {
-          "id": "movement-shinjuku-to-harajuku",
-          "name": "新宿駅 → 原宿駅",
+          "id": "movement-hotel-to-harajuku",
+          "name": "竹芝駅 → 原宿駅",
           "lat": 35.6694,
           "lng": 139.7050,
-          "time": "15:00–15:20",
-          "description": "JR山手線 新宿駅→原宿駅；直達；約15–20分",
+          "time": "09:00–09:40",
+          "description": "JR山手線 竹芝駅→原宿駅；約40分；下車後往原宿駅方向",
           "type": "transit"
         },
         {
@@ -262,7 +226,7 @@
           "name": "🚶 竹下通り + 周邊散策",
           "lat": 35.6694,
           "lng": 139.7050,
-          "time": "15:20–17:00",
+          "time": "09:40–11:30",
           "description": "原宿駅直結；世界最著名青少年時尚街；H&M、Forever 21、日本原創小店、Crepes、雜貨店；人潮眾多但充滿活力；約1.5小時遊覽",
           "type": "area"
         },
@@ -271,8 +235,8 @@
           "name": "⛩️ 明治神宮",
           "lat": 35.6764,
           "lng": 139.6981,
-          "time": "17:00–17:45",
-          "description": "原宿駅步行5–10分；日本最重要神社；免費；靜謐森林參道；與上午鬧區形成平靜對比",
+          "time": "11:30–12:15",
+          "description": "原宿駅步行5–10分；日本最重要神社；免費；靜謐森林參道；與鬧區形成平靜對比",
           "type": "shrine",
           "price": "免費"
         },
@@ -281,26 +245,72 @@
           "name": "🚶 表參道（Omotesando）",
           "lat": 35.6694,
           "lng": 139.7091,
-          "time": "17:45–18:30",
-          "description": "明治神宮周邊；東京最高級購物街；LV、Gucci、Prada精品旗艦店；建築設計優美；逛街+拍照+咖啡",
+          "time": "12:15–13:15",
+          "description": "明治神宮周邊；東京最高級購物街；LV、Gucci、Prada精品旗艦店；建築優美；逛街+咖啡",
           "type": "shopping"
         },
         {
-          "id": "harajuku-dinner",
-          "name": "🍽️ 原宿晚餐",
+          "id": "harajuku-lunch",
+          "name": "🍽️ 原宿午餐",
           "lat": 35.6694,
           "lng": 139.7050,
-          "time": "18:30–19:30",
-          "description": "竹下通附近、表參道周邊餐廳；壽司、拉麵、義大利麵、各式選擇豐富",
+          "time": "13:15–13:30",
+          "description": "表參道附近餐廳；壽司、拉麵、義大利麵等選擇",
           "type": "restaurant"
         },
         {
-          "id": "movement-harajuku-to-tochomae",
-          "name": "原宿 → 都庁前駅（新宿）",
+          "id": "movement-harajuku-to-shinjuku3",
+          "name": "原宿 → 新宿3丁目（東新宿）",
+          "lat": 35.6694,
+          "lng": 139.7024,
+          "time": "13:30–14:00",
+          "description": "JR山手線 原宿駅→新宿駅（約15分）→步行至新宿3丁目（約10分）",
+          "type": "transit"
+        },
+        {
+          "id": "shinjuku-takashimaya",
+          "name": "🛍️ 新宿髙島屋",
+          "lat": 35.6694,
+          "lng": 139.7024,
+          "time": "14:00–15:30",
+          "description": "新宿3丁目；高端百貨店；精選品牌、化妝品、地下美食街（depachika）；購物+美食體驗；約1.5小時",
+          "type": "shopping"
+        },
+        {
+          "id": "godzilla-head",
+          "name": "🎬 ゴジラヘッド（東宝ビル）",
+          "lat": 35.6694,
+          "lng": 139.7024,
+          "time": "15:30–15:40",
+          "description": "新宿3丁目東宝ビル；著名地標；快速拍照；哥斯拉雕像高聳於建築頂端",
+          "type": "landmark",
+          "price": "免費"
+        },
+        {
+          "id": "shinjuku-afternoon-shopping",
+          "name": "🛍️ 新宿周邊購物・散策",
+          "lat": 35.6901,
+          "lng": 139.7005,
+          "time": "15:40–18:30",
+          "description": "新宿3丁目→新宿駅周邊；Isetan、Don Quijote等店家；彈性購物、休息、準備晚餐",
+          "type": "shopping"
+        },
+        {
+          "id": "shinjuku-dinner",
+          "name": "🍽️ 新宿晚餐",
+          "lat": 35.6901,
+          "lng": 139.7005,
+          "time": "18:00–18:30",
+          "description": "新宿駅周邊；Isetan美食街、拉麵、定食、迴轉壽司等眾多選擇",
+          "type": "restaurant"
+        },
+        {
+          "id": "movement-shinjuku-to-tochomae",
+          "name": "新宿 → 都庁前駅",
           "lat": 35.6905,
           "lng": 139.6926,
-          "time": "19:30–20:00",
-          "description": "JR山手線 原宿駅→新宿駅（約15分）→地鐵丸ノ内線 新宿駅→都庁前駅（約5分）；或步行至都廳；預留時間確保20:00前準時到達",
+          "time": "18:30–19:30",
+          "description": "新宿駅→地鐵丸ノ内線→都庁前駅（約10分）；或步行至都廳；預留時間確保20:00前準時到達",
           "type": "transit"
         },
         {
