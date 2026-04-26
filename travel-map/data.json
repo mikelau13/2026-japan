@@ -213,30 +213,31 @@
           "type": "restaurant"
         },
         {
-          "id": "movement-hotel-to-harajuku",
-          "name": "竹芝駅 → 原宿駅",
-          "lat": 35.6694,
-          "lng": 139.7050,
-          "time": "09:00–09:40",
-          "description": "JR山手線 竹芝駅→原宿駅；約40分；下車後往原宿駅方向",
+          "id": "movement-hotel-to-sangubashi",
+          "name": "竹芝駅 → 參宮橋駅",
+          "lat": 35.6783,
+          "lng": 139.6936,
+          "time": "09:00–09:30",
+          "description": "JR山手線 竹芝駅→參宮橋駅 北上；約30分；前往明治神宮北入口",
+          "type": "transit",
+          "note": "✅ 已驗證（latitude.to）"
+        },
+        {
+          "id": "movement-sangubashi-to-meiji-north",
+          "name": "參宮橋駅 → 明治神宮北入口",
+          "lat": 35.6783,
+          "lng": 139.6936,
+          "time": "09:30–10:00",
+          "description": "步行；約30分；進入靜謐森林區域",
           "type": "transit"
         },
         {
-          "id": "harajuku-takeshita",
-          "name": "🚶 竹下通り + 周邊散策",
-          "lat": 35.6694,
-          "lng": 139.7050,
-          "time": "09:40–11:30",
-          "description": "原宿駅直結；世界最著名青少年時尚街；H&M、Forever 21、日本原創小店、Crepes、雜貨店；人潮眾多但充滿活力；約1.5小時遊覽",
-          "type": "area"
-        },
-        {
           "id": "harajuku-meiji-shrine",
-          "name": "⛩️ 明治神宮",
+          "name": "⛩️ 明治神宮散步（參道・森林）",
           "lat": 35.6764,
           "lng": 139.6981,
-          "time": "11:30–12:15",
-          "description": "原宿駅步行5–10分；日本最重要神社；免費；靜謐森林參道；與鬧區形成平靜對比",
+          "time": "10:00–10:45",
+          "description": "日本最重要神社；免費；北入口進、東出口出；沿參道往南走；靜謐森林參道；與都市形成平靜對比",
           "type": "shrine",
           "price": "免費"
         },
@@ -245,26 +246,46 @@
           "name": "🚶 表參道（Omotesando）",
           "lat": 35.6694,
           "lng": 139.7091,
-          "time": "12:15–13:15",
-          "description": "明治神宮周邊；東京最高級購物街；LV、Gucci、Prada精品旗艦店；建築優美；逛街+咖啡",
+          "time": "10:45–11:30",
+          "description": "明治神宮東出口直接銜接；東京最高級購物街；LV、Gucci、Prada精品旗艦店；建築優美；邊走邊吃可選",
           "type": "shopping"
         },
         {
-          "id": "harajuku-lunch",
-          "name": "🍽️ 原宿午餐",
+          "id": "movement-omotesando-to-takeshita",
+          "name": "表參道 → 竹下通",
           "lat": 35.6694,
           "lng": 139.7050,
-          "time": "13:15–13:30",
-          "description": "表參道附近餐廳；壽司、拉麵、義大利麵等選擇",
-          "type": "restaurant"
+          "time": "11:30–12:00",
+          "description": "步行往南；約30分；沿路風景優美",
+          "type": "transit"
         },
         {
-          "id": "movement-harajuku-to-shinjuku3",
-          "name": "原宿 → 新宿3丁目（東新宿）",
+          "id": "harajuku-takeshita",
+          "name": "🚶 竹下通り散策＋邊走邊吃",
+          "lat": 35.6694,
+          "lng": 139.7050,
+          "time": "12:00–12:45",
+          "description": "世界最著名青少年時尚街；H&M、Forever 21、日本原創小店、Crepes、雜貨；人潮眾多但充滿活力；邊走邊吃小食；約45分遊覽",
+          "type": "area"
+        },
+        {
+          "id": "harajuku-kawaii-land",
+          "name": "💗 かわいいランドキュンキュン【重點】",
+          "lat": 35.6707,
+          "lng": 139.7050,
+          "time": "12:45–13:45",
+          "description": "🎠 小動物互動樂園（FLEG原宿地下1樓）；1小時體驗限制（旺季規則）；竹下通附近；拍照打卡熱點；全年齡適合；必須提前網上購票；可與小動物互動（兔子、天竺鼠、刺蝟、倉鼠等）",
+          "type": "attraction",
+          "price": "大人¥2,300・小孩（12歳以下）¥1,200・3歳以下無料",
+          "note": "✅ 座標已驗證（Yahoo!マップ）；官網：harajukukawaiiland-kyunkyun.com；可於Asoview/Jalan等預約平台購票享折扣"
+        },
+        {
+          "id": "movement-takeshita-to-shinjuku3",
+          "name": "竹下通 → 新宿3丁目",
           "lat": 35.6694,
           "lng": 139.7024,
-          "time": "13:30–14:00",
-          "description": "JR山手線 原宿駅→新宿駅（約15分）→步行至新宿3丁目（約10分）",
+          "time": "13:45–14:15",
+          "description": "步行+轉乘；約30分；前往新宿購物區",
           "type": "transit"
         },
         {
@@ -272,7 +293,7 @@
           "name": "🛍️ 新宿髙島屋",
           "lat": 35.6694,
           "lng": 139.7024,
-          "time": "14:00–15:30",
+          "time": "14:15–15:45",
           "description": "新宿3丁目；高端百貨店；精選品牌、化妝品、地下美食街（depachika）；購物+美食體驗；約1.5小時",
           "type": "shopping"
         },
@@ -281,7 +302,7 @@
           "name": "🎬 ゴジラヘッド（東宝ビル）",
           "lat": 35.6694,
           "lng": 139.7024,
-          "time": "15:30–15:40",
+          "time": "15:45–15:55",
           "description": "新宿3丁目東宝ビル；著名地標；快速拍照；哥斯拉雕像高聳於建築頂端",
           "type": "landmark",
           "price": "免費"
@@ -291,8 +312,8 @@
           "name": "🛍️ 新宿周邊購物・散策",
           "lat": 35.6901,
           "lng": 139.7005,
-          "time": "15:40–18:30",
-          "description": "新宿3丁目→新宿駅周邊；Isetan、Don Quijote等店家；彈性購物、休息、準備晚餐",
+          "time": "15:55–19:00",
+          "description": "新宿3丁目→新宿駅周邊；Isetan、Don Quijote等店家；彈性購物、休息、準備晚餐（時間充裕）",
           "type": "shopping"
         },
         {
@@ -300,7 +321,7 @@
           "name": "🍽️ 新宿晚餐",
           "lat": 35.6901,
           "lng": 139.7005,
-          "time": "18:00–18:30",
+          "time": "19:00–19:30",
           "description": "新宿駅周邊；Isetan美食街、拉麵、定食、迴轉壽司等眾多選擇",
           "type": "restaurant"
         },
@@ -309,8 +330,8 @@
           "name": "新宿 → 都庁前駅",
           "lat": 35.6905,
           "lng": 139.6926,
-          "time": "18:30–19:30",
-          "description": "新宿駅→地鐵丸ノ内線→都庁前駅（約10分）；或步行至都廳；預留時間確保20:00前準時到達",
+          "time": "19:30–20:30",
+          "description": "新宿駅→地鐵丸ノ内線→都庁前駅（約10分）；提前出發確保20:00前到達",
           "type": "transit"
         },
         {
@@ -329,7 +350,7 @@
           "lat": 35.654578,
           "lng": 139.762111,
           "time": "21:00–21:45",
-          "description": "丸ノ内線 新宿駅→竹芝駅；約25分；返回 Hotel Tabinos 休息；準備次日早起出發越後湯沢",
+          "description": "丸ノ内線 都庁前駅→竹芝駅；約25分；返回 Hotel Tabinos 休息；準備次日早起出發越後湯沢",
           "type": "transit"
         }
       ]
