@@ -708,13 +708,15 @@
           "price": "3,000円/人（4人計12,000円）"
         },
         {
-          "id": "asakusa-lunch-rest",
-          "name": "🍱 浅草周邊 午餐・散策・休息",
-          "lat": 35.7115,
-          "lng": 139.7895,
+          "id": "kappabashi-tanabata",
+          "name": "🎋 かっぱ橋本通り・下町七夕まつり",
+          "lat": 35.7168,
+          "lng": 139.7892,
           "time": "14:00–14:30",
-          "description": "浅草寺周邊、仲見世商店街；壽司、蕎麦、天婦羅等推薦；充分用餐＋短暫散步；東本願寺附近有多間飲食選擇",
-          "type": "restaurant"
+          "description": "笹飾り・屋台・七夕装飾；昭和通りから国際通りまで約1.2km；Samurai Ninja Museumから徒歩5分；昼食も同時進行（かっぱ橋周辺飲食店）；免費散策",
+          "type": "festival",
+          "price": "免費",
+          "note": "✅ 座標已驗證（latitude.to：35.7168, 139.7892）"
         },
         {
           "id": "movement-asakusa-to-hotel",
