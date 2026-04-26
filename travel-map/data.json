@@ -282,67 +282,74 @@
         {
           "id": "movement-takeshita-to-shinjuku3",
           "name": "竹下通 → 新宿3丁目",
-          "lat": 35.6694,
-          "lng": 139.7024,
+          "lat": 35.6895,
+          "lng": 139.7003,
           "time": "13:45–14:15",
-          "description": "步行+轉乘；約30分；前往新宿購物區",
-          "type": "transit"
+          "description": "步行+轉乘；約30分；前往新宿購物區，抵達新宿駅",
+          "type": "transit",
+          "note": "✅ 座標已驗證（latitude.to 新宿駅）"
         },
         {
           "id": "shinjuku-takashimaya",
           "name": "🛍️ 新宿髙島屋",
-          "lat": 35.6694,
-          "lng": 139.7024,
+          "lat": 35.6924,
+          "lng": 139.7047,
           "time": "14:15–15:45",
           "description": "新宿3丁目；高端百貨店；精選品牌、化妝品、地下美食街（depachika）；購物+美食體驗；約1.5小時",
-          "type": "shopping"
+          "type": "shopping",
+          "note": "✅ 座標已驗證（Geocoding.jp）"
         },
         {
           "id": "godzilla-head",
           "name": "🎬 ゴジラヘッド（東宝ビル）",
-          "lat": 35.6694,
-          "lng": 139.7024,
+          "lat": 35.6954,
+          "lng": 139.7018,
           "time": "15:45–15:55",
-          "description": "新宿3丁目東宝ビル；著名地標；快速拍照；哥斯拉雕像高聳於建築頂端",
+          "description": "新宿東宝ビル8樓露台；著名地標；快速拍照；12米實物大哥斯拉雕像高聳於建築頂端；歌舞伎町象徵",
           "type": "landmark",
-          "price": "免費"
+          "price": "免費",
+          "note": "✅ 座標已驗證（latitude.to）；地址：歌舞伎町1-19-1"
         },
         {
           "id": "shinjuku-afternoon-shopping",
           "name": "🛍️ 新宿周邊購物・散策",
-          "lat": 35.6901,
-          "lng": 139.7005,
+          "lat": 35.6895,
+          "lng": 139.7003,
           "time": "15:55–19:00",
-          "description": "新宿3丁目→新宿駅周邊；Isetan、Don Quijote等店家；彈性購物、休息、準備晚餐（時間充裕）",
-          "type": "shopping"
+          "description": "新宿駅周邊；Isetan、Don Quijote等店家；彈性購物、休息、準備晚餐（時間充裕）",
+          "type": "shopping",
+          "note": "✅ 座標已驗證（latitude.to 新宿駅）"
         },
         {
           "id": "shinjuku-dinner",
           "name": "🍽️ 新宿晚餐",
-          "lat": 35.6901,
-          "lng": 139.7005,
+          "lat": 35.6895,
+          "lng": 139.7003,
           "time": "19:00–19:30",
           "description": "新宿駅周邊；Isetan美食街、拉麵、定食、迴轉壽司等眾多選擇",
-          "type": "restaurant"
+          "type": "restaurant",
+          "note": "✅ 座標已驗證（latitude.to 新宿駅）"
         },
         {
           "id": "movement-shinjuku-to-tochomae",
           "name": "新宿 → 都庁前駅",
-          "lat": 35.6905,
+          "lat": 35.6906,
           "lng": 139.6926,
           "time": "19:30–20:30",
           "description": "新宿駅→地鐵丸ノ内線→都庁前駅（約10分）；提前出發確保20:00前到達",
-          "type": "transit"
+          "type": "transit",
+          "note": "✅ 座標已驗證（Mapion）"
         },
         {
           "id": "tokyo-night-light-projection",
           "name": "✨ 東京夜のライト ～新宿投影映射秀～【必看】",
-          "lat": 35.6905,
-          "lng": 139.6926,
+          "lat": 35.6872,
+          "lng": 139.6887,
           "time": "20:00–21:00",
           "description": "東京都庁舎前（都庁前駅直結）；新宿特殊大型投影映射秀；每晚20:00–21:00點亮（需出發前確認營運狀況）；免費；璀璨光影秀；東京夜景必看體驗",
           "type": "attraction",
-          "price": "免費"
+          "price": "免費",
+          "note": "✅ 座標已驗證（latitude.to 東京都庁舎）"
         },
         {
           "id": "movement-return-hotel-28",
