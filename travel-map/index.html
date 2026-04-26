@@ -28,7 +28,7 @@
             display: grid;
             grid-template-columns: 1fr 1fr;
             gap: 20px;
-            height: calc(100vh - 40px);
+            height: calc(100vh - 150px);
         }
 
         .header {
@@ -67,13 +67,43 @@
             transform: translateX(-5px);
         }
 
-        .container {
-            max-width: 1400px;
-            margin: 0 auto;
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 20px;
-            height: calc(100vh - 150px);
+        /* Language Switcher */
+        .lang-switch {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            background: rgba(255, 255, 255, 0.15);
+            border-radius: 6px;
+            padding: 4px 8px;
+        }
+
+        .lang-btn {
+            background: none;
+            border: none;
+            color: rgba(255, 255, 255, 0.7);
+            font-size: 0.95em;
+            font-weight: bold;
+            cursor: pointer;
+            padding: 4px 8px;
+            border-radius: 4px;
+            transition: all 0.2s ease;
+        }
+
+        .lang-btn:hover {
+            color: white;
+            background: rgba(255, 255, 255, 0.2);
+        }
+
+        .lang-btn.active {
+            color: white;
+            background: rgba(255, 255, 255, 0.3);
+            text-decoration: underline;
+        }
+
+        .lang-divider {
+            color: rgba(255, 255, 255, 0.5);
+            font-size: 0.9em;
+            user-select: none;
         }
 
         /* 地圖面板 */
@@ -314,10 +344,17 @@
 <body>
     <div class="header">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
-            <h1 style="margin: 0;">🗺️ 日本之旅 2026 - 互動地圖</h1>
-            <a href="../" class="back-btn" title="返回到主頁">← 返回主頁</a>
+            <h1 id="page-title" style="margin: 0;">🗺️ 日本之旅 2026 - 互動地圖</h1>
+            <div style="display: flex; align-items: center; gap: 12px;">
+                <div class="lang-switch">
+                    <button id="btn-en" class="lang-btn" onclick="setLang('en')">EN</button>
+                    <span class="lang-divider">|</span>
+                    <button id="btn-zh" class="lang-btn active" onclick="setLang('zh')">中文</button>
+                </div>
+                <a href="../" id="back-btn" class="back-btn" title="返回到主頁">← 返回主頁</a>
+            </div>
         </div>
-        <p>2026年6月26日 ~ 7月6日 | 11天行程導覽</p>
+        <p id="page-subtitle">2026年6月26日 ~ 7月6日 | 11天行程導覽</p>
     </div>
 
     <div class="container">
@@ -327,13 +364,13 @@
 
         <div class="itinerary-panel">
             <div class="filter-controls">
-                <label class="filter-label">篩選日期：</label>
+                <label id="filter-label" class="filter-label">篩選日期：</label>
                 <select id="dayFilter" class="filter-select">
                     <option value="">全部行程</option>
                 </select>
             </div>
 
-            <div class="itinerary-header">
+            <div class="itinerary-header" id="itinerary-header">
                 行程清單 - 點擊景點即時定位地圖
             </div>
 
@@ -342,23 +379,23 @@
             <div class="legend">
                 <div class="legend-item">
                     <div class="legend-color" style="background: #FF6B6B;"></div>
-                    <span>景點</span>
+                    <span id="legend-attraction">景點</span>
                 </div>
                 <div class="legend-item">
                     <div class="legend-color" style="background: #4ECDC4;"></div>
-                    <span>住宿</span>
+                    <span id="legend-hotel">住宿</span>
                 </div>
                 <div class="legend-item">
                     <div class="legend-color" style="background: #F5B041;"></div>
-                    <span>寺廟</span>
+                    <span id="legend-temple">寺廟</span>
                 </div>
                 <div class="legend-item">
                     <div class="legend-color" style="background: #FF85A1;"></div>
-                    <span>活動</span>
+                    <span id="legend-event">活動</span>
                 </div>
                 <div class="legend-item">
                     <div class="legend-color" style="background: #90EE90;"></div>
-                    <span>機場</span>
+                    <span id="legend-airport">機場</span>
                 </div>
             </div>
         </div>
@@ -372,30 +409,142 @@
         let markers = {};
         let allData = {};
         let currentMarkers = [];
+        let currentLang = 'zh';
+        let translationsEn = {};
 
-        // 顏色對應
-        const typeColors = {
-            'attraction': '#FF6B6B',
-            'hotel': '#4ECDC4',
-            'temple': '#F5B041',
-            'cafe': '#A569BD',
-            'museum': '#52B788',
-            'garden': '#74C69D',
-            'castle': '#B4A7D6',
-            'festival': '#F4978E',
-            'event': '#FF85A1',
-            'landmark': '#80CAFF',
-            'shop': '#FFCC80',
-            'area': '#C4A0FF',
-            'airport': '#90EE90',
-            'experience': '#FFB6C1',
-            'theater': '#DDA0DD'
+        // ── UI strings ──────────────────────────────────────────────
+        const uiStrings = {
+            zh: {
+                pageTitle:        '🗺️ 日本之旅 2026 - 互動地圖',
+                pageSubtitle:     '2026年6月26日 ~ 7月6日 | 11天行程導覽',
+                backBtn:          '← 返回主頁',
+                filterLabel:      '篩選日期：',
+                filterAll:        '全部行程',
+                itineraryHeader:  '行程清單 - 點擊景點即時定位地圖',
+                legendAttraction: '景點',
+                legendHotel:      '住宿',
+                legendTemple:     '寺廟',
+                legendEvent:      '活動',
+                legendAirport:    '機場',
+                popupTime:        '⏰ 時間：',
+                popupDesc:        '📍 說明：',
+                popupPrice:       '💰 費用：',
+                popupDate:        '📅 日期：'
+            },
+            en: {
+                pageTitle:        '🗺️ Japan Trip 2026 – Interactive Map',
+                pageSubtitle:     'Jun 26 – Jul 6, 2026 | 11-Day Itinerary',
+                backBtn:          '← Back to Home',
+                filterLabel:      'Filter by Day:',
+                filterAll:        'All Days',
+                itineraryHeader:  'Itinerary – Click a location to jump on the map',
+                legendAttraction: 'Attraction',
+                legendHotel:      'Hotel',
+                legendTemple:     'Temple',
+                legendEvent:      'Event',
+                legendAirport:    'Airport',
+                popupTime:        '⏰ Time:',
+                popupDesc:        '📍 Info:',
+                popupPrice:       '💰 Cost:',
+                popupDate:        '📅 Date:'
+            }
         };
 
-        // 初始化地圖
+        function t(key) {
+            return (uiStrings[currentLang] || uiStrings.zh)[key] || key;
+        }
+
+        // ── Translation helpers ──────────────────────────────────────
+        function getName(loc) {
+            if (currentLang === 'en' && translationsEn.locations && translationsEn.locations[loc.id]) {
+                return translationsEn.locations[loc.id].name || loc.name;
+            }
+            return loc.name;
+        }
+
+        function getDesc(loc) {
+            if (currentLang === 'en' && translationsEn.locations && translationsEn.locations[loc.id]) {
+                return translationsEn.locations[loc.id].description || loc.description;
+            }
+            return loc.description;
+        }
+
+        function getPrice(loc) {
+            if (currentLang === 'en' && translationsEn.locations && translationsEn.locations[loc.id]) {
+                const enPrice = translationsEn.locations[loc.id].price;
+                if (enPrice !== undefined) return enPrice;
+            }
+            return loc.price;
+        }
+
+        function getDayTitle(day) {
+            if (currentLang === 'en' && translationsEn.days && translationsEn.days[day.date]) {
+                return translationsEn.days[day.date].title || day.title;
+            }
+            return day.title;
+        }
+
+        // ── Language switch ──────────────────────────────────────────
+        function setLang(lang) {
+            currentLang = lang;
+
+            document.getElementById('btn-en').classList.toggle('active', lang === 'en');
+            document.getElementById('btn-zh').classList.toggle('active', lang === 'zh');
+            document.documentElement.lang = lang === 'en' ? 'en' : 'zh-TW';
+
+            document.getElementById('page-title').textContent        = t('pageTitle');
+            document.getElementById('page-subtitle').textContent     = t('pageSubtitle');
+            document.getElementById('back-btn').textContent          = t('backBtn');
+            document.getElementById('filter-label').textContent      = t('filterLabel');
+            document.getElementById('itinerary-header').textContent  = t('itineraryHeader');
+            document.getElementById('legend-attraction').textContent = t('legendAttraction');
+            document.getElementById('legend-hotel').textContent      = t('legendHotel');
+            document.getElementById('legend-temple').textContent     = t('legendTemple');
+            document.getElementById('legend-event').textContent      = t('legendEvent');
+            document.getElementById('legend-airport').textContent    = t('legendAirport');
+
+            rebuildDayFilter();
+
+            const filterDate = document.getElementById('dayFilter').value;
+            renderItinerary(allData.days, filterDate);
+        }
+
+        function rebuildDayFilter() {
+            const dayFilter = document.getElementById('dayFilter');
+            const currentValue = dayFilter.value;
+            dayFilter.innerHTML = `<option value="">${t('filterAll')}</option>`;
+            if (allData.days) {
+                allData.days.forEach(day => {
+                    const option = document.createElement('option');
+                    option.value = day.date;
+                    option.textContent = `${formatDateWithWeekday(day.date)} - ${getDayTitle(day)}`;
+                    dayFilter.appendChild(option);
+                });
+            }
+            dayFilter.value = currentValue;
+        }
+
+        // ── Map init ─────────────────────────────────────────────────
+        const typeColors = {
+            'attraction': '#FF6B6B',
+            'hotel':      '#4ECDC4',
+            'temple':     '#F5B041',
+            'cafe':       '#A569BD',
+            'museum':     '#52B788',
+            'garden':     '#74C69D',
+            'castle':     '#B4A7D6',
+            'festival':   '#F4978E',
+            'event':      '#FF85A1',
+            'landmark':   '#80CAFF',
+            'shop':       '#FFCC80',
+            'area':       '#C4A0FF',
+            'airport':    '#90EE90',
+            'experience': '#FFB6C1',
+            'theater':    '#DDA0DD'
+        };
+
         function initMap() {
             map = L.map('map').setView([37.5, 138.5], 7);
-
             L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
                 attribution: '© OpenStreetMap contributors',
                 maxZoom: 18,
@@ -403,40 +552,44 @@
             }).addTo(map);
         }
 
-        // 加載數據
+        // ── Data loading ─────────────────────────────────────────────
         async function loadData() {
-            const response = await fetch('data.json?v=2.45');
-            const data = await response.json();
+            const [dataRes, enRes] = await Promise.all([
+                fetch('data.json?v=2.45'),
+                fetch('translations-en.json')
+            ]);
+            const data = await dataRes.json();
+            translationsEn = await enRes.json();
             allData = data;
 
-            // 填充日期篩選器
+            // Fill day filter
             const dayFilter = document.getElementById('dayFilter');
             data.days.forEach(day => {
                 const option = document.createElement('option');
                 option.value = day.date;
-                const formattedDate = formatDateWithWeekday(day.date);
-                option.textContent = `${formattedDate} - ${day.title}`;
+                option.textContent = `${formatDateWithWeekday(day.date)} - ${day.title}`;
                 dayFilter.appendChild(option);
             });
 
-            // 渲染行程
             renderItinerary(data.days);
-
-            // 添加所有標記
             addAllMarkers(data.days);
         }
 
-        // 格式化日期為 MM/DD (weekday) 格式
+        // ── Date formatting ──────────────────────────────────────────
         function formatDateWithWeekday(dateStr) {
             const date = new Date(dateStr + 'T00:00:00');
-            const month = String(date.getMonth() + 1).padStart(2, '0');
-            const day = String(date.getDate()).padStart(2, '0');
-            const weekdays = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+            const month   = String(date.getMonth() + 1).padStart(2, '0');
+            const day     = String(date.getDate()).padStart(2, '0');
+            const weekdays = currentLang === 'en'
+                ? ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
+                : ['日', '一', '二', '三', '四', '五', '六'];
             const weekday = weekdays[date.getDay()];
-            return `${month}/${day} (${weekday})`;
+            return currentLang === 'en'
+                ? `${month}/${day} (${weekday})`
+                : `${month}/${day} (${weekday})`;
         }
 
-        // 渲染行程列表
+        // ── Itinerary render ─────────────────────────────────────────
         function renderItinerary(days, filterDate = '') {
             const itinerary = document.getElementById('itinerary');
             itinerary.innerHTML = '';
@@ -449,31 +602,28 @@
                 const dayGroup = document.createElement('div');
                 dayGroup.className = 'day-group';
 
-                const dayTitle = document.createElement('div');
-                dayTitle.className = 'day-title';
-                const formattedDate = formatDateWithWeekday(day.date);
-                dayTitle.innerHTML = `
+                const dayTitleEl = document.createElement('div');
+                dayTitleEl.className = 'day-title';
+                dayTitleEl.innerHTML = `
                     <span class="day-badge">${day.day}</span>
-                    <span>${formattedDate} ${day.title}</span>
+                    <span>${formatDateWithWeekday(day.date)} ${getDayTitle(day)}</span>
                 `;
-                dayGroup.appendChild(dayTitle);
+                dayGroup.appendChild(dayTitleEl);
 
                 day.locations.forEach(location => {
                     const item = document.createElement('div');
                     item.className = `location-item type-${location.type}`;
                     item.dataset.locationId = location.id;
 
+                    const price = getPrice(location);
                     item.innerHTML = `
                         <div class="location-item-time">⏰ ${location.time}</div>
-                        <div class="location-item-name">${location.name}</div>
-                        <div class="location-item-desc">${location.description}</div>
-                        ${location.price ? `<div class="location-item-time">💰 ${location.price}</div>` : ''}
+                        <div class="location-item-name">${getName(location)}</div>
+                        <div class="location-item-desc">${getDesc(location)}</div>
+                        ${price ? `<div class="location-item-time">💰 ${price}</div>` : ''}
                     `;
 
-                    item.addEventListener('click', () => {
-                        focusLocation(location.id);
-                    });
-
+                    item.addEventListener('click', () => focusLocation(location.id));
                     dayGroup.appendChild(item);
                 });
 
@@ -481,34 +631,35 @@
             });
         }
 
-        // 添加所有標記
+        // ── Markers ──────────────────────────────────────────────────
         function addAllMarkers(days) {
             days.forEach(day => {
                 day.locations.forEach(location => {
                     const color = typeColors[location.type] || '#666';
 
-                    // 創建自訂圖標
                     const icon = L.divIcon({
                         className: 'custom-marker',
-                        html: `<div style="background-color: ${color}; width: 24px; height: 24px; border-radius: 50%; border: 3px solid white; display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: bold; color: white; box-shadow: 0 2px 8px rgba(0,0,0,0.3);">
-                            ${location.id.substring(0, 1).toUpperCase()}
-                        </div>`,
-                        iconSize: [30, 30],
+                        html: `<div style="background-color:${color};width:24px;height:24px;border-radius:50%;border:3px solid white;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:bold;color:white;box-shadow:0 2px 8px rgba(0,0,0,0.3);">${location.id.substring(0,1).toUpperCase()}</div>`,
+                        iconSize:   [30, 30],
                         iconAnchor: [15, 15]
                     });
 
+                    // Use function form so popup reads currentLang at open-time
                     const marker = L.marker([location.lat, location.lng], { icon })
-                        .bindPopup(`
-                            <div style="font-family: sans-serif; min-width: 250px;">
-                                <div class="popup-title">${location.name}</div>
+                        .bindPopup(() => {
+                            const name  = getName(location);
+                            const desc  = getDesc(location);
+                            const price = getPrice(location);
+                            return `<div style="font-family:sans-serif;min-width:250px;">
+                                <div class="popup-title">${name}</div>
                                 <div class="popup-content">
-                                    <p><strong>⏰ 時間：</strong> ${location.time}</p>
-                                    <p><strong>📍 說明：</strong> ${location.description}</p>
-                                    ${location.price ? `<p><strong>💰 費用：</strong> ${location.price}</p>` : ''}
-                                    <p><strong>📅 日期：</strong> ${day.date}</p>
+                                    <p><strong>${t('popupTime')}</strong> ${location.time}</p>
+                                    <p><strong>${t('popupDesc')}</strong> ${desc}</p>
+                                    ${price ? `<p><strong>${t('popupPrice')}</strong> ${price}</p>` : ''}
+                                    <p><strong>${t('popupDate')}</strong> ${day.date}</p>
                                 </div>
-                            </div>
-                        `)
+                            </div>`;
+                        })
                         .addTo(map);
 
                     markers[location.id] = { marker, location, dayDate: day.date };
@@ -516,39 +667,32 @@
             });
         }
 
-        // 聚焦到特定位置
+        // ── Focus location ───────────────────────────────────────────
         function focusLocation(locationId) {
-            // 移除所有活躍標記
             document.querySelectorAll('.location-item.active').forEach(el => {
                 el.classList.remove('active');
             });
 
-            // 激活選中項目
-            const items = document.querySelectorAll(`[data-location-id="${locationId}"]`);
-            items.forEach(item => item.classList.add('active'));
+            document.querySelectorAll(`[data-location-id="${locationId}"]`).forEach(item => {
+                item.classList.add('active');
+            });
 
-            // 地圖居中並打開Popup
             if (markers[locationId]) {
                 const { marker, location } = markers[locationId];
                 map.setView([location.lat, location.lng], 13);
                 marker.openPopup();
 
-                // 滾動列表項目到視圖
                 const item = document.querySelector(`[data-location-id="${locationId}"]`);
-                if (item) {
-                    item.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-                }
+                if (item) item.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
             }
         }
 
-        // 篩選日期
+        // ── Day filter ───────────────────────────────────────────────
         document.getElementById('dayFilter').addEventListener('change', (e) => {
             const filterDate = e.target.value;
 
-            // 更新行程列表
             renderItinerary(allData.days, filterDate);
 
-            // 隱藏/顯示標記
             Object.keys(markers).forEach(id => {
                 const { marker, dayDate } = markers[id];
                 if (filterDate === '') {
@@ -556,25 +700,22 @@
                 } else if (dayDate === filterDate) {
                     marker.setOpacity(1);
                     if (currentMarkers.length === 0) {
-                        // 第一次篇選時，居中到該日期的第一個位置
-                        const firstLocation = allData.days.find(d => d.date === filterDate)?.locations[0];
-                        if (firstLocation) {
-                            map.setView([firstLocation.lat, firstLocation.lng], 12);
-                        }
+                        const firstLoc = allData.days.find(d => d.date === filterDate)?.locations[0];
+                        if (firstLoc) map.setView([firstLoc.lat, firstLoc.lng], 12);
                     }
                 } else {
                     marker.setOpacity(0.3);
                 }
             });
 
-            currentMarkers = filterDate ?
-                Object.entries(markers)
+            currentMarkers = filterDate
+                ? Object.entries(markers)
                     .filter(([_, { dayDate }]) => dayDate === filterDate)
                     .map(([id]) => id)
                 : [];
         });
 
-        // 初始化
+        // ── Boot ─────────────────────────────────────────────────────
         initMap();
         loadData();
     </script>

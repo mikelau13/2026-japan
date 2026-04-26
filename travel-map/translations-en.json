@@ -1,0 +1,450 @@
+{
+  "days": {
+    "2026-06-26": { "title": "Haneda Arrival + Easy Evening" },
+    "2026-06-27": { "title": "Hamamatsucho → Ariake → Toyosu → Odaiba" },
+    "2026-06-28": { "title": "Harajuku + Shinjuku ～Projection Mapping Night Show～" },
+    "2026-06-29": { "title": "Shinkansen ～teamLab + Echigo-Yuzawa Onsen～" },
+    "2026-06-30": { "title": "Echigo-Yuzawa ～Kiyotsu Gorge + Niigata City～" },
+    "2026-07-01": { "title": "Shibata City Day Trip + Otakusen Ceremony" },
+    "2026-07-02": { "title": "Kanbara Festival Final Day + Niigata→Tokyo" },
+    "2026-07-03": { "title": "Tsukiji + Kabuki-za + Asakusa + Kappabashi Tanabata" },
+    "2026-07-04": { "title": "Tsukiji + Akihabara + Minatomirai + Ado Concert" },
+    "2026-07-05": { "title": "Yokohama Walk + Minatomirai + Ado Concert" },
+    "2026-07-06": { "title": "Kawasaki Daishi + Return to Canada" }
+  },
+  "locations": {
+    "haneda": {
+      "name": "Haneda Airport (International Terminal)",
+      "description": "Arrive in Japan; immigration via Visit Japan Web KIOSK + baggage claim + Suica card exchange"
+    },
+    "tabinos-hamamatsucho": {
+      "name": "Hotel Tabinos Hamamatsucho",
+      "description": "Directly connected to Takeiba Stn (Yurikamome); modern design; best Haneda access (10 min); check-in + rest"
+    },
+    "divercity-evening": {
+      "name": "DiverCity Dinner + Flexible Evening",
+      "description": "Takeiba→Aomi (10 min)→DiverCity; dinner 18:00–20:00; if energized: Gundam Night Show (20:00) + Aqua Symphony (20:30); if tired: return hotel"
+    },
+    "gundam-night-optional-26": {
+      "name": "Unicorn Gundam Night Show (6/26 Optional)",
+      "description": "[Optional] Free; 19.7m life-size; spectacular light show every 30 min from 19:00",
+      "price": "Free"
+    },
+    "aqua-symphony-optional-26": {
+      "name": "Tokyo Aqua Symphony (6/26 Optional)",
+      "description": "[Optional] Free; Odaiba Marine Park; 15–20 min walk from DiverCity; 10-min fountain show; 20:00 or 21:00 show",
+      "price": "Free"
+    },
+    "hotel-breakfast": {
+      "name": "Hotel Tabinos Breakfast",
+      "description": "Restaurant connected to Takeiba Station; fuel up for the full day"
+    },
+    "movement-to-ariake": {
+      "name": "Takeiba → Ariake Tennos-no-Mori (Yurikamome)",
+      "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Yurikamome Line; Takeiba→Ariake Tennos-no-Mori Stn; ~15–20 min"
+    },
+    "small-worlds": {
+      "name": "🎮 SMALL WORLDS TOKYO",
+      "description": "[Must-do] World's largest miniature theme park; 3 min from Ariake Tennos-no-Mori Stn; 2.5–3 hrs; or swap with Tokyo Dream Park Doraemon exhibition; <a href=\"https://www.smallworlds.jp\" target=\"_blank\">Official Site</a>",
+      "price": "Adult ¥3,200 · Student ¥2,100"
+    },
+    "movement-to-ichiba-mae": {
+      "name": "Ariake → Ichiba-mae (Yurikamome)",
+      "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Yurikamome Line; very short ~5 min; direct to Toyosu Sengyoku Mankara"
+    },
+    "toyosu-sengyoku-mankara": {
+      "name": "🍱 Toyosu Sengyoku Mankara",
+      "description": "[Must-do] Gourmet food hall at Toyosu Market waterfront complex; seafood bowls, soba, ramen, BBQ; ~1 hr dining; <a href=\"https://toyosu.jp\" target=\"_blank\">Official Site</a>"
+    },
+    "movement-back-to-ariake": {
+      "name": "Ichiba-mae → Ariake (Yurikamome)",
+      "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Yurikamome Line; ~5 min return after lunch"
+    },
+    "tokyo-dream-park": {
+      "name": "🎡 Tokyo Dream Park",
+      "description": "[Must-do] Ariake; 6F rooftop plaza + Shohei Ohtani golden statue FREE; 100% Doraemon Exhibition ¥2,400 (weekend pre-sale, optional); 2–3 hrs",
+      "price": "Rooftop free; Doraemon: Adult ¥2,400 · Student ¥1,800"
+    },
+    "movement-to-odaiba": {
+      "name": "Ariake → Aomi (Yurikamome)",
+      "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Yurikamome Line; ~15 min to DiverCity area"
+    },
+    "divercity-afternoon": {
+      "name": "🎮 DiverCity Afternoon (Flexible)",
+      "description": "Choose freely: ✅ Unko Museum (1–1.5h) ✅ Gundam Base Tokyo 5F (free) ✅ Unicorn Gundam statue photo ✅ Shopping & café",
+      "price": "Unko Museum ¥2,000+; others free"
+    },
+    "divercity-dinner": {
+      "name": "🍽️ DiverCity Dinner",
+      "description": "Wide range of restaurants inside the mall; dine as the Gundam transitions from day to night lighting",
+      "price": "~¥1,500–3,000/person"
+    },
+    "gundam-night": {
+      "name": "🌃 Unicorn Gundam Night Show",
+      "description": "Free; 19.7m life-size; light & sound show every 30 min; recommended 20:00 show",
+      "price": "Free"
+    },
+    "movement-to-odaiba-bay": {
+      "name": "Aomi → Odaiba Marine Park (walk)",
+      "description": "15–20 min walk behind DiverCity; scenic Tokyo Bay views along the way"
+    },
+    "aqua-symphony": {
+      "name": "💦 Tokyo Aqua Symphony Night Fountain Show",
+      "description": "Free; 3 min from Odaiba Stn; 10 shows/day (11–21:00, no 16:00); recommended 21:00 show; ~10 min",
+      "price": "Free"
+    },
+    "movement-return-to-hotel": {
+      "name": "Odaiba → Takeiba (return to hotel)",
+      "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Yurikamome Line; Odaiba→Takeiba; ~20 min; return to Hotel Tabinos to rest"
+    },
+    "hotel-breakfast-28": {
+      "name": "Hotel Breakfast",
+      "description": "Restaurant at Takeiba Station; fuel up for a full day in Harajuku + Shinjuku"
+    },
+    "movement-hotel-to-sangubashi": {
+      "name": "Takeiba → Sangubashi (transit)",
+      "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR Yamanote Line northbound; ~30 min; heading to Meiji Shrine north entrance"
+    },
+    "movement-sangubashi-to-meiji-north": {
+      "name": "Sangubashi → Meiji Shrine North Gate (walk)",
+      "description": "Walk ~30 min through greenery to the north entrance"
+    },
+    "harajuku-meiji-shrine": {
+      "name": "⛩️ Meiji Shrine – Forest Walk",
+      "description": "Japan's most important Shinto shrine; free; enter north gate, exit east; serene forested path; tranquil contrast to the city; <a href=\"https://www.meijijingu.or.jp\" target=\"_blank\">Official Site</a>",
+      "price": "Free"
+    },
+    "harajuku-omotesando": {
+      "name": "🚶 Omotesando (表參道)",
+      "description": "Tokyo's premier upscale shopping street; LV, Gucci, Prada flagships; beautiful architecture; connects directly from Meiji Shrine east exit"
+    },
+    "movement-omotesando-to-takeshita": {
+      "name": "Omotesando → Takeshita-dori (walk)",
+      "description": "10–15 min walk; Omotesando area straight to Takeshita-dori entrance"
+    },
+    "harajuku-takeshita": {
+      "name": "🚶 Takeshita-dori – 1.5 hrs",
+      "description": "World-famous Harajuku youth fashion street; H&M, Forever 21, Japanese indie shops, crepes, accessories; lively crowds; full 1.5 hrs to snack & explore; <a href=\"https://gltjp.com/ja/article/item/20395/\" target=\"_blank\">Info</a>"
+    },
+    "harajuku-kawaii-land": {
+      "name": "💗 Kawaii Land Kyun Kyun [Highlight]",
+      "description": "Cute small-animal petting park (FLEG Harajuku B1); 1-hr time limit (peak season); interact with rabbits, guinea pigs, hedgehogs & hamsters; pre-book required: <a href=\"https://harajukukawaiiland-kyunkyun.com\" target=\"_blank\">Official Site</a>",
+      "price": "Adult ¥2,300 · Child (under 12) ¥1,200 · Under 3 free"
+    },
+    "movement-takeshita-to-shinjuku3": {
+      "name": "Harajuku → Shinjuku (transit)",
+      "description": "<img src=\"img/transit/F.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Fukutoshin Line Meiji-Jingumae→Shinjuku-Sanchome (~4 min) + walk; ~30 min total to Kabukicho area"
+    },
+    "hanazono-shrine": {
+      "name": "⛩️ Hanazono Shrine + Kabukicho Ichibangai Arch",
+      "description": "Shinjuku's guardian shrine (5-17-3 Shinjuku); free; quick visit & photo; then a short walk to the iconic orange Kabukicho Ichibangai arch; both free; <a href=\"https://www.gltjp.com/en/directory/item/10057/\" target=\"_blank\">Hanazono Shrine</a> / <a href=\"https://kabukicho-culture-press.jp/all/spot/4082\" target=\"_blank\">Kabukicho Ichibangai</a>",
+      "price": "Free"
+    },
+    "ninja-trick-house": {
+      "name": "🥷 Ninja Trick House [Optional]",
+      "description": "4F, 2-28-13 Kabukicho; shuriken throwing, ninja experience, trick room; last entry 17:00 (15:00 entry ✅); closed Tue/Wed; skip if tired → extend Tokyu Tower time; <a href=\"https://ninja-trick-house.com/en/\" target=\"_blank\">Official Site</a>",
+      "price": "~¥1,500/person"
+    },
+    "i-love-kabukicho-godzilla": {
+      "name": "📸 I LOVE Kabukicho + Godzilla Head (quick photo)",
+      "description": "I❤KABUKI-CHO sign (Hayashi Building 1-14-7) + Godzilla Head on Toho Building 8F terrace; two iconic Kabukicho photo spots; within 5 min walk; both free; <a href=\"https://i-love-kabukicho.tokyo/en/\" target=\"_blank\">I LOVE Kabukicho</a> · <a href=\"https://www.toho.co.jp\" target=\"_blank\">Toho Official</a>",
+      "price": "Free"
+    },
+    "tokyu-kabukicho-tower": {
+      "name": "🎡 Tokyu Kabukicho Tower",
+      "description": "48-storey mixed-use landmark; namco TOKYO (3–6F) arcade & amusements; Zepp Shinjuku, spa, restaurants; freely explore for 1.5 hrs; <a href=\"https://tokyu-kabukicho-tower.jp\" target=\"_blank\">Official Site</a>"
+    },
+    "shinjuku-takashimaya": {
+      "name": "🛍️ Shinjuku Takashimaya (1 hr)",
+      "description": "Shinjuku-Sanchome; upscale department store; international brands, cosmetics, depachika basement food hall; 1 hr shopping; ⚠️ closes 19:30; 17:45 entry = ample time; <a href=\"https://www.takashimaya.co.jp/shinjuku/\" target=\"_blank\">Official Site</a>"
+    },
+    "shinjuku-dinner": {
+      "name": "🍜 Ganso Aburado Kabukicho (Dinner)",
+      "description": "Abura soba (brothless ramen) specialty; 1-4-8 Kabukicho; 1 min walk from Godzilla Head; open 11:00–5:00am; <a href=\"https://shop.ganso-aburado.com/japan/detail/112427/\" target=\"_blank\">Official Site</a>",
+      "price": "~¥800–1,200/person"
+    },
+    "shinjuku-golden-gai": {
+      "name": "🏮 Shinjuku Golden Gai (Evening Walk)",
+      "description": "Six narrow alleys next to Kabukicho; ~200 tiny intimate bars; WWII-era wooden buildings preserved to this day; magical at night; free to stroll & photograph; <a href=\"https://goldengai.jp\" target=\"_blank\">Official Site</a>",
+      "price": "Free (strolling only)"
+    },
+    "movement-shinjuku-to-tochomae": {
+      "name": "Shinjuku → Tochomae (transit)",
+      "description": "<img src=\"img/transit/M.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Marunouchi Line Shinjuku-Sanchome→Tochomae (~5 min); or walk ~12 min; must arrive by 20:00"
+    },
+    "tokyo-night-light-projection": {
+      "name": "✨ Tokyo Night Light – Shinjuku Projection Mapping Show [Must-see]",
+      "description": "Tokyo Metropolitan Government Building (connected to Tochomae Stn); massive outdoor projection mapping show; every night 20:00–21:00 (confirm before going); free; breathtaking light art; <a href=\"https://tokyoprojectionmappingproject.jp/en/\" target=\"_blank\">Official Site</a>",
+      "price": "Free"
+    },
+    "movement-return-hotel-28": {
+      "name": "Tochomae → Takeiba (return to hotel)",
+      "description": "<img src=\"img/transit/M.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Marunouchi Line; ~25 min; return to Hotel Tabinos; rest up for early Shinkansen"
+    },
+    "hotel-breakfast-29": {
+      "name": "Hotel Breakfast",
+      "description": "Restaurant at Takeiba Station; fuel up before teamLab"
+    },
+    "movement-hotel-to-teamlab": {
+      "name": "Takeiba → teamLab Borderless (transit)",
+      "description": "<img src=\"img/transit/M.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Marunouchi Line Takeiba→Akasaka-Mitsuke (~5 min) + 10 min walk to Azabudai Hills"
+    },
+    "teamlab-29": {
+      "name": "🎨 teamLab Borderless – Azabudai Hills [Highlight]",
+      "description": "[Must-do] Boundary-less immersive digital art; interconnected rooms; light & interactive installations; 3 hrs recommended; must pre-book online; <a href=\"https://www.teamlab.art/jp/\" target=\"_blank\">Book Tickets</a>",
+      "price": "Adult ¥3,600 · Student (13–17) ¥2,800"
+    },
+    "azabudai-optional-shrines": {
+      "name": "⛩️ Azabudai Shrines [Optional]",
+      "description": "[Flexible] After teamLab: if time & energy → quick photo at Reiyukai Shakaden + Nishikubo Hachimangu (15 min); rushed/tired → skip, head to Tokyo Stn",
+      "price": "Free"
+    },
+    "movement-azabudai-to-yuzawa": {
+      "name": "Azabudai → Echigo-Yuzawa (Shinkansen)",
+      "description": "<img src=\"img/transit/M.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\"><img src=\"img/transit/JO.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Marunouchi Line Akasaka-Mitsuke→Tokyo Stn (~15 min) + walk to Shinkansen; Joetsu Shinkansen Tokyo→Echigo-Yuzawa 13:00–14:00; pre-book reserved seats (<a href=\"https://www.eki-net.biz/\" target=\"_blank\">ekinet</a>); enjoy ekiben on board"
+    },
+    "yuzawa-arrival": {
+      "name": "Echigo-Yuzawa Arrival + Onsen",
+      "description": "Explore around the station; hotel hot spring bath; foot bath; cafés; enjoy the resort atmosphere; recharge before dinner"
+    },
+    "yuzawa-hotel": {
+      "name": "湯沢グランドホテル (Yuzawa Grand Hotel)",
+      "description": "3 min walk from station; large communal onsen bath + outdoor bath; all-you-can-eat dinner & breakfast (Japanese/Western/Chinese); free luggage storage for 6/30 Kiyotsu trip"
+    },
+    "yuzawa-checkout": {
+      "name": "Hotel Checkout + Luggage Storage",
+      "description": "Early checkout; hotel offers free luggage storage; check out and head to Kiyotsu Gorge"
+    },
+    "movement-yuzawa-to-kiyotsu": {
+      "name": "Yuzawa → Kiyotsu Gorge (bus)",
+      "description": "<img src=\"img/transit/bus.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Express bus; 3 min walk from station; ~30 min; alight at Kiyotsu Gorge Tunnel stop"
+    },
+    "kiyotsu-gorge-morning": {
+      "name": "🏞️ Kiyotsu Gorge Tunnel ～Mirror Reflection～ [Highlight]",
+      "description": "One of Japan's three great gorges; 750m observation tunnel with stunning 'water mirror' art installation at the far end (best on sunny days); ~1.5 hrs; arrive early for fewer crowds",
+      "price": "Adult ¥1,200 · Student ¥500"
+    },
+    "movement-kiyotsu-to-yuzawa": {
+      "name": "Kiyotsu Gorge → Yuzawa (bus)",
+      "description": "<img src=\"img/transit/bus.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Express bus return; ~30 min"
+    },
+    "yuzawa-lunch-rest": {
+      "name": "🍱 Yuzawa Lunch + Onsen Break",
+      "description": "Around Yuzawa Station; try onigiri bomb (bakudan onigiri) or foot bath at HATAGO Isen; enjoy the resort vibe before Shinkansen departure"
+    },
+    "movement-yuzawa-to-niigata": {
+      "name": "Yuzawa → Niigata (Shinkansen)",
+      "description": "<img src=\"img/transit/JO.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Joetsu Shinkansen Echigo-Yuzawa→Niigata; ~45 min; pre-book reserved seat; enjoy ekiben (station bento) on board"
+    },
+    "niigata-arrival-rest": {
+      "name": "Niigata Station Arrival + Rest",
+      "description": "Store bags at coin lockers or hotel; relax at station mall Popia Bandai or a café; recharge for the afternoon"
+    },
+    "niigata-hotel-checkin": {
+      "name": "Niigata Hotel Check-in",
+      "description": "Check in; rest and freshen up before evening festival activities"
+    },
+    "niigata-afternoon-activities": {
+      "name": "Niigata City Afternoon",
+      "description": "Explore Niigata city; local food, shopping around Bandai area or Furumachi Arcade; enjoy the relaxed pace of Niigata"
+    },
+    "kahara-shrine-first-night": {
+      "name": "Kanbara Shrine – Festival Opening Night",
+      "description": "Kanbara Matsuri (蒲原まつり) opening night; traditional Niigata summer festival dating back 300+ years; stalls, food, performances, mikoshi; free admission; <a href=\"https://minekomi.sakura.ne.jp/\" target=\"_blank\">Official Site</a> / <a href=\"https://www.gltjp.com/zh-hant/directory/item/15801/\" target=\"_blank\">Guide</a> / <a href=\"https://www.youtube.com/shorts/Z3C6kkUoIIY\" target=\"_blank\">▶ YouTube</a>",
+      "price": "Free"
+    },
+    "zoushuukan": {
+      "name": "蔵春閣 (Zoshunkan)",
+      "description": "Former Ito Hikohachi villa; elegant Meiji-era architecture; Japanese garden; <a href=\"https://www.city.niigata.lg.jp\" target=\"_blank\">Info</a>",
+      "price": "Free"
+    },
+    "shimizu-en": {
+      "name": "清水園 (Shimizu-en Garden)",
+      "description": "Traditional Japanese garden formerly attached to the Mizoguchi clan in Shibata; peaceful strolling garden; <a href=\"https://www.city.shibata.lg.jp\" target=\"_blank\">Shibata City Site</a>",
+      "price": "Free"
+    },
+    "shibata-castle": {
+      "name": "新発田城 (Shibata Castle)",
+      "description": "Japan's 100 Famous Castles #17; unique three-shachi (dolphin-fish) golden turrets; free exterior; restored buildings; <a href=\"https://www.city.shibata.lg.jp\" target=\"_blank\">Official Site</a>",
+      "price": "Exterior free"
+    },
+    "senbei-kingdom": {
+      "name": "せんべい王国 (Senbei Kingdom)",
+      "description": "Free admission; draw & paint your own giant rice cracker + flavoring (weekdays, reservation required); fun hands-on experience; <a href=\"http://senbei-oukoku.jp/\" target=\"_blank\">Official Site</a>",
+      "price": "Jumbo ¥2,500 / Large ¥1,800 per person"
+    },
+    "otakusen-night": {
+      "name": "Kanbara Shrine – Otakusen Ceremony",
+      "description": "830-year-old traditional Shinto ritual; performed at Kanbara Shrine Kagura-den; free to watch; festival stalls open late; <a href=\"https://minekomi.sakura.ne.jp/\" target=\"_blank\">Official Site</a> / <a href=\"https://www.gltjp.com/zh-hant/directory/item/15801/\" target=\"_blank\">Guide</a> / <a href=\"https://www.youtube.com/shorts/Z3C6kkUoIIY\" target=\"_blank\">▶ YouTube</a>",
+      "price": "Free"
+    },
+    "kahara-final": {
+      "name": "Kanbara Festival – Final Day",
+      "description": "Final day; stalls, Great Daikoku dance offering (15:00), Bandai Taiko drum performance (18:30); free; <a href=\"https://minekomi.sakura.ne.jp/\" target=\"_blank\">Official Site</a> / <a href=\"https://www.gltjp.com/zh-hant/directory/item/15801/\" target=\"_blank\">Guide</a> / <a href=\"https://www.youtube.com/shorts/Z3C6kkUoIIY\" target=\"_blank\">▶ YouTube</a>",
+      "price": "Free"
+    },
+    "niigata-haneda-transit": {
+      "name": "Niigata → Tokyo (Shinkansen)",
+      "description": "<img src=\"img/transit/JO.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Joetsu Shinkansen toward Tokyo; ~100 min; long journey day → check in hotel and rest"
+    },
+    "ginza-hotel": {
+      "name": "Via Inn Higashi-Ginza – Check-in",
+      "description": "2-15-13 Tsukiji; check in and rest; Tsukiji market and all Day 7 sights are within easy walking distance"
+    },
+    "tsukiji-market": {
+      "name": "Tsukiji Outer Market (築地場外市場)",
+      "description": "Breakfast recommended; 5 min walk; fresh seafood, tamagoyaki, sushi; open from 06:00; morning = freshest produce and best atmosphere",
+      "price": "Varies by stall"
+    },
+    "tsukiji-honganji": {
+      "name": "Tsukiji Honganji Temple",
+      "description": "10 min walk; free; striking Indian-style Buddhist architecture; beautiful in morning light",
+      "price": "Free"
+    },
+    "kabuki-za": {
+      "name": "Kabuki-za Theatre – Curtain-View Seat (幕見席)",
+      "description": "Traditional Kabuki; 4F single-act seating; Kuruwa Sanbaso (ceremonial dance, ~17 min); English audio guide available ¥1,000/unit; book online day before at 12:00; <a href=\"https://www.e-tix.jp/shochiku_makumi/\" target=\"_blank\">Book Here</a>",
+      "price": "¥1,000/person (pre-book)"
+    },
+    "senso-ji": {
+      "name": "Senso-ji Temple, Kaminarimon & Nakamise",
+      "description": "Tokyo's most visited temple; free; iconic Kaminarimon thunder gate; Nakamise shopping street; morning = fewer crowds",
+      "price": "Free"
+    },
+    "higashi-hongan-ji": {
+      "name": "Higashi Hongan-ji (Asakusa)",
+      "description": "Free; West Asakusa 1-5-5; 5 min walk from Senso-ji; peaceful alternative temple worth a quick visit",
+      "price": "Free"
+    },
+    "samurai-ninja": {
+      "name": "Samurai Ninja Museum Asakusa",
+      "description": "English-guided tour; armour wearing + shuriken throwing; ~60 min; 3 min walk from Higashi Hongan-ji; pre-book online; <a href=\"https://www.samuraininja-museum.com/\" target=\"_blank\">Book Online</a>",
+      "price": "¥3,000/person (¥12,000 for 4)"
+    },
+    "kappabashi-tanabata": {
+      "name": "🎋 Kappabashi – Shitamachi Tanabata Festival",
+      "description": "Bamboo Tanabata decorations, food stalls; 1.2km from Showa-dori to Kokusai-dori; 5 min from Samurai Ninja Museum; free strolling; <a href=\"https://e-asakusa.jp/culture-experience/105619\" target=\"_blank\">Asakusa Tourism</a> / <a href=\"https://shitamachi-tanabata.studio.site/\" target=\"_blank\">Official Site</a> / <a href=\"https://www.youtube.com/watch?v=rG4SvbooRxU\" target=\"_blank\">▶ YouTube</a>",
+      "price": "Free"
+    },
+    "movement-asakusa-to-hotel": {
+      "name": "Asakusa → Hotel (Higashi-Ginza) [transit]",
+      "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Hibiya Line Asakusa→Higashi-Ginza; ~20 min; early return to prep for next day"
+    },
+    "hotel-rest-evening-3": {
+      "name": "Hotel Rest + Dinner + Early Sleep",
+      "description": "Return to Via Inn Higashi-Ginza; rest, pack bags; dinner 17:30–19:00; early sleep to be fresh for Akihabara day"
+    },
+    "tsukiji-market-morning": {
+      "name": "Tsukiji Market (Quick Breakfast)",
+      "description": "Quick breakfast before checkout; fresh seafood, tamagoyaki, sushi; open from 06:00",
+      "price": "Varies by stall"
+    },
+    "hotel-checkout-4": {
+      "name": "Via Inn Higashi-Ginza – Checkout + Luggage Storage",
+      "description": "Check out; leave luggage with hotel storage; complete by 10:00"
+    },
+    "akihabara-lunch-afternoon": {
+      "name": "★ Akihabara Lunch + Area Explore",
+      "description": "Enter Akihabara; lunch choice (ramen, teishoku, conveyor sushi); first explore of the electronics district"
+    },
+    "akiba-fukurou-owl-cafe-4": {
+      "name": "🦉 Akiba Fukurou Owl Cafe",
+      "description": "Owl interaction experience; must pre-book; cash only; cute owls, photos, food & drink; 1-hr session in Akihabara",
+      "price": "¥3,300/person"
+    },
+    "akihabara-afternoon-shopping": {
+      "name": "Akihabara Shopping & Exploring",
+      "description": "After Owl Cafe; browse electronics street, game arcades, figure shops, anime goods; classic Akihabara experience"
+    },
+    "movement-akiba-to-minato": {
+      "name": "Akihabara → Minatomirai (transit)",
+      "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\"><img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Hibiya Line Akihabara→Higashi-Ginza (collect luggage) → JR to Yokohama direction; ~50 min total; heading to Aka-Renga"
+    },
+    "minato-light-meal-rest": {
+      "name": "Minatomirai – Light Meal & Rest",
+      "description": "Brief rest after arriving in Minatomirai; light snack or meal to recharge"
+    },
+    "akarenga": {
+      "name": "赤レンガ倉庫 (Red Brick Warehouse) + Harbour Walk",
+      "description": "Free; photogenic Meiji-era red brick warehouses; Yokohama harbour scenery; beautiful in late afternoon light",
+      "price": "Free"
+    },
+    "movement-minato-to-shinyoko": {
+      "name": "Minatomirai → Shin-Yokohama (transit)",
+      "description": "<img src=\"img/transit/minatomirai.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Minatomirai Line→Yokohama Line; ~20 min; check in at Super Hotel Shin-Yokohama on arrival"
+    },
+    "shinyoko-hotel": {
+      "name": "Super Hotel Shin-Yokohama – Check-in",
+      "description": "Natural hot spring bath; free breakfast; 10–12 min walk to Nissan Stadium; check in, rest, freshen up"
+    },
+    "movement-hotel-to-stadium": {
+      "name": "Hotel → Nissan Stadium (walk)",
+      "description": "10–12 min walk; arrive early to queue for merchandise; bring towel, water, sunscreen (outdoor venue)"
+    },
+    "ado-1": {
+      "name": "Ado Concert – Night 1 (Nissan Stadium)",
+      "description": "Nissan Stadium (~72,000 capacity); large outdoor concert; tickets confirmed; wait 30–45 min after show before leaving (crowd management)",
+      "price": "✅ Tickets purchased"
+    },
+    "yamashita-park": {
+      "name": "山下公園 (Yamashita Park)",
+      "description": "Free; panoramic Yokohama Harbour views; seaside promenade; stroll and take photos",
+      "price": "Free"
+    },
+    "osaka-daisan-bashi": {
+      "name": "大さん橋 (Osanbashi – Yokohama International Pier)",
+      "description": "Free; Yokohama International Cruise Terminal; dramatic curved wooden rooftop terrace with sweeping harbour views; one of Yokohama's most beautiful spots",
+      "price": "Free"
+    },
+    "motomachi": {
+      "name": "元町ショッピングストリート (Motomachi)",
+      "description": "Yokohama's historic upscale shopping street; stylish boutiques, cafés, pastry shops; foreign settlement atmosphere"
+    },
+    "cup-noodles": {
+      "name": "カップヌードルミュージアム (Cup Noodles Museum)",
+      "description": "Hands-on food museum; create your own original Cup Noodle flavour; Chicken Ramen factory workshop; fun for all ages",
+      "price": "Adult ¥500 · Under 12 free; Custom Cup Noodle +¥500; Chicken Ramen workshop +¥500"
+    },
+    "air-cabin": {
+      "name": "YOKOHAMA AIR CABIN",
+      "description": "Cable car ride over the canal; Unga Park Stn → Sakuragi-cho Stn; ~5 min scenic aerial ride",
+      "price": "¥1,000/person"
+    },
+    "bandai-namco-cross-store": {
+      "name": "🎮 Bandai Namco Cross Store Yokohama",
+      "description": "Yokohama World Porters 2F; 1 min from Unga Park Stn; 20+ official shops (Gundam, JoJo, etc.); Gashapon corner; amusement area; free entry; <a href=\"https://bandainamco-am.co.jp/crossstore/store/yokohama-wp2/\" target=\"_blank\">Official Site</a>",
+      "price": "Free entry (games & shopping extra)"
+    },
+    "movement-minato-to-shinyoko-2": {
+      "name": "Minatomirai → Shin-Yokohama (return)",
+      "description": "<img src=\"img/transit/minatomirai.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Minatomirai Line→Yokohama Line; ~25 min; return to hotel; rest up for Night 2 concert"
+    },
+    "ado-2": {
+      "name": "Ado Concert – Night 2 (Nissan Stadium)",
+      "description": "Nissan Stadium; tickets confirmed; wait after show; prepare for tomorrow's checkout",
+      "price": "✅ Tickets purchased"
+    },
+    "shinyoko-checkout": {
+      "name": "Super Hotel Shin-Yokohama – Early Checkout",
+      "description": "Early checkout; pack luggage; heading to Kawasaki Daishi"
+    },
+    "haneda-luggage": {
+      "name": "Haneda Airport – Luggage Storage",
+      "description": "Storage at any terminal; collect before departure",
+      "price": "¥600–800/bag"
+    },
+    "kawasaki-daishi": {
+      "name": "川崎大師 Kawasaki Daishi (Heiken-ji Temple)",
+      "description": "Founded 1128; one of Japan's top 3 most-visited temples; worship + Nakamise-dori shopping approach; traditional sweets and crafts; <a href=\"http://kawasakidaishi-kanko.com/\" target=\"_blank\">Info</a>",
+      "price": "Free"
+    },
+    "nakamise-dori": {
+      "name": "仲見世通り (Nakamise Shopping Street)",
+      "description": "Temple approach shopping street; traditional crafts, souvenirs, food; last Japan shopping before departure"
+    },
+    "haneda-return": {
+      "name": "Haneda Airport – International Departure",
+      "description": "Collect luggage + duty-free shopping + check-in + immigration; arrive at airport by 13:30"
+    }
+  }
+}
