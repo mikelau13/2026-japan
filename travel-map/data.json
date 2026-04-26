@@ -914,6 +914,26 @@
           "price": "1,000円/人"
         },
         {
+          "id": "bandai-namco-cross-store",
+          "name": "🎮 バンダイナムコ Cross Store 横浜",
+          "lat": 35.454268,
+          "lng": 139.638553,
+          "time": "15:45–16:30",
+          "description": "横浜ワールドポーターズ2F；運河パーク駅 徒步1分；ガンダム・ジョジョ等20+オフィシャルショップ；ガシャポン専門売場；アミューズメントエリア；<a href=\"https://bandainamco-am.co.jp/crossstore/store/yokohama-wp2/\" target=\"_blank\">公式サイト</a>",
+          "type": "attraction",
+          "price": "入場免費（遊戲・購物另計）",
+          "note": "✅ 座標已驗證（NAVITIME：35.454268, 139.638553）；16歲未滿18:00前可自由入場"
+        },
+        {
+          "id": "movement-minato-to-shinyoko-2",
+          "name": "みなとみらい → 新横浜（返宿）",
+          "lat": 35.5089,
+          "lng": 139.6145,
+          "time": "16:30–17:00",
+          "description": "みなとみらい線→横浜線 約25分；返回酒店休息；為第二夜演唱會養精蓄銳",
+          "type": "transit"
+        },
+        {
           "id": "ado-2",
           "name": "Ado 演唱會 第二夜",
           "lat": 35.5100,
