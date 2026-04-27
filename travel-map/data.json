@@ -617,11 +617,11 @@
         },
         {
           "id": "otakusen-night",
-          "name": "蒲原神社 - 御託宣（中日）",
+          "name": "蒲原神社 - 万代太鼓 + 御託宣（中日）",
           "lat": 37.9127,
           "lng": 139.0270,
-          "time": "19:00",
-          "description": "830年傳統神事；蒲原神社神楽殿；免費觀禮；夜間繼續逛露店；<a href=\"https://minekomi.sakura.ne.jp/\" target=\"_blank\">公式サイト</a> ／ <a href=\"https://www.gltjp.com/zh-hant/directory/item/15801/\" target=\"_blank\">繁中介紹</a> ／ <a href=\"https://www.youtube.com/shorts/Z3C6kkUoIIY\" target=\"_blank\">▶ YouTube</a>",
+          "time": "18:30–19:00+",
+          "description": "18:30 ★万代太鼓（震撼太鼓演出）→ 19:00 ★御託宣（830年傳統神事，蒲原神社神楽殿，免費觀禮）；夜間繼續逛露店；<a href=\"https://minekomi.sakura.ne.jp/\" target=\"_blank\">公式サイト</a> ／ <a href=\"https://www.gltjp.com/zh-hant/directory/item/15801/\" target=\"_blank\">繁中介紹</a> ／ <a href=\"https://www.youtube.com/shorts/Z3C6kkUoIIY\" target=\"_blank\">▶ YouTube</a>",
           "type": "festival",
           "price": "免費"
         }
@@ -638,8 +638,8 @@
           "name": "蒲原まつり 最終日",
           "lat": 37.9127,
           "lng": 139.0270,
-          "time": "10:00–18:30",
-          "description": "露店・散策・大黒舞奉納（15:00）・万代太鼓（18:30）；<a href=\"https://minekomi.sakura.ne.jp/\" target=\"_blank\">公式サイト</a> ／ <a href=\"https://www.gltjp.com/zh-hant/directory/item/15801/\" target=\"_blank\">繁中介紹</a> ／ <a href=\"https://www.youtube.com/shorts/Z3C6kkUoIIY\" target=\"_blank\">▶ YouTube</a>",
+          "time": "10:00–15:30",
+          "description": "露店・散策・大黒舞奉納（15:00）；万代太鼓已於7/1晚觀賞，完成後即啟程返東京；<a href=\"https://minekomi.sakura.ne.jp/\" target=\"_blank\">公式サイト</a> ／ <a href=\"https://www.gltjp.com/zh-hant/directory/item/15801/\" target=\"_blank\">繁中介紹</a> ／ <a href=\"https://www.youtube.com/shorts/Z3C6kkUoIIY\" target=\"_blank\">▶ YouTube</a>",
           "type": "festival",
           "price": "免費"
         },
@@ -648,8 +648,8 @@
           "name": "新潟駅 → 羽田空港路線 → 東京駅",
           "lat": 35.6805,
           "lng": 139.7663,
-          "time": "19:30–21:10",
-          "description": "<img src=\"img/transit/JO.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">上越新幹線→羽田・東京方向；約100分鐘；長途旅程後直接酒店休息",
+          "time": "~16:00–17:45",
+          "description": "<img src=\"img/transit/JO.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">上越新幹線→東京方向；約100分鐘；傍晚抵達，有充裕時間 check-in 及晚餐",
           "type": "landmark"
         },
         {
@@ -657,8 +657,8 @@
           "name": "ヴィアイン東銀座 Check-in",
           "lat": 35.6659,
           "lng": 139.7722,
-          "time": "21:30",
-          "description": "築地2-15-13；抵達後直接Check-in休息；所有築地景點挪至7/3早午進行；<a href=\"https://www.viainn.com/higashiginza/\" target=\"_blank\">官網</a>",
+          "time": "~18:30",
+          "description": "築地2-15-13；傍晚抵達，check-in 後可在東銀座周邊晚餐；所有築地景點挪至7/3早午進行；<a href=\"https://www.viainn.com/higashiginza/\" target=\"_blank\">官網</a>",
           "type": "hotel"
         }
       ]

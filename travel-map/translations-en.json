@@ -274,22 +274,22 @@
       "price": "Jumbo ¥2,500 / Large ¥1,800 per person"
     },
     "otakusen-night": {
-      "name": "Kanbara Shrine – Otakusen Ceremony",
-      "description": "830-year-old traditional Shinto ritual; performed at Kanbara Shrine Kagura-den; free to watch; festival stalls open late; <a href=\"https://minekomi.sakura.ne.jp/\" target=\"_blank\">Official Site</a> / <a href=\"https://www.gltjp.com/zh-hant/directory/item/15801/\" target=\"_blank\">Guide</a> / <a href=\"https://www.youtube.com/shorts/Z3C6kkUoIIY\" target=\"_blank\">▶ YouTube</a>",
+      "name": "Kanbara Shrine – Bandai Taiko + Otakusen Ceremony",
+      "description": "18:30 ★ Bandai Taiko (thunderous drum performance) → 19:00 ★ Otakusen (830-year-old Shinto ritual at Kanbara Shrine Kagura-den; free to watch); festival stalls open late; <a href=\"https://minekomi.sakura.ne.jp/\" target=\"_blank\">Official Site</a> / <a href=\"https://www.gltjp.com/zh-hant/directory/item/15801/\" target=\"_blank\">Guide</a> / <a href=\"https://www.youtube.com/shorts/Z3C6kkUoIIY\" target=\"_blank\">▶ YouTube</a>",
       "price": "Free"
     },
     "kahara-final": {
       "name": "Kanbara Festival – Final Day",
-      "description": "Final day; stalls, Great Daikoku dance offering (15:00), Bandai Taiko drum performance (18:30); free; <a href=\"https://minekomi.sakura.ne.jp/\" target=\"_blank\">Official Site</a> / <a href=\"https://www.gltjp.com/zh-hant/directory/item/15801/\" target=\"_blank\">Guide</a> / <a href=\"https://www.youtube.com/shorts/Z3C6kkUoIIY\" target=\"_blank\">▶ YouTube</a>",
+      "description": "Final day; stalls, Great Daikoku dance offering (15:00); Bandai Taiko already watched on night of 7/1 — depart for Tokyo after Daikoku; free; <a href=\"https://minekomi.sakura.ne.jp/\" target=\"_blank\">Official Site</a> / <a href=\"https://www.gltjp.com/zh-hant/directory/item/15801/\" target=\"_blank\">Guide</a> / <a href=\"https://www.youtube.com/shorts/Z3C6kkUoIIY\" target=\"_blank\">▶ YouTube</a>",
       "price": "Free"
     },
     "niigata-haneda-transit": {
       "name": "Niigata → Tokyo (Shinkansen)",
-      "description": "<img src=\"img/transit/JO.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Joetsu Shinkansen toward Tokyo; ~100 min; long journey day → check in hotel and rest"
+      "description": "<img src=\"img/transit/JO.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Joetsu Shinkansen toward Tokyo; ~100 min; arrive early evening with plenty of time to check in and have dinner"
     },
     "ginza-hotel": {
       "name": "Via Inn Higashi-Ginza – Check-in",
-      "description": "2-15-13 Tsukiji; check in and rest; Tsukiji market and all Day 7 sights are within easy walking distance; <a href=\"https://www.viainn.com/higashiginza/\" target=\"_blank\">Official Site</a>"
+      "description": "2-15-13 Tsukiji; arrive early evening — time to check in and enjoy dinner around Higashi-Ginza; Tsukiji market and Day 7 sights nearby; <a href=\"https://www.viainn.com/higashiginza/\" target=\"_blank\">Official Site</a>"
     },
     "tsukiji-market": {
       "name": "Tsukiji Outer Market (築地場外市場)",
