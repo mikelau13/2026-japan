@@ -21,7 +21,7 @@
           "lat": 35.654578,
           "lng": 139.762111,
           "time": "16:40",
-          "description": "百合海鷗線竹芝駅直結（2B出口）；現代設計飯店；check-in後根據體力彈性安排",
+          "description": "HOTEL TAVINOS Hamamatsucho, 百合海鷗線竹芝駅直結（2B出口）；現代設計飯店；check-in後根據體力彈性安排",
           "type": "hotel",
           "price": "タビノス商店街併設"
         },
@@ -104,8 +104,8 @@
           "name": "🍱 豐洲千客万来",
           "lat": 35.6457275,
           "lng": 139.7836383,
-          "time": "13:00–14:00",
-          "description": "【必辦】豐洲駅附近美食廣場（市場前駅4分鐘）；自由選擇海鮮・丼・蕎麦等；大樓地下～3F；約1小時用餐；品嚐新鮮漁獲；<a href=\"https://www.toyosu-senkyakubanrai.jp\" target=\"_blank\">官網</a>",
+          "time": "13:00–14:30",
+          "description": "【必辦】豐洲駅附近美食廣場（市場前駅4分鐘）；自由選擇海鮮・丼・蕎麦等；大樓地下～3F；約1.5小時用餐；品嚐新鮮漁獲；<a href=\"https://www.toyosu-senkyakubanrai.jp\" target=\"_blank\">官網</a>",
           "type": "restaurant",
           "price": "價格自選（平均¥1,500–3,000/人）"
         },
@@ -114,7 +114,7 @@
           "name": "市場前駅 → 有明テニスの森駅",
           "lat": 35.637887,
           "lng": 139.788362,
-          "time": "14:00–14:05",
+          "time": "14:30–14:35",
           "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">ゆりかもめ 市場前駅 → 有明テニスの森駅；約5分；午餐後返回景點區域",
           "type": "transit"
         },
@@ -123,7 +123,7 @@
           "name": "🎡 Tokyo Dream Park",
           "lat": 35.6293567,
           "lng": 139.7878091,
-          "time": "14:00–17:00",
+          "time": "14:30–17:00",
           "description": "【必辦】有明駅；屋上広場（免費）＋大谷翔平金像；100%ドラえもん展（¥2,400/人 週末前售，可選）；建議2–3小時；或改為 SMALL WORLDS（與上午協調）；<a href=\"https://tdp.tv-asahi.co.jp/\" target=\"_blank\">官網</a>",
           "type": "attraction",
           "price": "屋上広場免費；ドラえもん展 大人2,400円・中高生1,800円"
