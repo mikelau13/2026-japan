@@ -43,6 +43,26 @@
       "name": "Takeiba → Ariake Tennos-no-Mori (Yurikamome)",
       "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Yurikamome Line; Takeiba→Ariake Tennos-no-Mori Stn; ~15–20 min"
     },
+    "gundam-stamp-1-odaiba-kaihin": {
+      "name": "[Stamp ①] Odaiba-Kaihinkoen Stn (Optional)",
+      "description": "[Optional] Gundam Stamp Rally 2026 Phase 2 (6/8–7/12); stamp stand inside station; hop off Yurikamome, stamp, re-board next train; only 2–3 min",
+      "price": "Free"
+    },
+    "gundam-stamp-2-waterbus": {
+      "name": "[Stamp ②] Water Bus Terminal (Optional)",
+      "description": "[Optional] Gundam Stamp Rally 2026 Phase 2 (6/8–7/12); 5 min walk from Odaiba-Kaihinkoen Stn; Daiba 1-4-1, waterfront pier; stamp and walk back to station",
+      "price": "Free"
+    },
+    "gundam-stamp-3-daiba-station": {
+      "name": "[Stamp ③] Daiba Station (Optional)",
+      "description": "[Optional] Gundam Stamp Rally 2026 Phase 2 (6/8–7/12); stamp stand inside station; hop off Yurikamome, stamp, re-board next train; only 2–3 min",
+      "price": "Free"
+    },
+    "gundam-stamp-4-shiokaze": {
+      "name": "[Stamp ④] Shiokaze Park Observation Deck (Optional)",
+      "description": "[Optional] Gundam Stamp Rally 2026 Phase 2 (6/8–7/12); 5–10 min walk from Daiba Stn; stamp at observation deck with sea view; return to station after",
+      "price": "Free"
+    },
     "small-worlds": {
       "name": "🎮 SMALL WORLDS TOKYO",
       "description": "[Must-do] World's largest miniature theme park; 3 min from Ariake Tennos-no-Mori Stn; 2.5–3 hrs; or swap with Tokyo Dream Park Doraemon exhibition; <a href=\"https://www.smallworlds.jp\" target=\"_blank\">Official Site</a>",
