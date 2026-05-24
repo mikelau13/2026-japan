@@ -151,46 +151,35 @@
       "description": "Cat café with ~100 free-roaming cats; Cross Avenue Harajuku 4F, 1-14-25 Jingumae (1 min from JR Harajuku Stn); no reservation needed — walk in anytime; drink bar included; open 10:00–21:00 year-round; <a href=\"https://catmocha.jp/en/shop/harajuku/\" target=\"_blank\">Official Site</a>",
       "price": "Weekend ¥440/10 min (~¥2,640/hr) · max ¥4,620/person (drink bar incl.)"
     },
-    "movement-takeshita-to-shinjuku3": {
-      "name": "Harajuku → Shinjuku (transit)",
-      "description": "<img src=\"img/transit/F.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Fukutoshin Line Meiji-Jingumae→Shinjuku-Sanchome (~4 min) + walk; ~30 min total to Kabukicho area"
+    "movement-harajuku-to-kichijoji": {
+      "name": "Harajuku → Kichijoji (transit)",
+      "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR Yamanote Line Harajuku→Shibuya (1 stop, ~2 min) → Keio Inokashira Line Shibuya→Kichijoji (Express, ~26 min); ~30 min total, 1 transfer"
     },
-    "hanazono-shrine": {
-      "name": "⛩️ Hanazono Shrine + Kabukicho Ichibangai Arch",
-      "description": "Shinjuku's guardian shrine (5-17-3 Shinjuku); free; quick visit & photo; then a short walk to the iconic orange Kabukicho Ichibangai arch; both free; <a href=\"https://www.gltjp.com/en/directory/item/10057/\" target=\"_blank\">Hanazono Shrine</a> / <a href=\"https://kabukicho-culture-press.jp/all/spot/4082\" target=\"_blank\">Kabukicho Ichibangai</a>",
-      "price": "Free"
+    "kichijoji-petitmura-temarinooshiro": {
+      "name": "🏰 Kichijoji Petit Mura + Temari no Oshiro Cat Cafe",
+      "description": "Storybook-themed complex; 2-33-2 Kichijoji Honcho, Musashino; 7-min walk from Kichijoji North Exit; courtyard + boutiques; 🐱 <strong>Temari no Oshiro</strong> (Castle Cat Café): castle-themed, ~20 cats, 2-storey; flat entry fee, no time limit; walk-ins welcome (web reservation recommended); open 10:00–21:00 year-round; <a href=\"https://temarinooshiro.com\" target=\"_blank\">Official Site</a>"
     },
-    "ninja-trick-house": {
-      "name": "🥷 Ninja Trick House [Optional]",
-      "description": "4F, 2-28-13 Kabukicho; shuriken throwing, ninja experience, trick room; last entry 17:00 (15:00 entry ✅); closed Tue/Wed; skip if tired → extend Tokyu Tower time; <a href=\"https://ninja-trick-house.com/en/\" target=\"_blank\">Official Site</a>",
-      "price": "~¥1,500/person"
+    "kichijoji-soratobusakana-lunch": {
+      "name": "🍽️ Kuusougai Café — Flying Fish (Lunch)",
+      "description": "Fantasy-themed café; 2-34-9 Kichijoji Honcho; 7-min walk from Kichijoji South Exit (Park Exit) along Nakamichi-dori; picture-book artist atelier concept; specialty drinks, desserts & light meals; open 11:00–19:00 daily; <a href=\"https://kichijoji-gourmet.com/kuusoogaicafe/\" target=\"_blank\">Info article</a>"
     },
-    "i-love-kabukicho-godzilla": {
-      "name": "📸 I LOVE Kabukicho + Godzilla Head (quick photo)",
-      "description": "I❤KABUKI-CHO sign (Hayashi Building 1-14-7) + Godzilla Head on Toho Building 8F terrace; two iconic Kabukicho photo spots; within 5 min walk; both free; <a href=\"https://i-love-kabukicho.tokyo/en/\" target=\"_blank\">I LOVE Kabukicho</a> · <a href=\"https://www.toho.co.jp\" target=\"_blank\">Toho Official</a>",
-      "price": "Free"
+    "kichijoji-ghibli-museum": {
+      "name": "🎨 Ghibli Museum Mitaka [Ticket Required]",
+      "description": "1-1-83 Shimorenjaku, Mitaka (inside Inokashira Park West); bus ~7 min from Kichijoji South Exit; exclusive short film + Robot Soldier rooftop + Catbus exhibit; 10:00–18:00 (closed Mon; Sun 6/28 ✅); <a href=\"https://www.ghibli-museum.jp\" target=\"_blank\">Official Site</a> · <a href=\"https://l-tike.com/ghibli/\" target=\"_blank\">Lawson Ticket</a><br><strong>⚠️ Advance ticket essential: June tickets on sale since May 10 — check Lawson Ticket / KKday / Klook NOW for remaining slots!</strong>",
+      "price": "Adult ¥1,000 · Student ¥700 (4 people = ¥3,400)"
     },
-    "tokyu-kabukicho-tower": {
-      "name": "🎡 Tokyu Kabukicho Tower",
-      "description": "48-storey mixed-use landmark; namco TOKYO (3–6F) arcade & amusements; Zepp Shinjuku, spa, restaurants; freely explore for 1.5 hrs; <a href=\"https://tokyu-kabukicho-tower.jp\" target=\"_blank\">Official Site</a>"
+    "movement-kichijoji-to-shinjuku": {
+      "name": "Kichijoji → Shinjuku West (transit)",
+      "description": "<img src=\"img/transit/bus.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Bus from Kichijoji South Exit (~7 min) → JR Chuo Line (Rapid) Kichijoji→Shinjuku (~22 min); 1-min walk from West Exit to Kagawa Ippuku; ~35 min total"
     },
-    "shinjuku-takashimaya": {
-      "name": "🛍️ Shinjuku Takashimaya (1 hr)",
-      "description": "Shinjuku-Sanchome; upscale department store; international brands, cosmetics, depachika basement food hall; 1 hr shopping; ⚠️ closes 19:30; 17:45 entry = ample time; <a href=\"https://www.takashimaya.co.jp/shinjuku/\" target=\"_blank\">Official Site</a>"
-    },
-    "shinjuku-dinner": {
-      "name": "🍜 Ganso Aburado Kabukicho (Dinner)",
-      "description": "Abura soba (brothless ramen) specialty; 1-4-8 Kabukicho; 1 min walk from Godzilla Head; open 11:00–5:00am; <a href=\"https://shop.ganso-aburado.com/japan/detail/112427/\" target=\"_blank\">Official Site</a>",
+    "shinjuku-kagawa-ippuku": {
+      "name": "🍜 Kagawa Ippuku Nishi-Shinjuku (Dinner)",
+      "description": "Sanuki udon specialty; 7-9-15 Nishi-Shinjuku, Daikan Plaza Bizness Kiyota Bldg 1F; 1-min walk from Toei Oedo Line Shinjuku-Nishiguchi Stn D5 exit; Sun/holidays 11:00–21:00 (last order 20:30); <a href=\"https://kagawa-ippuku.jp/store/\" target=\"_blank\">Official Site</a>",
       "price": "~¥800–1,200/person"
     },
-    "shinjuku-golden-gai": {
-      "name": "🏮 Shinjuku Golden Gai (Evening Walk)",
-      "description": "Six narrow alleys next to Kabukicho; ~200 tiny intimate bars; WWII-era wooden buildings preserved to this day; magical at night; free to stroll & photograph; <a href=\"https://goldengai.jp\" target=\"_blank\">Official Site</a>",
-      "price": "Free (strolling only)"
-    },
     "movement-shinjuku-to-tochomae": {
-      "name": "Shinjuku → Tochomae (transit)",
-      "description": "<img src=\"img/transit/M.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Marunouchi Line Shinjuku-Sanchome→Tochomae (~5 min); or walk ~12 min; must arrive by 20:00"
+      "name": "Nishi-Shinjuku → Tochomae (after dinner)",
+      "description": "Walk from Kagawa Ippuku to Tokyo Metropolitan Govt Bldg: ~10–12 min (~850m); or Toei Oedo Line Shinjuku-Nishiguchi→Tochomae (1 stop, ~3 min); must arrive by 20:00"
     },
     "tokyo-night-light-projection": {
       "name": "✨ Tokyo Night Light – Shinjuku Projection Mapping Show [Must-see]",

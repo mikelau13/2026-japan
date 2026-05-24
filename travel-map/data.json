@@ -240,7 +240,7 @@
     {
       "date": "2026-06-28",
       "day": "Day 2",
-      "title": "原宿 + 新宿 全天行程 ～投影映射夜景必看～",
+      "title": "原宿 → 吉祥寺 → 新宿 全天行程 ～猫・吉卜力・投影映射夜景～",
       "segment": "SEG1",
       "locations": [
         {
@@ -319,97 +319,73 @@
           "price": "週末¥440/10分（1小時約¥2,640）・上限¥4,620/人（含飲料吧）"
         },
         {
-          "id": "movement-takeshita-to-shinjuku3",
-          "name": "竹下通 → 新宿歌舞伎町",
-          "lat": 35.6895,
-          "lng": 139.7003,
+          "id": "movement-harajuku-to-kichijoji",
+          "name": "原宿 → 吉祥寺",
+          "lat": 35.7027,
+          "lng": 139.5800,
           "time": "14:15–14:45",
-          "description": "<img src=\"img/transit/F.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">副都心線 明治神宮前→新宿三丁目（約4分）＋步行；合計約30分；前往新宿歌舞伎町エリア",
+          "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR山手線 原宿→渋谷（1停，約2分）→ 京王井の頭線 渋谷→吉祥寺（急行，約26分）；合計約30分，1次換乘；前往吉祥寺プティット村エリア",
           "type": "transit",
-          "note": "✅ 座標已驗證（latitude.to 新宿駅）"
+          "note": "⚠️ 座標為吉祥寺駅（估算）"
         },
         {
-          "id": "hanazono-shrine",
-          "name": "⛩️ 花園神社 ＋ 歌舞伎町一番街アーチ",
-          "lat": 35.6936,
-          "lng": 139.7052,
-          "time": "14:45–15:00",
-          "description": "新宿総鎮守 花園神社（5-17-3新宿）；免費；參拜打卡；步行數分即見歌舞伎町一番街標誌的オレンジアーチ；均免費；<a href=\"https://www.gltjp.com/en/directory/item/10057/\" target=\"_blank\">花園神社</a> ／ <a href=\"https://kabukicho-culture-press.jp/all/spot/4082\" target=\"_blank\">歌舞伎町一番街</a>",
-          "type": "shrine",
-          "price": "免費",
-          "note": "✅ 座標已驗證（latitude.to: 35.6936, 139.7052）"
-        },
-        {
-          "id": "ninja-trick-house",
-          "name": "🥷 Ninja Trick House【可選・彈性】",
-          "lat": 35.6965,
-          "lng": 139.7036,
-          "time": "15:00–16:00",
-          "description": "2-28-13 歌舞伎町 第一和光ビル4F；手裏剣投げ・忍者体験・からくり仕掛け；最終入場17:00（15:00入場 ✅）；週火水休み；疲勞可跳過，直接延長東急タワー探索；<a href=\"https://ninja-trick-house.com/en/\" target=\"_blank\">公式サイト</a>",
+          "id": "kichijoji-petitmura-temarinooshiro",
+          "name": "🏰 吉祥寺プティット村 + てまりのおしろ",
+          "lat": 35.704654,
+          "lng": 139.57473,
+          "time": "14:45–15:37（~45分）",
+          "description": "童話風格複合設施；東京都武蔵野市吉祥寺本町2-33-2；吉祥寺駅北口步行7分；中庭＋複数ショップ；<br>🐱 <strong>てまりのおしろ</strong>（Castle Cat Cafe）：城堡主題，約20隻貓，2層樓；固定入場費・無時限；walk-in ✅（建議提前網上預約）；10:00–21:00（全年）；<a href=\"https://temarinooshiro.com\" target=\"_blank\">官網</a>",
           "type": "attraction",
-          "price": "約¥1,500/人",
-          "note": "✅ 座標已驗證（gltjp.com: 35.6964903, 139.7035846）"
+          "note": "✅ 座標已驗證（NAVITIME）"
         },
         {
-          "id": "i-love-kabukicho-godzilla",
-          "name": "📸 I LOVE 歌舞伎町 ＋ ゴジラヘッド 快速拍照",
-          "lat": 35.6954,
-          "lng": 139.7018,
-          "time": "16:00–16:15",
-          "description": "I❤KABUKI-CHO看板（Hayashi Building 1-14-7 歌舞伎町）+ 東宝ビル8F ゴジラヘッド；歌舞伎町兩大打卡地標；步行5分以內可連拍；均免費；<a href=\"https://i-love-kabukicho.tokyo/en/\" target=\"_blank\">I LOVE 歌舞伎町</a>・<a href=\"https://www.toho.co.jp\" target=\"_blank\">東宝公式</a>",
-          "type": "landmark",
-          "price": "免費",
-          "note": "✅ 座標沿用ゴジラヘッド（歌舞伎町1丁目エリア）"
+          "id": "kichijoji-soratobusakana-lunch",
+          "name": "🍽️ 空想街カフェ 空飛ぶ魚（午餐）",
+          "lat": 35.6940,
+          "lng": 139.5790,
+          "time": "15:52–16:37（~45分）",
+          "description": "童話風格主題咖啡廳；東京都武蔵野市吉祥寺本町2-34-9；吉祥寺駅南口（公園口）步行7分・中道通り沿；繪本作家工作室世界觀；特調飲品＋甜點＋輕食；11:00–19:00（全年）；<a href=\"https://kichijoji-gourmet.com/kuusoogaicafe/\" target=\"_blank\">紹介記事</a>",
+          "type": "restaurant",
+          "note": "⚠️ 座標估算（南口547m，需現場確認）"
         },
         {
-          "id": "tokyu-kabukicho-tower",
-          "name": "🎡 東急歌舞伎町タワー",
-          "lat": 35.6958,
-          "lng": 139.7006,
-          "time": "16:15–17:45",
-          "description": "48層複合商業棟；namco TOKYO（3-6F）ゲームセンター・各種アミューズメント；Zepp Shinjuku・スパ・レストラン等；自由探索1.5小時；<a href=\"https://tokyu-kabukicho-tower.jp\" target=\"_blank\">公式サイト</a>",
+          "id": "kichijoji-ghibli-museum",
+          "name": "🎨 三鷹の森ジブリ美術館【需門票】",
+          "lat": 35.696285,
+          "lng": 139.570549,
+          "time": "16:47–18:00（~1.5小時，16:00入場枠）",
+          "description": "東京都三鷹市下連雀1-1-83（井の頭恩賜公園西園内）；吉祥寺南口→バス約7分 or 步行約15分；獨家短片放映・機器兵人屋上展示・貓巴士・全館吉卜力世界觀；10:00–18:00（週一定休，6/28週日✅）；<a href=\"https://www.ghibli-museum.jp\" target=\"_blank\">官網</a>・<a href=\"https://l-tike.com/ghibli/\" target=\"_blank\">ローチケ</a><br><strong>⚠️ 必須提前購票：6月票已於5月10日開售，現立即查 ローチケ/KKday 是否有餘票！</strong>",
           "type": "attraction",
-          "note": "✅ 座標已驗證（Wikipedia: 35.6958, 139.7006）"
+          "price": "大人¥1,000・中高生¥700（4人合計¥3,400）"
         },
         {
-          "id": "shinjuku-takashimaya",
-          "name": "🛍️ 新宿髙島屋（1小時）",
-          "lat": 35.6924,
-          "lng": 139.7047,
-          "time": "17:45–18:45",
-          "description": "新宿3丁目；高端百貨店；精選品牌、化妝品、地下美食街（depachika）；購物1小時；⚠️ 19:30閉店；17:45入場で充分余裕あり；<a href=\"https://www.takashimaya.co.jp/shinjuku/\" target=\"_blank\">公式サイト</a>",
-          "type": "shopping",
-          "note": "✅ 座標已驗證（Geocoding.jp）"
+          "id": "movement-kichijoji-to-shinjuku",
+          "name": "吉祥寺 → 新宿西口",
+          "lat": 35.6940,
+          "lng": 139.6991,
+          "time": "18:00–18:35",
+          "description": "<img src=\"img/transit/bus.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">吉祥寺南口バス（約7分）→ 吉祥寺駅 → JR中央線（快速）吉祥寺→新宿（約22分）；至新宿西口 步行1分至香川一福；全程約35分",
+          "type": "transit",
+          "note": "⚠️ 座標為香川一福附近（推算）；需驗證"
         },
         {
-          "id": "shinjuku-dinner",
-          "name": "🍜 元祖油堂 歌舞伎町店",
-          "lat": 35.6954,
-          "lng": 139.7018,
-          "time": "19:00–19:30",
-          "description": "油そば専門店；歌舞伎町1-4-8；ゴジラヘッドから徒步1分；營業 11:00–翌5:00；<a href=\"https://shop.ganso-aburado.com/japan/detail/112427/\" target=\"_blank\">公式サイト</a>",
+          "id": "shinjuku-kagawa-ippuku",
+          "name": "🍜 香川一福 西新宿店（晩餐）",
+          "lat": 35.6940,
+          "lng": 139.6991,
+          "time": "18:35–19:15（~40分）",
+          "description": "讃岐うどん専門店；新宿区西新宿7-9-15 新宿ダイカンプラザ ビズネス清田ビル1F；大江戸線 新宿西口駅D5出口 步行1分；日祝 11:00–21:00（LO 20:30）；<a href=\"https://kagawa-ippuku.jp/store/\" target=\"_blank\">公式サイト</a>",
           "type": "restaurant",
           "price": "約¥800–1,200/人",
-          "note": "✅ 座標沿用ゴジラヘッド（歌舞伎町1丁目エリア）"
-        },
-        {
-          "id": "shinjuku-golden-gai",
-          "name": "🏮 新宿ゴールデン街",
-          "lat": 35.6937,
-          "lng": 139.7049,
-          "time": "19:30–19:50",
-          "description": "歌舞伎町旁六條窄巷；約200間迷你小酒吧密集；二戰後木造建築保留至今；夜燈全開氣氛最佳；純拍照散策完全免費；ゴジラヘッドから徒步3分；<a href=\"https://goldengai.jp\" target=\"_blank\">官網</a>",
-          "type": "area",
-          "price": "免費（只散策）",
-          "note": "✅ 座標已驗證（NAVITIME：35.6937, 139.7049）"
+          "note": "⚠️ 座標推算（近新宿西口駅）；需現場確認"
         },
         {
           "id": "movement-shinjuku-to-tochomae",
-          "name": "新宿 → 都庁前駅",
+          "name": "西新宿 → 都庁前駅（晩餐後）",
           "lat": 35.6906,
           "lng": 139.6926,
-          "time": "19:50–20:00",
-          "description": "<img src=\"img/transit/M.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">丸ノ内線 新宿三丁目→都庁前（約5分）；or 步行約12分；確保20:00前到達",
+          "time": "19:15–20:00",
+          "description": "香川一福→都庁前 步行約10–12分（約850m）；or 大江戸線 新宿西口→都庁前（1停，約3分）；確保20:00前到達",
           "type": "transit",
           "note": "✅ 座標已驗證（Mapion）"
         },
