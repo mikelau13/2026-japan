@@ -646,35 +646,91 @@
     {
       "date": "2026-07-02",
       "day": "Day 6",
-      "title": "蒲原まつり最終日 + 新潟→東京",
-      "segment": "SEG3, SEG4",
+      "title": "川越小江戸半日 → 東銀座",
+      "segment": "SEG4",
       "locations": [
         {
-          "id": "kahara-final",
-          "name": "蒲原まつり 最終日",
-          "lat": 37.9127,
-          "lng": 139.0270,
-          "time": "10:00–15:30",
-          "description": "露店・散策・大黒舞奉納（15:00）；万代太鼓已於7/1晚觀賞，完成後即啟程返東京；<a href=\"https://minekomi.sakura.ne.jp/\" target=\"_blank\">公式サイト</a> ／ <a href=\"https://www.gltjp.com/zh-hant/directory/item/15801/\" target=\"_blank\">繁中介紹</a> ／ <a href=\"https://www.youtube.com/shorts/Z3C6kkUoIIY\" target=\"_blank\">▶ YouTube</a>",
-          "type": "festival",
-          "price": "免費"
+          "id": "movement-niigata-to-kawagoe",
+          "name": "新潟 → 大宮 → 川越",
+          "lat": 35.9065,
+          "lng": 139.6233,
+          "time": "09:30–11:40",
+          "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">上越新幹線 新潟→大宮（約1h40min）→ JR川越線 大宮→川越（約30min）；合計約2h10min；車內可補眠",
+          "type": "transit",
+          "note": "⚠️ 座標為大宮駅（中轉點）"
         },
         {
-          "id": "niigata-haneda-transit",
-          "name": "新潟駅 → 羽田空港路線 → 東京駅",
-          "lat": 35.6805,
-          "lng": 139.7663,
-          "time": "~16:00–17:45",
-          "description": "<img src=\"img/transit/JO.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">上越新幹線→東京方向；約100分鐘；傍晚抵達，有充裕時間 check-in 及晚餐",
-          "type": "landmark"
+          "id": "kawagoe-hikawa-shrine",
+          "name": "🌸 川越氷川神社",
+          "lat": 35.92759,
+          "lng": 139.48853,
+          "time": "11:45–12:20",
+          "description": "えんむすびの社；埼玉県川越市宮下町2-11-3；川越駅東口步行約20分；境内に風鈴や縁結び玉が並ぶ；無料；<a href=\"https://www.kawagoehikawa.jp/\" target=\"_blank\">官網</a>",
+          "type": "shrine",
+          "price": "免費",
+          "note": "✅ 座標已驗證（NAVITIME）"
+        },
+        {
+          "id": "kawagoe-kurazukuri-taisho",
+          "name": "🏛️ 蔵造り一番街 ＋ 大正浪漫夢通り（含午餐）",
+          "lat": 35.920427,
+          "lng": 139.483674,
+          "time": "12:20–13:30",
+          "description": "小江戸川越のメインストリート；重要伝統的建造物群保存地区；江戸時代の土蔵造り建築が連なる；大正浪漫夢通りは仲町～連雀町間の大正ロマン風商店街；食べ歩き・ランチ含む；<a href=\"https://koedo.or.jp/\" target=\"_blank\">小江戸川越観光協会</a>",
+          "type": "area",
+          "price": "免費",
+          "note": "✅ 座標已驗證（NAVITIME 大正浪漫夢通り）"
+        },
+        {
+          "id": "kawagoe-tokinokane-starbucks",
+          "name": "⏰ 時の鐘 ＋ スターバックス 川越鐘つき通り店",
+          "lat": 35.923497,
+          "lng": 139.483333,
+          "time": "13:30–13:55",
+          "description": "川越市幸町15-7；400年の歴史を持つ鐘つき堂；1日4回打鐘（6・12・15・18時）；隣接スターバックスは古民家・蔵造りの建築で人気；テラス席あり；<a href=\"https://koedo.or.jp/spot_001/\" target=\"_blank\">時の鐘</a>",
+          "type": "landmark",
+          "price": "免費（スタバ飲料別途）",
+          "note": "✅ 座標已驗證（NAVITIME 時の鐘 幸町15-7）"
+        },
+        {
+          "id": "kawagoe-kashiya-chiikawa",
+          "name": "🍬 菓子屋横丁 ＋ 吉伊卡哇 MOGUMOGU 川越店",
+          "lat": 35.924533,
+          "lng": 139.481423,
+          "time": "13:55–14:50",
+          "description": "川越市元町2丁目；石畳に約20数軒の駄菓子屋が連なる明治初期の横丁；環境省「かおり風景100選」；🐾 <strong>ちいかわもぐもぐ本舗川越店</strong>（元町2-7-9）：川越限定グッズ・お菓子；平日は比較的空いている；9:30–17:30；<a href=\"https://www.chiikawamogumogu.jp/stores/kawagoe/\" target=\"_blank\">MOGUMOGU官網</a>",
+          "type": "area",
+          "price": "横丁入場免費（購物別途）",
+          "note": "✅ 座標已驗證（NAVITIME MOGUMOGU川越店 元町2-7-9）"
+        },
+        {
+          "id": "kawagoe-matsuri-kaikan",
+          "name": "🎪 川越まつり会館",
+          "lat": 35.924287,
+          "lng": 139.482844,
+          "time": "14:50–15:30",
+          "description": "川越市元町2-1-10；ユネスコ無形文化遺産「川越まつり」の山車・祭り文化を展示；9:30–18:30（4–9月）；火曜定休（7/2木曜✅）；大人300円・中学生以下100円；<a href=\"https://kawagoematsuri.jp/matsurimuseum/\" target=\"_blank\">官網</a>",
+          "type": "attraction",
+          "price": "大人¥300・中學生以下¥100",
+          "note": "✅ 座標已驗證（搜尋結果 元町2-1-10）"
+        },
+        {
+          "id": "movement-kawagoe-to-higashiginza",
+          "name": "川越 → ヴィアイン東銀座",
+          "lat": 35.7295,
+          "lng": 139.7109,
+          "time": "15:30–16:45",
+          "description": "東武東上線急行 川越→池袋（約30分）→ 東京メトロ日比谷線 日比谷→東銀座（約30分）；合計約1h10min",
+          "type": "transit",
+          "note": "⚠️ 座標為池袋駅（中轉點，估算）"
         },
         {
           "id": "ginza-hotel",
           "name": "ヴィアイン東銀座 Check-in",
           "lat": 35.6659,
           "lng": 139.7722,
-          "time": "~18:30",
-          "description": "築地2-15-13；傍晚抵達，check-in 後可在東銀座周邊晚餐；所有築地景點挪至7/3早午進行；<a href=\"https://www.viainn.com/higashiginza/\" target=\"_blank\">官網</a>",
+          "time": "~16:45",
+          "description": "築地2-15-13；東銀座駅步行3分；check-in 後可在東銀座・築地場外晚餐；<a href=\"https://www.viainn.com/higashiginza/\" target=\"_blank\">官網</a>",
           "type": "hotel"
         }
       ]

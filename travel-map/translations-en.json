@@ -6,7 +6,7 @@
     "2026-06-29": { "title": "Shinkansen ～teamLab + Echigo-Yuzawa Onsen～" },
     "2026-06-30": { "title": "Echigo-Yuzawa ～Kiyotsu Gorge + Niigata City～" },
     "2026-07-01": { "title": "Shibata City Day Trip + Otakusen Ceremony" },
-    "2026-07-02": { "title": "Kanbara Festival Final Day + Niigata→Tokyo" },
+    "2026-07-02": { "title": "Kawagoe Little Edo Half-Day + Tokyo Higashi-Ginza" },
     "2026-07-03": { "title": "Tsukiji + Kabuki-za + Asakusa + Kappabashi Tanabata" },
     "2026-07-04": { "title": "Tsukiji + Akihabara + Minatomirai + Ado Concert" },
     "2026-07-05": { "title": "Yokohama Walk + Minatomirai + Ado Concert" },
@@ -299,6 +299,39 @@
     "ginza-hotel": {
       "name": "Via Inn Higashi-Ginza – Check-in",
       "description": "2-15-13 Tsukiji; arrive early evening — time to check in and enjoy dinner around Higashi-Ginza; Tsukiji market and Day 7 sights nearby; <a href=\"https://www.viainn.com/higashiginza/\" target=\"_blank\">Official Site</a>"
+    },
+    "movement-niigata-to-kawagoe": {
+      "name": "Niigata → Omiya → Kawagoe (transit)",
+      "description": "<img src=\"img/transit/JO.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Joetsu Shinkansen Niigata→Omiya (~1h40min) → JR Kawagoe Line Omiya→Kawagoe (~30min); total ~2h10min; faster than routing via central Tokyo; rest on the train"
+    },
+    "kawagoe-hikawa-shrine": {
+      "name": "🌸 Kawagoe Hikawa Shrine",
+      "description": "Kawagoe's beloved matchmaking shrine; 2-11-3 Miyashita-cho; ~20 min walk from Kawagoe Stn East Exit; precincts adorned with wind chimes and enpmusubi (love-tying) balls; free; <a href=\"https://www.kawagoehikawa.jp/\" target=\"_blank\">Official Site</a>",
+      "price": "Free"
+    },
+    "kawagoe-kurazukuri-taisho": {
+      "name": "🏛️ Kurazukuri Street + Taisho Roman Yume-dori (incl. lunch)",
+      "description": "Kawagoe's main historic street; Important Preservation District; rows of Edo-period clay-walled storehouses (kurazukuri); Taisho Roman Yume-dori runs between Nakacho and Renjakucho with retro Taisho-era shopfronts; street food + lunch included; <a href=\"https://koedo.or.jp/\" target=\"_blank\">Kawagoe Tourism Assoc.</a>",
+      "price": "Free entry"
+    },
+    "kawagoe-tokinokane-starbucks": {
+      "name": "⏰ Toki no Kane Bell Tower + Starbucks Kawagoe",
+      "description": "15-7 Saiwai-cho; 400-year-old bell tower; chimes 4 times daily (06:00 · 12:00 · 15:00 · 18:00); adjacent Starbucks occupies a restored kurazukuri storehouse — one of Japan's most photographed Starbucks; terrace seating available; <a href=\"https://koedo.or.jp/spot_001/\" target=\"_blank\">Toki no Kane Info</a>",
+      "price": "Bell tower free (Starbucks drinks extra)"
+    },
+    "kawagoe-kashiya-chiikawa": {
+      "name": "🍬 Kashiya Yokocho + Chiikawa MOGUMOGU Kawagoe",
+      "description": "Moto-machi 2-chome; cobblestone lane of ~20 old-fashioned candy shops dating to the Meiji era; designated 'Fragrant Landscape 100' by Japan's Ministry of Environment; 🐾 <strong>Chiikawa Mogumogu Honpo Kawagoe</strong> (2-7-9 Moto-machi): Kawagoe-exclusive goods & snacks; weekday = less crowded, no reservation needed (since May 2025); open 09:30–17:30; <a href=\"https://www.chiikawamogumogu.jp/stores/kawagoe/\" target=\"_blank\">MOGUMOGU Official</a>",
+      "price": "Free entry (shopping & candy extra)"
+    },
+    "kawagoe-matsuri-kaikan": {
+      "name": "🎪 Kawagoe Matsuri Kaikan (Festival Museum)",
+      "description": "2-1-10 Moto-machi; UNESCO Intangible Cultural Heritage — Kawagoe Festival floats (dashi) and float culture displayed up close; open 09:30–18:30 (Apr–Sep); closed Tuesdays (7/2 is Thursday ✅); <a href=\"https://kawagoematsuri.jp/matsurimuseum/\" target=\"_blank\">Official Site</a>",
+      "price": "Adult ¥300 · Under 13 ¥100"
+    },
+    "movement-kawagoe-to-higashiginza": {
+      "name": "Kawagoe → Via Inn Higashi-Ginza (transit)",
+      "description": "Tobu Tojo Line Express Kawagoe→Ikebukuro (~30 min) → Tokyo Metro Hibiya Line Hibiya→Higashi-Ginza (~30 min); total ~1h10min; arrive at hotel ~16:45"
     },
     "tsukiji-market": {
       "name": "Tsukiji Outer Market (築地場外市場)",
