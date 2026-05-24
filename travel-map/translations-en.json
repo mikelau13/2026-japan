@@ -156,21 +156,22 @@
       "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR Yamanote Line Harajuku→Shibuya (1 stop, ~2 min) → Keio Inokashira Line Shibuya→Kichijoji (Express, ~26 min); ~30 min total, 1 transfer"
     },
     "kichijoji-petitmura-temarinooshiro": {
-      "name": "🏰 Kichijoji Petit Mura + Temari no Oshiro Cat Cafe",
-      "description": "Storybook-themed complex; 2-33-2 Kichijoji Honcho, Musashino; 7-min walk from Kichijoji North Exit; courtyard + boutiques; 🐱 <strong>Temari no Oshiro</strong> (Castle Cat Café): castle-themed, ~20 cats, 2-storey; flat entry fee, no time limit; walk-ins welcome (web reservation recommended); open 10:00–21:00 year-round; <a href=\"https://temarinooshiro.com\" target=\"_blank\">Official Site</a>"
+      "name": "🏰 Kichijoji Petit Mura + CAPOON + Temari no Oshiro Cat Cafe",
+      "description": "Fairy-tale village complex; 2-33-2 Kichijoji Honcho, Musashino; 7-min walk from Kichijoji North Exit; 🍵 <strong>CAPOON Matcha</strong>: stone-ground matcha drinks & desserts (20 min); 🏰 <strong>Temari no Oshiro</strong> (Castle Cat Café): castle-themed, ~20 cats, 2-storey; flat weekend entry ¥1,800/person, no time limit; light food menu available; walk-ins welcome; open 10:00–21:00 year-round; <a href=\"https://temarinooshiro.com\" target=\"_blank\">Official Site</a>",
+      "price": "Weekend ¥1,800/person (4 people = ¥7,200) · No time limit"
     },
     "kichijoji-soratobusakana-lunch": {
-      "name": "🍽️ Kuusougai Café — Flying Fish (Lunch)",
-      "description": "Fantasy-themed café; 2-34-9 Kichijoji Honcho; 7-min walk from Kichijoji South Exit (Park Exit) along Nakamichi-dori; picture-book artist atelier concept; specialty drinks, desserts & light meals; open 11:00–19:00 daily; <a href=\"https://kichijoji-gourmet.com/kuusoogaicafe/\" target=\"_blank\">Info article</a>"
+      "name": "☕ Kuusougai Café — Flying Fish (Afternoon Tea)",
+      "description": "Fantasy-themed café; 2-34-9 Kichijoji Honcho; 7-min walk from Kichijoji South Exit (Park Exit) along Nakamichi-dori; picture-book artist atelier concept; specialty drinks & desserts; ⚠️ No lunch set on weekends — desserts and drinks only on Sundays; open 11:00–19:00 daily; <a href=\"https://kichijoji-gourmet.com/kuusoogaicafe/\" target=\"_blank\">Info article</a>"
     },
-    "kichijoji-ghibli-museum": {
-      "name": "🎨 Ghibli Museum Mitaka [Ticket Required]",
-      "description": "1-1-83 Shimorenjaku, Mitaka (inside Inokashira Park West); bus ~7 min from Kichijoji South Exit; exclusive short film + Robot Soldier rooftop + Catbus exhibit; 10:00–18:00 (closed Mon; Sun 6/28 ✅); <a href=\"https://www.ghibli-museum.jp\" target=\"_blank\">Official Site</a> · <a href=\"https://l-tike.com/ghibli/\" target=\"_blank\">Lawson Ticket</a><br><strong>⚠️ Advance ticket essential: June tickets on sale since May 10 — check Lawson Ticket / KKday / Klook NOW for remaining slots!</strong>",
-      "price": "Adult ¥1,000 · Student ¥700 (4 people = ¥3,400)"
+    "kichijoji-inokashira-park": {
+      "name": "🌿 Inokashira Park – Lakeside Stroll [Flexible]",
+      "description": "5-min walk from Flying Fish Café; free entry; lakeside walk + optional swan boat rental; most beautiful natural scenery in Kichijoji; <a href=\"https://www.kensetsu.metro.tokyo.lg.jp/jimusho/seibuk/inokashira/index.html\" target=\"_blank\">Park Info</a>",
+      "price": "Free entry (swan boats extra)"
     },
     "movement-kichijoji-to-shinjuku": {
       "name": "Kichijoji → Shinjuku West (transit)",
-      "description": "<img src=\"img/transit/bus.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Bus from Kichijoji South Exit (~7 min) → JR Chuo Line (Rapid) Kichijoji→Shinjuku (~22 min); 1-min walk from West Exit to Kagawa Ippuku; ~35 min total"
+      "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR Chuo Line (Rapid) Kichijoji→Shinjuku (~22 min); 1-min walk from West Exit to Kagawa Ippuku; ~30 min total"
     },
     "shinjuku-kagawa-ippuku": {
       "name": "🍜 Kagawa Ippuku Nishi-Shinjuku (Dinner)",
