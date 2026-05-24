@@ -146,10 +146,9 @@
       "name": "🚶 Takeshita-dori – 1.5 hrs",
       "description": "World-famous Harajuku youth fashion street; H&M, Forever 21, Japanese indie shops, crepes, accessories; lively crowds; full 1.5 hrs to snack & explore; <a href=\"https://gltjp.com/ja/article/item/20395/\" target=\"_blank\">Info</a>"
     },
-    "harajuku-kawaii-land": {
-      "name": "🐱 Cat Cafe MOCHA Harajuku",
-      "description": "Cat café with ~100 free-roaming cats; Cross Avenue Harajuku 4F, 1-14-25 Jingumae (1 min from JR Harajuku Stn); no reservation needed — walk in anytime; drink bar included; open 10:00–21:00 year-round; <a href=\"https://catmocha.jp/en/shop/harajuku/\" target=\"_blank\">Official Site</a>",
-      "price": "Weekend ¥440/10 min (~¥2,640/hr) · max ¥4,620/person (drink bar incl.)"
+    "harajuku-lunch": {
+      "name": "🍽️ Harajuku Lunch [Flexible]",
+      "description": "Free choice around Takeshita-dori or Omotesando; Eggs 'n Things, BAPE Cafe and many more options; refuel before heading to Kichijoji"
     },
     "movement-harajuku-to-kichijoji": {
       "name": "Harajuku → Kichijoji (transit)",

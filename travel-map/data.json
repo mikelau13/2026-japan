@@ -309,21 +309,21 @@
           "type": "area"
         },
         {
-          "id": "harajuku-kawaii-land",
-          "name": "🐱 Cat Cafe MOCHA 原宿店",
+        {
+          "id": "harajuku-lunch",
+          "name": "🍽️ 原宿ランチ【彈性】",
           "lat": 35.670005,
           "lng": 139.703037,
-          "time": "13:30–14:30",
-          "description": "猫咖啡廳；渋谷区神宮前1-14-25 Cross Avenue Harajuku 4F；JR原宿駅 徒步1分；約100隻貓自由走動；無需預約，直接入場；飲料吧含於費用；10:00–21:00（全年無休）；<a href=\"https://catmocha.jp/en/shop/harajuku/\" target=\"_blank\">官網</a>",
-          "type": "attraction",
-          "price": "週末¥440/10分（1小時約¥2,640）・上限¥4,620/人（含飲料吧）"
+          "time": "13:30–14:00",
+          "description": "竹下通周邊或表參道沿線自由選擇；Eggs 'n Things・BAPE Cafe 等選擇豐富；補充體力再出發",
+          "type": "restaurant"
         },
         {
           "id": "movement-harajuku-to-kichijoji",
           "name": "原宿 → 吉祥寺",
           "lat": 35.7027,
           "lng": 139.5800,
-          "time": "14:30–15:00",
+          "time": "14:00–14:30",
           "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR山手線 原宿→渋谷（1停，約2分）→ 京王井の頭線 渋谷→吉祥寺（急行，約26分）；合計約30分，1次換乘；前往吉祥寺プティット村エリア",
           "type": "transit",
           "note": "⚠️ 座標為吉祥寺駅（估算）"
@@ -333,7 +333,7 @@
           "name": "🏰 吉祥寺プティット村 + CAPOON + てまりのおしろ",
           "lat": 35.704654,
           "lng": 139.57473,
-          "time": "15:00–16:45（~105分）",
+          "time": "14:30–16:15（~105分）",
           "description": "童話村落複合設施；東京都武蔵野市吉祥寺本町2-33-2；吉祥寺駅北口步行7分；<br>🍵 <strong>CAPOON抹茶製造所</strong>：石臼現磨抹茶飲品＋甜點（20分）；<br>🏰 <strong>てまりのおしろ</strong>（Castle Cat Cafe）：城堡主題，約20隻貓，2層樓；**週日¥1,800/人**・無時間限制；附輕食菜單；walk-in ✅；10:00–21:00（全年）；<a href=\"https://temarinooshiro.com\" target=\"_blank\">官網</a>",
           "type": "attraction",
           "price": "週日¥1,800/人（4人¥7,200）・無時間限制",
@@ -344,7 +344,7 @@
           "name": "☕ 空想街カフェ 空飛ぶ魚（下午茶）",
           "lat": 35.6940,
           "lng": 139.5790,
-          "time": "17:00–17:45（~45分）",
+          "time": "16:30–17:15（~45分）",
           "description": "童話風格主題咖啡廳；東京都武蔵野市吉祥寺本町2-34-9；吉祥寺駅南口（公園口）步行7分・中道通り沿；繪本作家工作室世界觀；特調飲品＋甜點；⚠️ 週日無午餐套餐，以甜點・飲品為主；11:00–19:00（全年）；<a href=\"https://kichijoji-gourmet.com/kuusougaicafe/\" target=\"_blank\">紹介記事</a>",
           "type": "cafe",
           "note": "⚠️ 座標估算（南口547m，需現場確認）"
@@ -354,7 +354,7 @@
           "name": "🌿 井の頭恩賜公園 湖畔散步【彈性】",
           "lat": 35.7002,
           "lng": 139.5703,
-          "time": "17:45–18:15（~30分）",
+          "time": "17:15–17:45（~30分）",
           "description": "空飛ぶ魚から步行5分；免費；湖畔漫步・天鵝船（レンタルボート，可選）；吉祥寺で最美自然風光；<a href=\"https://www.kensetsu.metro.tokyo.lg.jp/jimusho/seibuk/inokashira/index.html\" target=\"_blank\">公園情報</a>",
           "type": "park",
           "price": "入場免費（天鵝船另計）",
@@ -365,7 +365,7 @@
           "name": "吉祥寺 → 新宿西口",
           "lat": 35.6940,
           "lng": 139.6991,
-          "time": "18:15–18:45",
+          "time": "17:45–18:15",
           "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR中央線（快速）吉祥寺→新宿（約22分）；抵新宿西口步行1分至香川一福；全程約30分",
           "type": "transit",
           "note": "⚠️ 座標為香川一福附近（推算）；需驗證"
@@ -375,7 +375,7 @@
           "name": "🍜 香川一福 西新宿店（晩餐）",
           "lat": 35.6940,
           "lng": 139.6991,
-          "time": "18:45–19:25（~40分）",
+          "time": "18:15–18:55（~40分）",
           "description": "讃岐うどん専門店；新宿区西新宿7-9-15 新宿ダイカンプラザ ビズネス清田ビル1F；大江戸線 新宿西口駅D5出口 步行1分；日祝 11:00–21:00（LO 20:30）；<a href=\"https://kagawa-ippuku.jp/store/\" target=\"_blank\">公式サイト</a>",
           "type": "restaurant",
           "price": "約¥800–1,200/人",
@@ -386,7 +386,7 @@
           "name": "西新宿 → 都庁前駅（晩餐後）",
           "lat": 35.6906,
           "lng": 139.6926,
-          "time": "19:25–20:00",
+          "time": "18:55–20:00",
           "description": "香川一福→都庁前 步行約10–12分（約850m）；or 大江戸線 新宿西口→都庁前（1停，約3分）；確保20:00前到達",
           "type": "transit",
           "note": "✅ 座標已驗證（Mapion）"
