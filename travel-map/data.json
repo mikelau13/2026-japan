@@ -310,14 +310,13 @@
         },
         {
           "id": "harajuku-kawaii-land",
-          "name": "💗 かわいいランドキュンキュン【重點】",
-          "lat": 35.6707,
-          "lng": 139.7050,
+          "name": "🐱 Cat Cafe MOCHA 原宿店",
+          "lat": 35.670005,
+          "lng": 139.703037,
           "time": "13:15–14:15",
-          "description": "🎠 小動物互動樂園（FLEG原宿地下1樓）；1小時體驗限制（旺季規則）；竹下通附近；拍照打卡熱點；全年齡適合；可與小動物互動（兔子、天竺鼠、刺蝟、倉鼠等）；必須提前購票：<a href=\"https://harajukukawaiiland-kyunkyun.com\" target=\"_blank\">官網</a> 或 <a href=\"https://www.asoview.com\" target=\"_blank\">Asoview</a>",
+          "description": "猫咖啡廳；渋谷区神宮前1-14-25 Cross Avenue Harajuku 4F；JR原宿駅 徒步1分；約100隻貓自由走動；無需預約，直接入場；飲料吧含於費用；10:00–21:00（全年無休）；<a href=\"https://catmocha.jp/en/shop/harajuku/\" target=\"_blank\">官網</a>",
           "type": "attraction",
-          "price": "大人¥2,300・小孩（12歳以下）¥1,200・3歳以下無料",
-          "note": "✅ 座標已驗證（Yahoo!マップ）；官網：harajukukawaiiland-kyunkyun.com；可於Asoview/Jalan等預約平台購票享折扣"
+          "price": "週末¥440/10分（1小時約¥2,640）・上限¥4,620/人（含飲料吧）"
         },
         {
           "id": "movement-takeshita-to-shinjuku3",
