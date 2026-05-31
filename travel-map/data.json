@@ -134,7 +134,7 @@
           "lat": 35.654578,
           "lng": 139.762111,
           "time": "17:00以後",
-          "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR山手線 上野→浜松町 or <img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">日比谷線 秋葉原→大門；約20分；返回 Hotel Tabinos；⚠️ 哆啊媒展購票提示：7/04 場次 週六 大人￥2,600・中高生￥2,000（16歲無學生證→大人￥2,600）；需在 7-Eleven マルチコピー機購買紙チケット",
+          "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR山手線 上野→浜松町 or <img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">日比谷線 秋葉原→大門；約20分；返回 Hotel Tabinos；⚠️ 哆啦A夢展購票提示：7/04 場次 週六 大人￥2,600・中高生￥2,000（16歲無學生證→大人￥2,600）；需在 7-Eleven マルチコピー機購買紙チケット",
           "type": "transit"
         }
       ]
@@ -886,7 +886,7 @@
         },
         {
           "id": "tokyo-dream-park-704",
-          "name": "🎡 Tokyo Dream Park（哆啊媒展）",
+          "name": "🎡 Tokyo Dream Park（哆啦A夢展）",
           "lat": 35.6293567,
           "lng": 139.7878091,
           "time": "14:00–17:00",
