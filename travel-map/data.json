@@ -738,7 +738,7 @@
     {
       "date": "2026-07-03",
       "day": "Day 7",
-      "title": "築地 + 歌舞伎座 + 浅草 + かっぱ橋七夕まつり",
+      "title": "築地 + 浅草 + かっぱ橋七夕まつり",
       "segment": "SEG4",
       "locations": [
         {
@@ -762,21 +762,11 @@
           "price": "免費"
         },
         {
-          "id": "kabuki-za",
-          "name": "歌舞伎座 幕見席（昼の部・末広がり）",
-          "lat": 35.6694253,
-          "lng": 139.7677446,
-          "time": "11:00〜",
-          "description": "七月大歌舞伎（7/2–7/26）；昼の部 11:00 開演；推薦幕見：<strong>末広がり</strong>（第一幕・短い祝儀舞踊）；4樓幕見席；英語音頻導覽可租（¥1,000/台）；表演中嚴禁拍攝，幕間可拍舞台背景；<a href=\"https://www.e-tix.jp/shochiku_makumi/\" target=\"_blank\">幕見席オンライン購票</a>；<a href=\"https://www.kabuki-bito.jp/theaters/kabukiza/play/976/\" target=\"_blank\">七月演目詳情</a>",
-          "type": "theater",
-          "price": "幕見席票價待公佈"
-        },
-        {
           "id": "senso-ji",
           "name": "浅草寺・雷門・仲見世商店街",
           "lat": 35.713454,
           "lng": 139.795952,
-          "time": "11:45–12:30",
+          "time": "10:30–11:30",
           "description": "免費；早上人潮較少；傳統寺廟氛圍；從歌舞伎座步行～15分；<a href=\"https://www.senso-ji.jp/guide/guide02.html\" target=\"_blank\">官網</a>",
           "type": "temple",
           "price": "免費"
@@ -786,7 +776,7 @@
           "name": "東本願寺（浅草）",
           "lat": 35.7117329,
           "lng": 139.7896779,
-          "time": "12:30–13:00",
+          "time": "11:30–12:00",
           "description": "免費；台東区西浅草1-5-5；浅草寺から徒歩5分；<a href=\"https://www.higashihonganji.or.jp/\" target=\"_blank\">官網</a>",
           "type": "temple",
           "price": "免費"
@@ -796,7 +786,7 @@
           "name": "Samurai Ninja Museum Asakusa",
           "lat": 35.7115126,
           "lng": 139.7917746,
-          "time": "13:00–14:00",
+          "time": "12:00–13:00",
           "description": "英語ガイド付き；甲冑体験・手裏剣；約60分；<a href=\"https://www.samuraininja-museum.com/\" target=\"_blank\">官網預約</a>；東本願寺から徒歩3分",
           "type": "museum",
           "price": "3,000円/人（4人計12,000円）"
@@ -806,7 +796,7 @@
           "name": "🎋 かっぱ橋本通り・下町七夕まつり",
           "lat": 35.7168,
           "lng": 139.7892,
-          "time": "14:00–14:30",
+          "time": "13:00–14:30",
           "description": "笹飾り・屋台・七夕装飾；昭和通りから国際通りまで約1.2km；Samurai Ninja Museumから徒歩5分；昼食も同時進行（かっぱ橋周辺飲食店）；免費散策；<a href=\"https://e-asakusa.jp/culture-experience/105619\" target=\"_blank\">浅草観光連盟</a> ／ <a href=\"https://shitamachi-tanabata.studio.site/\" target=\"_blank\">公式サイト</a> ／ <a href=\"https://www.youtube.com/watch?v=rG4SvbooRxU\" target=\"_blank\">▶ YouTube</a>",
           "type": "festival",
           "price": "免費",
@@ -817,7 +807,7 @@
           "name": "浅草 → 東銀座酒店 返回",
           "lat": 35.6656,
           "lng": 139.7715,
-          "time": "14:30–16:30",
+          "time": "14:30–16:00",
           "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">日比谷線 浅草駅 → 東銀座駅；約20分；提早返回酒店為翌日做準備",
           "type": "transit"
         },
@@ -835,7 +825,7 @@
     {
       "date": "2026-07-04",
       "day": "Day 8",
-      "title": "築地 + 秋葉原 + みなとみらい + Ado演唱會",
+      "title": "築地 + 歌舞伎座 + 秋葉原 + みなとみらい + Ado演唱會",
       "segment": "SEG4",
       "locations": [
         {
@@ -858,21 +848,30 @@
           "type": "hotel"
         },
         {
+          "id": "kabuki-za",
+          "name": "歌舞伎座 幕見席（昼の部・末広がり）",
+          "lat": 35.6694253,
+          "lng": 139.7677446,
+          "time": "10:00–11:30頃",
+          "description": "七月大歌舞伎（7/2–7/26）；昼の部 11:00 開演；推薦幕見：<strong>末広がり</strong>（第一幕・短い祝儀舞踊）；退房後步行3分；4樓幕見席；英語音頻導覽可租（¥1,000/台）；表演中嚴禁拍攝，幕間可拍舞台背景；<a href=\"https://www.e-tix.jp/shochiku_makumi/\" target=\"_blank\">幕見席オンライン購票</a>；<a href=\"https://www.kabuki-bito.jp/theaters/kabukiza/play/976/\" target=\"_blank\">七月演目詳情</a>",
+          "type": "theater",
+          "price": "幕見席票價待公佈"
+        },
+        {
           "id": "akihabara-lunch-afternoon",
           "name": "★ 秋葉原午餐 + 周邊散策",
           "lat": 35.702160,
           "lng": 139.774583,
-          "time": "10:00–11:00",
-          "description": "【改至 7/4】進入秋葉原；午餐自選（拉麵、定食、迴轉壽司等）；電器街初探",
-          "type": "area",
-          "note": "✅ 10:15-11:00 午餐時段"
+          "time": "11:45–12:30",
+          "description": "歌舞伎座→秋葉原 日比谷線 約15分；進入秋葉原；午餐自選（拉麵、定食、迴轉壽司等）；電器街初探",
+          "type": "area"
         },
         {
           "id": "akiba-fukurou-owl-cafe-4",
           "name": "🦉 Akiba Fukurou Owl Cafe",
           "lat": 35.702160,
           "lng": 139.774583,
-          "time": "11:00–12:00",
+          "time": "12:30–13:30",
           "description": "貓頭鷹互動體驗【改至 7/4】；必須提前預約；現金only；可愛的貓頭鷹、拍照、飲食體驗；秋葉原內；1小時体驗；<a href=\"https://visit-chiyoda.tokyo/app/en/spot/detail/729\" target=\"_blank\">Info</a>",
           "type": "cafe",
           "price": "3,300円/人",
@@ -883,7 +882,7 @@
           "name": "秋葉原周邊散策・購物",
           "lat": 35.702160,
           "lng": 139.774583,
-          "time": "12:00–13:15",
+          "time": "13:30–14:00",
           "description": "Owl Cafe後；逛電器街、遊戲廳、模型店、手辦店；購物體驗",
           "type": "area"
         },
