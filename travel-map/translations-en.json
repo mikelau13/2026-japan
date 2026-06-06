@@ -1,38 +1,16 @@
 {
   "days": {
-    "2026-06-26": {
-      "title": "Haneda Arrival + Easy Evening"
-    },
-    "2026-06-27": {
-      "title": "Hamamatsucho → Akihabara"
-    },
-    "2026-06-28": {
-      "title": "Tsukiji + Asakusa Shitamachi"
-    },
-    "2026-06-29": {
-      "title": "Shinkansen ～teamLab + Echigo-Yuzawa Onsen～"
-    },
-    "2026-06-30": {
-      "title": "Echigo-Yuzawa ～Kiyotsu Gorge + Niigata City～"
-    },
-    "2026-07-01": {
-      "title": "Shibata City Day Trip + Otakusen Ceremony"
-    },
-    "2026-07-02": {
-      "title": "Kawagoe Little Edo Half-Day → Higashi-Ginza + Odaiba Evening"
-    },
-    "2026-07-03": {
-      "title": "Meiji Shrine + Harajuku + Kichijoji + Shinjuku"
-    },
-    "2026-07-04": {
-      "title": "SMALL WORLDS + Doraemon Exhibition + Shin-Yokohama + Ado Concert"
-    },
-    "2026-07-05": {
-      "title": "Yokohama Walk + Minatomirai + Ado Concert"
-    },
-    "2026-07-06": {
-      "title": "Kawasaki Daishi + Return to Canada"
-    }
+    "2026-06-26": { "title": "Haneda Arrival + Easy Evening" },
+    "2026-06-27": { "title": "Hamamatsucho → Ariake → Toyosu → Odaiba" },
+    "2026-06-28": { "title": "Harajuku + Shinjuku ～Projection Mapping Night Show～" },
+    "2026-06-29": { "title": "Shinkansen ～teamLab + Echigo-Yuzawa Onsen～" },
+    "2026-06-30": { "title": "Echigo-Yuzawa ～Kiyotsu Gorge + Niigata City～" },
+    "2026-07-01": { "title": "Shibata City Day Trip + Otakusen Ceremony" },
+    "2026-07-02": { "title": "Kawagoe Little Edo Half-Day + Tokyo Higashi-Ginza" },
+    "2026-07-03": { "title": "Tsukiji + Asakusa + Kappabashi Tanabata" },
+    "2026-07-04": { "title": "Tsukiji + Kabuki-za + Akihabara + Minatomirai + Ado Concert" },
+    "2026-07-05": { "title": "Yokohama Walk + Minatomirai + Ado Concert" },
+    "2026-07-06": { "title": "Kawasaki Daishi + Return to Canada" }
   },
   "locations": {
     "haneda": {
@@ -140,8 +118,8 @@
       "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Yurikamome Line; Odaiba→Takeiba; ~20 min; return to Hotel Tabinos to rest"
     },
     "hotel-breakfast-28": {
-      "name": "Hotel Tabinos Breakfast + Pack Up",
-      "description": "Last breakfast at Hotel Tabinos (checkout today); fuel up and tidy luggage; store bags before heading to Tsukiji"
+      "name": "Hotel Breakfast",
+      "description": "Restaurant at Takeiba Station; fuel up for a full day in Harajuku + Shinjuku"
     },
     "movement-hotel-to-sangubashi": {
       "name": "Takeiba → Sangubashi (transit)",
@@ -514,229 +492,6 @@
     "haneda-return": {
       "name": "Haneda Airport – International Departure",
       "description": "Collect luggage + duty-free shopping + check-in + immigration; arrive at airport by 13:30"
-    },
-    "movement-hotel-to-akihabara-27": {
-      "name": "Takeiba → Akihabara (transit)",
-      "description": "Toei Asakusa Line from Daimon Stn → transfer to Hibiya Line → Akihabara; ~20 min"
-    },
-    "akihabara-morning-27": {
-      "name": "⚡ Akihabara – Morning Explore",
-      "description": "Electronics town, anime district, gacha machines, arcades; Yodobashi Camera, Akihabara Radio Center, Mandarake; explore at leisure; <a href=\"https://www.akihabara.or.jp/\" target=\"_blank\">Akihabara Info</a>",
-      "price": "Free (shopping extra)"
-    },
-    "akihabara-lunch-27": {
-      "name": "🍽️ Akihabara Lunch",
-      "description": "Free choice around the electronics district; ramen, set meals, conveyor sushi; refuel before afternoon activities"
-    },
-    "akiba-fukurou-27": {
-      "name": "🦉 Akiba Fukurou Owl Café [Recommended – Pre-book]",
-      "description": "Interactive owl experience; must pre-book online before trip; cash only; 1-hr session; ⚠️ Saturday is busy — book early; <a href=\"https://visit-chiyoda.tokyo/app/en/spot/detail/729\" target=\"_blank\">Info</a>",
-      "price": "¥3,300/person (cash only)"
-    },
-    "akihabara-shopping-27": {
-      "name": "🎮 Akihabara – Afternoon Shopping",
-      "description": "Electronics street, arcades, model shops, figure stores, Gunpla; classic Akihabara experience"
-    },
-    "ueno-ameyoko-optional-27": {
-      "name": "🌳 Ueno Park + Ameyoko Market [Flexible]",
-      "description": "[Optional] 10 min walk or 1 JR stop from Akihabara; Ueno Onshi Park, Shinobazu Pond, Ameya-Yokocho market (post-war black market vibes); free to explore",
-      "price": "Free"
-    },
-    "movement-return-hotel-27": {
-      "name": "Akihabara / Ueno → Hotel (return)",
-      "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR Yamanote Line Ueno→Hamamatsucho or <img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Hibiya Line Akihabara→Daimon; ~20 min; return to Hotel Tabinos; ⚠️ Doraemon ticket reminder: buy 7-Eleven マルチコピー paper ticket for 7/04 show; Sat price: Adult ¥2,600, Student ¥2,000 (age 16 no student card → Adult ¥2,600)"
-    },
-    "hotel-checkout-28": {
-      "name": "🔔 Hotel Tabinos Checkout + Luggage Storage",
-      "description": "Check out; store luggage with hotel (confirm service hours); tonight’s hotel TBD — recommend area near teamLab (Azabudai Hills) or Tokyo Stn (Shinkansen next morning 6/29)"
-    },
-    "movement-to-tsukiji-28": {
-      "name": "Takeiba → Tsukiji (transit)",
-      "description": "Toei Asakusa Line Daimon→Tsukiji; ~15 min; head to outer market"
-    },
-    "tsukiji-market-28": {
-      "name": "🐟 Tsukiji Outer Market (morning)",
-      "description": "Morning breakfast; fresh seafood, tamagoyaki, sushi bowls; open from 06:00; peak freshness early morning; <a href=\"https://www.tsukiji.or.jp/\" target=\"_blank\">Official Site</a>",
-      "price": "Varies by stall"
-    },
-    "tsukiji-honganji-28": {
-      "name": "⛩️ Tsukiji Honganji Temple",
-      "description": "5 min walk from outer market; free; striking Indian-style Buddhist architecture; Jodo Shinshu Nishi-Honganjiha; <a href=\"https://tsukijihongwanji.jp/\" target=\"_blank\">Official Site</a>",
-      "price": "Free"
-    },
-    "movement-tsukiji-to-asakusa-28": {
-      "name": "Tsukiji → Asakusa (transit)",
-      "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Hibiya Line toward Ueno direction or Ginza Line to Asakusa; ~30 min; heading to Shitamachi"
-    },
-    "senso-ji-28": {
-      "name": "⛩️ Senso-ji, Kaminarimon & Nakamise",
-      "description": "Tokyo’s oldest temple; free; iconic Kaminarimon thunder gate; Nakamise shopping arcade (~250m); omiyage, ningyo-yaki, kaminari-okoshi; <a href=\"https://www.senso-ji.jp/guide/guide02.html\" target=\"_blank\">Official Site</a>",
-      "price": "Free"
-    },
-    "higashi-hongan-ji-28": {
-      "name": "⛩️ Higashi Hongan-ji (Asakusa)",
-      "description": "Free; West Asakusa 1-5-5; 5 min walk from Senso-ji; peaceful Jodo Shinshu temple; <a href=\"https://www.higashihonganji.or.jp/\" target=\"_blank\">Official Site</a>",
-      "price": "Free"
-    },
-    "asakusa-lunch-28": {
-      "name": "🍽️ Asakusa Lunch",
-      "description": "Free choice around Asakusa; old-school tempura, dojo, monjayaki; refuel before afternoon activities"
-    },
-    "samurai-ninja-28": {
-      "name": "🥷 Samurai Ninja Museum Asakusa [Recommended – Pre-book]",
-      "description": "English-guided tour; armour wearing + shuriken throwing; ~60 min; pre-book online recommended; 3 min walk from Higashi Hongan-ji; <a href=\"https://www.samuraininja-museum.com/\" target=\"_blank\">Book Online</a>",
-      "price": "¥3,000/person (¥12,000 for 4)"
-    },
-    "asakusa-afternoon-28": {
-      "name": "🚶 Asakusa – Free Afternoon",
-      "description": "Asakusa Culture Tourist Information Center, Denpo-in-dori, Rokku Broadway; stroll shitamachi at your own pace"
-    },
-    "movement-to-hotel-28": {
-      "name": "Asakusa → Tonight’s Hotel (TBD)",
-      "description": "Head to 6/28 hotel (TBD); recommend area near teamLab Borderless (Azabudai Hills / Roppongi) or Tokyo Stn; ⚠️ teamLab 08:30 entry tomorrow (6/29) — sleep early"
-    },
-    "movement-ginza-to-divercity-702": {
-      "name": "Via Inn Higashi-Ginza → DiverCity Tokyo",
-      "description": "Higashi-Ginza → Toei Asakusa Line → Shimbashi → <img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Yurikamome → Aomi Stn; ~35–40 min; heading to Odaiba DiverCity"
-    },
-    "divercity-dinner-702": {
-      "name": "🍽️ DiverCity Dinner",
-      "description": "Wide range of restaurants inside DiverCity mall; relax with a good meal; ⚠️ today is the longest day (~12–13 hrs); rest before Gundam show; <a href=\"https://mitsui-shopping-park.com/divercity-tokyo/\" target=\"_blank\">DiverCity Official</a>",
-      "price": "~¥1,500–3,000/person"
-    },
-    "gundam-night-702": {
-      "name": "🌃 Unicorn Gundam Night Show [Recommended 20:00]",
-      "description": "⚠️ LAST CHANCE — retiring end of August 2026 (nearly 9 years)! Free; WALL-G shows every 30 min (19:00–21:30); 20:00 = UNICORN Special Movie (recommended); <a href=\"https://www.unicorn-gundam-statue.jp/\" target=\"_blank\">Official Site</a>",
-      "price": "Free"
-    },
-    "aqua-symphony-optional-702": {
-      "name": "💦 Tokyo Aqua Symphony [Optional – 21:00]",
-      "description": "[Optional] 15–20 min walk after Gundam show; free; Odaiba Marine Park; if energy allows add this on; if tired, head straight back to hotel; <a href=\"https://tokyoaquasymphony.jp/en/\" target=\"_blank\">Official Site</a>",
-      "price": "Free"
-    },
-    "movement-return-hotel-702": {
-      "name": "Aomi → Via Inn Higashi-Ginza (return)",
-      "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Yurikamome Aomi→Shimbashi → Toei Asakusa Line → Higashi-Ginza; ~30 min; return to hotel and rest"
-    },
-    "hotel-breakfast-703": {
-      "name": "Via Inn Higashi-Ginza Breakfast",
-      "description": "Hotel breakfast; fuel up for a full day: Meiji Shrine → Harajuku → Kichijoji → Shinjuku"
-    },
-    "movement-viain-to-sangubashi-703": {
-      "name": "Via Inn → Sangubashi Stn (transit)",
-      "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Hibiya Line Higashi-Ginza → Chiyoda Line direction Meiji-jingumae → Sangubashi Stn; ~20 min; heading to Meiji Shrine north entrance"
-    },
-    "movement-sangubashi-to-meiji-north-703": {
-      "name": "Sangubashi → Meiji Shrine North Gate (walk)",
-      "description": "Walk ~30 min through greenery to the north entrance of Meiji Shrine"
-    },
-    "meiji-shrine-703": {
-      "name": "⛩️ Meiji Shrine – Forest Walk",
-      "description": "Japan's most important Shinto shrine; free; enter north gate, exit east; serene forested path; peaceful contrast to the city; <a href=\"https://www.meijijingu.or.jp\" target=\"_blank\">Official Site</a>",
-      "price": "Free"
-    },
-    "omotesando-703": {
-      "name": "🚶 Omotesando (表參道)",
-      "description": "Tokyo's premier upscale shopping street; LV, Gucci, Prada flagships; beautiful architecture; connects directly from Meiji Shrine east exit"
-    },
-    "movement-omotesando-to-takeshita-703": {
-      "name": "Omotesando → Takeshita-dori (walk)",
-      "description": "10–15 min walk; from Omotesando area straight to Takeshita-dori entrance"
-    },
-    "harajuku-takeshita-703": {
-      "name": "🚶 Takeshita-dori – 60 min",
-      "description": "World-famous Harajuku youth fashion street; H&M, Forever 21, indie shops, crepes, accessories; lively crowds; eat & browse; <a href=\"https://gltjp.com/ja/article/item/20395/\" target=\"_blank\">Info</a>"
-    },
-    "harajuku-lunch-703": {
-      "name": "🍽️ Harajuku Lunch [Flexible]",
-      "description": "Free choice around Takeshita-dori or Omotesando; Eggs 'n Things, BAPE Cafe and many options; refuel before heading to Kichijoji"
-    },
-    "movement-harajuku-to-kichijoji-703": {
-      "name": "Harajuku → Kichijoji (transit)",
-      "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR Yamanote Line Harajuku→Shibuya (1 stop, ~2 min) → Keio Inokashira Line Shibuya→Kichijoji (Express, ~26 min); ~30 min total, 1 transfer"
-    },
-    "kichijoji-petitmura-temarinooshiro-703": {
-      "name": "🏰 Kichijoji Petit Mura + CAPOON + Temari no Oshiro Cat Café (Weekday)",
-      "description": "Fairy-tale village complex; 2-33-2 Kichijoji Honcho, Musashino; 7-min walk from North Exit; 🍵 <strong>CAPOON Matcha</strong>: stone-ground matcha drinks & desserts; 🏰 <strong>Temari no Oshiro</strong> (Castle Cat Café): ~20 cats, 2-storey castle; ⚠️ <strong>Weekday pricing TBC</strong> (weekend ¥1,800/person); walk-ins welcome; 10:00–21:00; <a href=\"https://temarinooshiro.com\" target=\"_blank\">Official Site</a>",
-      "price": "Weekday price TBC (weekend ¥1,800/person)"
-    },
-    "movement-kichijoji-north-to-south-703": {
-      "name": "Kichijoji North Exit → South Exit (walk)",
-      "description": "Walk from Petit Mura (North Exit area) to café street (South Exit area); ~15 min"
-    },
-    "kichijoji-soratobusakana-703": {
-      "name": "☕ Kuusougai Café — Flying Fish (Afternoon Tea)",
-      "description": "Fantasy-themed café; 2-34-9 Kichijoji Honcho; 7-min walk from South Exit (Park Exit) along Nakamichi-dori; picture-book atelier concept; specialty drinks & desserts; open 11:00–19:00; <a href=\"https://kichijoji-gourmet.com/kuusougaicafe/\" target=\"_blank\">Info article</a>"
-    },
-    "kichijoji-inokashira-park-703": {
-      "name": "🌿 Inokashira Park – Lakeside Stroll [Flexible]",
-      "description": "5-min walk from Flying Fish Café; free entry; lakeside walk + optional swan boat rental; most scenic natural spot in Kichijoji; <a href=\"https://www.kensetsu.metro.tokyo.lg.jp/jimusho/seibuk/inokashira/index.html\" target=\"_blank\">Park Info</a>",
-      "price": "Free entry (swan boats extra)"
-    },
-    "movement-kichijoji-to-shinjuku-703": {
-      "name": "Kichijoji → Shinjuku West (transit)",
-      "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR Chuo Line (Rapid) Kichijoji→Shinjuku (~22 min); 1-min walk to Kagawa Ippuku; ~30 min total"
-    },
-    "shinjuku-kagawa-ippuku-703": {
-      "name": "🍜 Kagawa Ippuku Nishi-Shinjuku (Dinner)",
-      "description": "Sanuki udon specialty; 7-9-15 Nishi-Shinjuku; 1-min walk from Toei Oedo Line Shinjuku-Nishiguchi D5 exit; Friday 11:00–21:30 (last order 21:00); <a href=\"https://kagawa-ippuku.jp/store/\" target=\"_blank\">Official Site</a>",
-      "price": "~¥800–1,200/person"
-    },
-    "movement-shinjuku-to-tochomae-703": {
-      "name": "Nishi-Shinjuku → Tochomae (after dinner)",
-      "description": "Walk ~10–12 min (~850m) from Kagawa Ippuku; or Toei Oedo Line Shinjuku-Nishiguchi→Tochomae (1 stop, ~3 min); must arrive by 20:00"
-    },
-    "tokyo-night-light-703": {
-      "name": "✨ Tokyo Night Light – Shinjuku Projection Mapping [Must-see]",
-      "description": "Tokyo Metropolitan Government Building (directly at Tochomae Stn); massive outdoor projection mapping show; every night 20:00–21:00; free; breathtaking light art; <a href=\"https://tokyoprojectionmappingproject.jp/en/\" target=\"_blank\">Official Site</a>",
-      "price": "Free"
-    },
-    "movement-return-viain-703": {
-      "name": "Tochomae → Via Inn Higashi-Ginza (return)",
-      "description": "<img src=\"img/transit/M.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Marunouchi Line Tochomae→Ginza → <img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Hibiya Line Higashi-Ginza; ~25 min; return to hotel and rest"
-    },
-    "hotel-breakfast-704": {
-      "name": "Via Inn Higashi-Ginza Breakfast",
-      "description": "Hotel breakfast; fuel up — today is a moving day with packed schedule: SMALL WORLDS → Toyosu → Doraemon → Shin-Yokohama → Ado Concert"
-    },
-    "hotel-checkout-704": {
-      "name": "🔔 Via Inn Higashi-Ginza Checkout + Luggage Storage",
-      "description": "Check out; hotel stores luggage until ~17:00 (collect before heading to Shin-Yokohama); complete checkout by 10:00; ⚠️ [Optional: Kabuki-za Makumiseki] hotel is 3-min walk to Kabuki-za — if time allows, queue for “Suehirogari” curtain-view seat (11:00, ~30 min); doing so pushes SMALL WORLDS to 12:00 — decide based on energy; <a href=\"https://www.e-tix.jp/shochiku_makumi/\" target=\"_blank\">Curtain-View Tickets</a>"
-    },
-    "movement-viain-to-ariake-704": {
-      "name": "Via Inn Higashi-Ginza → Ariake Tennis-no-Mori (transit)",
-      "description": "Higashi-Ginza Stn → Shimbashi → <img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Yurikamome → Ariake Tennis-no-Mori Stn; ~30 min; heading to SMALL WORLDS"
-    },
-    "small-worlds-704": {
-      "name": "🎮 SMALL WORLDS TOKYO",
-      "description": "World's largest miniature theme park; 3 min from Ariake Tennis-no-Mori Stn; 3 hrs recommended; intricate diorama displays; ⚠️ pre-book online (Saturday is busy); <a href=\"https://www.smallworlds.jp\" target=\"_blank\">Official Site</a>",
-      "price": "Adult ¥3,200 · Student ¥2,100 (4 people = ¥10,600)"
-    },
-    "movement-ariake-to-ichiba-704": {
-      "name": "Ariake Tennis-no-Mori → Ichiba-mae (Yurikamome)",
-      "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Yurikamome; very short ~5 min; direct to Toyosu Sengyoku Mankara"
-    },
-    "toyosu-sengyoku-704": {
-      "name": "🍱 Toyosu Sengyoku Mankara (Lunch)",
-      "description": "Gourmet food hall 4 min from Ichiba-mae Stn; fresh seafood, rice bowls, soba; ~1.5 hrs dining; <a href=\"https://www.toyosu-senkyakubanrai.jp\" target=\"_blank\">Official Site</a>",
-      "price": "~¥1,500–3,000/person"
-    },
-    "movement-ichiba-to-ariake-704": {
-      "name": "Ichiba-mae → Ariake Tennis-no-Mori (Yurikamome)",
-      "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Yurikamome; ~5 min return after lunch; back to Tokyo Dream Park"
-    },
-    "tokyo-dream-park-704": {
-      "name": "🎡 Tokyo Dream Park – Doraemon Exhibition",
-      "description": "3-min walk from Ariake Tennis-no-Mori; 100% Doraemon Exhibition; ⚠️ buy paper ticket at any 7-Eleven マルチコピー machine between 6/27 and 7/03; <a href=\"https://tdp.tv-asahi.co.jp/\" target=\"_blank\">Official Site</a>",
-      "price": "Sat: Adult ¥2,600 · Student ¥2,000 · Child ¥1,800"
-    },
-    "movement-ariake-to-viain-704": {
-      "name": "Ariake → Via Inn Higashi-Ginza (collect luggage)",
-      "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Yurikamome → Shimbashi → Toei Asakusa Line → Higashi-Ginza; ~30 min; collect stored luggage from hotel"
-    },
-    "movement-viain-to-shinyoko-704": {
-      "name": "Higashi-Ginza → Shin-Yokohama (transit)",
-      "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Higashi-Ginza→Shinagawa→JR Tokaido Line→Yokohama→JR Yokohama Line→Shin-Yokohama; ~45–50 min; check in at Super Hotel on arrival"
     }
   }
 }

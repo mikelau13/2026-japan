@@ -59,7 +59,7 @@
     {
       "date": "2026-06-27",
       "day": "Day 1",
-      "title": "浜松町 → 秋葉原",
+      "title": "浜松町 → 有明 → 豐洲 → 青海・台場",
       "segment": "SEG1",
       "locations": [
         {
@@ -72,69 +72,167 @@
           "type": "restaurant"
         },
         {
-          "id": "movement-hotel-to-akihabara-27",
-          "name": "竹芝駅 → 秋葉原駅",
-          "lat": 35.70216,
-          "lng": 139.774583,
+          "id": "movement-to-ariake",
+          "name": "竹芝駅 → 有明テニスの森駅",
+          "lat": 35.637887,
+          "lng": 139.788362,
           "time": "09:00–09:30",
-          "description": "都営浅草線 大門駅→日比谷線乗換至秋葉原；約20分",
+          "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">ゆりかもめ 竹芝駅 → 有明テニスの森駅；約15–20分",
           "type": "transit"
         },
         {
-          "id": "akihabara-morning-27",
-          "name": "⚡ 秋葉原 上午散策",
-          "lat": 35.70216,
-          "lng": 139.774583,
-          "time": "09:30–12:00",
-          "description": "電器街・アニメ聖地・ガチャガチャ・ゲームセンター；秋葉原駅周渺自由散策；Yodobashi Camera・Akihabara Radio Center・Mandarake等；<a href=\"https://www.akihabara.or.jp/\" target=\"_blank\">秋葉原情報</a>",
-          "type": "area",
-          "price": "免費（購物別途）"
-        },
-        {
-          "id": "akihabara-lunch-27",
-          "name": "🍽️ 秋葉原ランチ",
-          "lat": 35.70216,
-          "lng": 139.774583,
-          "time": "12:00–13:00",
-          "description": "電器街周渺自由選擇；拉麵・定食・迄轉壽司等；補充體力再出發",
-          "type": "restaurant"
-        },
-        {
-          "id": "akiba-fukurou-27",
-          "name": "🦉 Akiba Fukurou Owl Cafe【建議辦】",
-          "lat": 35.70216,
-          "lng": 139.774583,
-          "time": "13:00–14:00",
-          "description": "貓頭鷹互動體驗；須旅行前網上預約；現金only；1小時體驗；秋葉原內；⚠️ 週六旺季建議出發前預約；<a href=\"https://visit-chiyoda.tokyo/app/en/spot/detail/729\" target=\"_blank\">Info</a>",
-          "type": "cafe",
-          "price": "￥3,300/人（現金only）"
-        },
-        {
-          "id": "akihabara-shopping-27",
-          "name": "🎮 秋葉原 下午購物",
-          "lat": 35.70216,
-          "lng": 139.774583,
-          "time": "14:00–16:00",
-          "description": "電器街・遂戲廳・模型店・手辦店・ガンプラ；自由購物體驗",
-          "type": "shopping"
-        },
-        {
-          "id": "ueno-ameyoko-optional-27",
-          "name": "🌳 上野公園・アメヤ横丁【彈性】",
-          "lat": 35.7144,
-          "lng": 139.7742,
-          "time": "16:00–17:00",
-          "description": "【彈性可選】秋葉原から步行10分 or JR1停；上野恩赐公園・不忍池・アメヤ横丁（戦後闇市の面影）；免費散策",
-          "type": "park",
+          "id": "gundam-stamp-1-odaiba-kaihin",
+          "name": "【スタンプ①】お台場海浜公園駅（可選）",
+          "lat": 35.629889,
+          "lng": 139.778778,
+          "time": "～09:15（往有明途中下車）",
+          "description": "【可選】ガンダムスタンプラリー2026 第2弾（6/8–7/12）；章在站內スタンプ台；ゆりかもめ途中下車，蓋完候下班車；僅需2–3分鐘",
+          "type": "landmark",
           "price": "免費"
         },
         {
-          "id": "movement-return-hotel-27",
-          "name": "秋葉原／上野 → Hotel 返回",
+          "id": "gundam-stamp-2-waterbus",
+          "name": "【スタンプ②】水上バス乗り場（可選）",
+          "lat": 35.628866,
+          "lng": 139.773681,
+          "time": "～09:20（お台場海浜公園駅步行5分）",
+          "description": "【可選】ガンダムスタンプラリー2026 第2弾（6/8–7/12）；港区台場1-4-1；お台場海浜公園駅から步行約5分；蓋完原路返站候車",
+          "type": "landmark",
+          "price": "免費"
+        },
+        {
+          "id": "gundam-stamp-3-daiba-station",
+          "name": "【スタンプ③】台場駅（可選）",
+          "lat": 35.625889,
+          "lng": 139.771417,
+          "time": "～09:25（往有明途中下車）",
+          "description": "【可選】ガンダムスタンプラリー2026 第2弾（6/8–7/12）；章在站內スタンプ台；ゆりかもめ途中下車，蓋完候下班車；僅需2–3分鐘",
+          "type": "landmark",
+          "price": "免費"
+        },
+        {
+          "id": "gundam-stamp-4-shiokaze",
+          "name": "【スタンプ④】潮風公園 展望デッキ（可選）",
+          "lat": 35.625271,
+          "lng": 139.767809,
+          "time": "～09:35（台場駅步行5–10分）",
+          "description": "【可選】ガンダムスタンプラリー2026 第2弾（6/8–7/12）；台場駅から步行約5–10分；展望デッキ上スタンプ台；蓋完返台場駅候車；海景一望",
+          "type": "landmark",
+          "price": "免費"
+        },
+        {
+          "id": "small-worlds",
+          "name": "🎮 SMALL WORLDS TOKYO",
+          "lat": 35.637887,
+          "lng": 139.788362,
+          "time": "09:30–12:30",
+          "description": "【必辦】世界最大級迷你模型館；有明テニスの森駅 3分；建議2.5–3小時；或改為 Tokyo Dream Park 哆啦A夢展（上下午可二選一）；<a href=\"https://www.smallworlds.jp\" target=\"_blank\">官網</a>",
+          "type": "attraction",
+          "price": "大人3,200円・中高生2,100円"
+        },
+        {
+          "id": "movement-to-ichiba-mae",
+          "name": "有明テニスの森駅 → 市場前駅",
+          "lat": 35.6457334,
+          "lng": 139.785686,
+          "time": "12:30–12:35",
+          "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">ゆりかもめ 有明テニスの森駅 → 市場前駅；極短距離 約5分；直達豐洲千客万来",
+          "type": "transit"
+        },
+        {
+          "id": "toyosu-sengyoku-mankara",
+          "name": "🍱 豐洲千客万来",
+          "lat": 35.6457275,
+          "lng": 139.7836383,
+          "time": "13:00–14:30",
+          "description": "【必辦】豐洲駅附近美食廣場（市場前駅4分鐘）；自由選擇海鮮・丼・蕎麦等；大樓地下～3F；約1.5小時用餐；品嚐新鮮漁獲；<a href=\"https://www.toyosu-senkyakubanrai.jp\" target=\"_blank\">官網</a>",
+          "type": "restaurant",
+          "price": "價格自選（平均¥1,500–3,000/人）"
+        },
+        {
+          "id": "movement-back-to-ariake",
+          "name": "市場前駅 → 有明テニスの森駅",
+          "lat": 35.637887,
+          "lng": 139.788362,
+          "time": "14:30–14:35",
+          "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">ゆりかもめ 市場前駅 → 有明テニスの森駅；約5分；午餐後返回景點區域",
+          "type": "transit"
+        },
+        {
+          "id": "tokyo-dream-park",
+          "name": "🎡 Tokyo Dream Park",
+          "lat": 35.6293567,
+          "lng": 139.7878091,
+          "time": "14:30–17:00",
+          "description": "【必辦】有明駅；屋上広場（免費）＋大谷翔平金像；100%ドラえもん展（¥2,400/人 週末前售，可選）；建議2–3小時；或改為 SMALL WORLDS（與上午協調）；<a href=\"https://tdp.tv-asahi.co.jp/\" target=\"_blank\">官網</a>",
+          "type": "attraction",
+          "price": "屋上広場免費；ドラえもん展 大人2,400円・中高生1,800円"
+        },
+        {
+          "id": "movement-to-odaiba",
+          "name": "有明テニスの森駅 → 青海駅",
+          "lat": 35.6247851,
+          "lng": 139.7758551,
+          "time": "17:00–17:15",
+          "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">ゆりかもめ 有明テニスの森駅 → 青海駅；約15分；前往 DiverCity",
+          "type": "transit"
+        },
+        {
+          "id": "divercity-afternoon",
+          "name": "🎮 DiverCity 下午菜單（彈性組合）",
+          "lat": 35.6247851,
+          "lng": 139.7758551,
+          "time": "17:30–19:00",
+          "description": "進出自由，時間完全彈性，自由選擇：✅<a href=\"https://unkomuseum.com/tokyo/\" target=\"_blank\">便便博物館</a>(1–1.5h) ✅Gundam Base(0.5–2h) ✅Gundam立像日景＆拍照 ✅商場購物逛街 ✅咖啡輕食；✅【スタンプラリー】ガンダムプロジェクト2026 第2弾（6/8–7/12）DiverCity 2F為集章點之一，集齊6章→即場抽獎機抽 RG 金塗装ガンプラ等（即場出結果，即場領獎，旅客適合參加）；<a href=\"https://mitsui-shopping-park.com/divercity-tokyo/info/2670391.html\" target=\"_blank\">DiverCity官網</a>",
+          "type": "attraction",
+          "price": "便便博物館¥2,000～；其他免費"
+        },
+        {
+          "id": "divercity-dinner",
+          "name": "🍽️ DiverCity 晚餐",
+          "lat": 35.6247851,
+          "lng": 139.7758551,
+          "time": "19:00–20:00",
+          "description": "商場內餐廳眾多；邊吃邊看 Gundam 日景轉夜景",
+          "type": "restaurant",
+          "price": "價格自選（平均¥1,500–3,000/人）"
+        },
+        {
+          "id": "gundam-night",
+          "name": "🌃 ユニコーンガンダム 夜間演出",
+          "lat": 35.6247851,
+          "lng": 139.7758551,
+          "time": "20:00–20:20",
+          "description": "⚠️【最後機會！】2026年8月底永久撤除（近9年歷史）；免費；WALL-G夜間演出每30分一場（19:00–21:30）：19:00 Gundam 45週年特別映像・20:00 UNICORN Special Movie・21:30 GUNDAM:BEYOND等；【推薦場次：20:00 場】；旅行中剛有スタンプラリー（6/8–7/12）可於DiverCity 2F集章；<a href=\"https://www.unicorn-gundam-statue.jp/\" target=\"_blank\">官網</a>",
+          "type": "attraction",
+          "price": "免費"
+        },
+        {
+          "id": "movement-to-odaiba-bay",
+          "name": "青海駅 → 台場海浜公園",
+          "lat": 35.6300,
+          "lng": 139.7750,
+          "time": "20:20–20:45",
+          "description": "DiverCity 後方步行15–20分至台場海浜公園；沿路東京灣景色優美",
+          "type": "transit"
+        },
+        {
+          "id": "aqua-symphony",
+          "name": "💦 Tokyo Aqua Symphony 夜間噴水秀",
+          "lat": 35.6300,
+          "lng": 139.7750,
+          "time": "21:00–21:10",
+          "description": "免費；台場駅徒歩3分；在 Gundam 後方；每日10場（11/12/13/14/15/17/18/19/20/21時）；【推薦場次：21:00 場】；約10分；<a href=\"https://tokyoaquasymphony.jp/en/\" target=\"_blank\">官網</a>",
+          "type": "attraction",
+          "price": "免費"
+        },
+        {
+          "id": "movement-return-to-hotel",
+          "name": "台場駅 → 竹芝駅 返 Hotel",
           "lat": 35.654578,
           "lng": 139.762111,
-          "time": "17:00以後",
-          "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR山手線 上野→浜松町 or <img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">日比谷線 秋葉原→大門；約20分；返回 Hotel Tabinos；⚠️ 哆啦A夢展購票提示：7/04 場次 週六 大人￥2,600・中高生￥2,000（16歲無學生證→大人￥2,600）；需在 7-Eleven マルチコピー機購買紙チケット",
+          "time": "21:10–21:30",
+          "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">ゆりかもめ 台場駅 → 竹芝駅；約20分；返回 Hotel Tabinos 休息",
           "type": "transit"
         }
       ]
@@ -142,120 +240,174 @@
     {
       "date": "2026-06-28",
       "day": "Day 2",
-      "title": "築地 + 浅草 下町遊",
+      "title": "原宿 → 吉祥寺 → 新宿 全天行程 ～猫・童話村落・投影映射夜景～",
       "segment": "SEG1",
       "locations": [
         {
           "id": "hotel-breakfast-28",
-          "name": "Hotel Tabinos 早餐 ＋ 行李整理",
+          "name": "Hotel Tabinos 早餐",
           "lat": 35.654578,
           "lng": 139.762111,
-          "time": "07:30–08:30",
-          "description": "竹芝駅併設餐廳；充分補給；整理行李準備退房；⚠️ 今日為 Hotel Tabinos 最後一晊，8:30 辦理退房",
+          "time": "08:00–09:00",
+          "description": "竹芝駅併設餐廳；充分補給，準備整日活動",
           "type": "restaurant"
         },
         {
-          "id": "hotel-checkout-28",
-          "name": "🔔 Hotel Tabinos Checkout ＋ 行李寄存",
-          "lat": 35.654578,
-          "lng": 139.762111,
-          "time": "08:30–09:00",
-          "description": "辦理退房；行李可寄存至酒店（確認服務時間）；今晊住宿待定，建議選靠近 teamLab 麐布台ヒルズ 或 東京駅 的區域（翄日 6/29 早上前往 teamLab Borderless）",
-          "type": "hotel"
+          "id": "movement-hotel-to-sangubashi",
+          "name": "竹芝駅 → 參宮橋駅",
+          "lat": 35.6783,
+          "lng": 139.6936,
+          "time": "09:00–09:30",
+          "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR山手線 竹芝駅→參宮橋駅 北上；約30分；前往明治神宮北入口",
+          "type": "transit",
+          "note": "✅ 已驗證（latitude.to）"
         },
         {
-          "id": "movement-to-tsukiji-28",
-          "name": "竹芝駅 → 築地駅",
-          "lat": 35.6656,
-          "lng": 139.7715,
-          "time": "09:00–09:20",
-          "description": "都営浅草線 大門駅→築地駅；約15分；前往築地場外市場",
+          "id": "movement-sangubashi-to-meiji-north",
+          "name": "參宮橋駅 → 明治神宮北入口",
+          "lat": 35.6783,
+          "lng": 139.6936,
+          "time": "09:30–10:00",
+          "description": "步行；約30分；進入靜謐森林區域",
           "type": "transit"
         },
         {
-          "id": "tsukiji-market-28",
-          "name": "🐟 築地場外市場",
-          "lat": 35.6656,
-          "lng": 139.7715,
-          "time": "09:20–10:30",
-          "description": "朝食推薦；鮮魚・玉子燒・握壽司・海鮮丼等；早朝 6:00 から開業；食材新鮮；<a href=\"https://www.tsukiji.or.jp/\" target=\"_blank\">官網</a>",
-          "type": "area",
-          "price": "各店家自定"
-        },
-        {
-          "id": "tsukiji-honganji-28",
-          "name": "⛩️ 築地本願寺",
-          "lat": 35.6664862,
-          "lng": 139.7722836,
-          "time": "10:30–11:00",
-          "description": "場外市場から歩行5分；免費；インド風外観の独特建築；凈土真宗本願寺派；<a href=\"https://tsukijihongwanji.jp/\" target=\"_blank\">官網</a>",
-          "type": "temple",
+          "id": "harajuku-meiji-shrine",
+          "name": "⛩️ 明治神宮散步（參道・森林）",
+          "lat": 35.6764,
+          "lng": 139.6981,
+          "time": "10:00–11:00",
+          "description": "日本最重要神社；免費；北入口進、東出口出；沿參道往南走；靜謐森林參道；與都市形成平靜對比；<a href=\"https://www.meijijingu.or.jp\" target=\"_blank\">官網</a>",
+          "type": "shrine",
           "price": "免費"
         },
         {
-          "id": "movement-tsukiji-to-asakusa-28",
-          "name": "築地 → 浅草",
-          "lat": 35.713454,
-          "lng": 139.795952,
-          "time": "11:00–11:30",
-          "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">日比谷線 築地駅→上野駅方向或銀座線→浅草；約30分；前往下町散策",
+          "id": "harajuku-omotesando",
+          "name": "🚶 表參道（Omotesando）",
+          "lat": 35.6694,
+          "lng": 139.7091,
+          "time": "11:00–11:45",
+          "description": "明治神宮東出口直接銜接；東京最高級購物街；LV、Gucci、Prada精品旗艦店；建築優美；邊走邊吃可選",
+          "type": "shopping"
+        },
+        {
+          "id": "movement-omotesando-to-takeshita",
+          "name": "表參道 → 竹下通",
+          "lat": 35.6694,
+          "lng": 139.7050,
+          "time": "11:45–12:00",
+          "description": "步行；約10–15分；表参道エリアから竹下通入口まで順路",
           "type": "transit"
         },
         {
-          "id": "senso-ji-28",
-          "name": "⛩️ 浅草寺・雷門・仁見世商店街",
-          "lat": 35.713454,
-          "lng": 139.795952,
-          "time": "11:30–12:30",
-          "description": "免費；東京最古老寺廟；雷門大燈籠・仁見世商店街（約250m）；お土産・人形焼・雷おこし等；<a href=\"https://www.senso-ji.jp/guide/guide02.html\" target=\"_blank\">官網</a>",
-          "type": "temple",
-          "price": "免費"
-        },
-        {
-          "id": "higashi-hongan-ji-28",
-          "name": "⛩️ 東本願寺（浅草）",
-          "lat": 35.7117329,
-          "lng": 139.7896779,
-          "time": "12:30–13:00",
-          "description": "浅草寺から歩行5分；免費；台東区西浅草 1-5-5；淨土真宗東本願寺派；<a href=\"https://www.higashihonganji.or.jp/\" target=\"_blank\">官網</a>",
-          "type": "temple",
-          "price": "免費"
-        },
-        {
-          "id": "asakusa-lunch-28",
-          "name": "🍽️ 浅草ランチ",
-          "lat": 35.713454,
-          "lng": 139.795952,
-          "time": "13:00–14:00",
-          "description": "浅草周渺自由選擇；老舖天ぷら・どじょう・もんじゃ等；補充體力準備下午活動",
-          "type": "restaurant"
-        },
-        {
-          "id": "samurai-ninja-28",
-          "name": "🥷 Samurai Ninja Museum Asakusa【建議辦】",
-          "lat": 35.7115126,
-          "lng": 139.7917746,
-          "time": "14:00–15:00",
-          "description": "英語ガイド付き；甲凑体験・手裏剣・忍者道具；約60分；旅行前預約建議；東本願寺から歩行3分；<a href=\"https://www.samuraininja-museum.com/\" target=\"_blank\">官網預約</a>",
-          "type": "museum",
-          "price": "￥3,000/人（4人￥12,000）"
-        },
-        {
-          "id": "asakusa-afternoon-28",
-          "name": "🚶 浅草周渺 自由散策",
-          "lat": 35.713454,
-          "lng": 139.795952,
-          "time": "15:00–17:00",
-          "description": "浅草文化観光センター・伝法院通り・六区ブロードウェイ；漫步下町風情；自由安排節奏",
+          "id": "harajuku-takeshita",
+          "name": "🚶 竹下通り散策＋邊走邊吃（充裕1.5小時）",
+          "lat": 35.6694,
+          "lng": 139.7050,
+          "time": "12:00–13:30",
+          "description": "世界最著名青少年時尚街；H&M、Forever 21、日本原創小店、Crepes、雜貨；人潮眾多但充滿活力；邊走邊吃小食；充裕1.5小時遊覽；<a href=\"https://gltjp.com/ja/article/item/20395/\" target=\"_blank\">竹下通り</a>",
           "type": "area"
         },
         {
-          "id": "movement-to-hotel-28",
-          "name": "浅草 → 今晚住宿（待定）",
-          "lat": 35.6652,
-          "lng": 139.7418,
-          "time": "17:00以後",
-          "description": "前往今晚住宿（6/28 酒店待定）；建議選靠近 teamLab（麻布台ヒルズ・六本木）或東京駅區域；⚠️ 翄日 6/29 08:30 teamLab Borderless 入場；提早就嬬",
+          "id": "harajuku-lunch",
+          "name": "🍽️ 原宿ランチ【彈性】",
+          "lat": 35.670005,
+          "lng": 139.703037,
+          "time": "13:30–14:00",
+          "description": "竹下通周邊或表參道沿線自由選擇；Eggs 'n Things・BAPE Cafe 等選擇豐富；補充體力再出發",
+          "type": "restaurant"
+        },
+        {
+          "id": "movement-harajuku-to-kichijoji",
+          "name": "原宿 → 吉祥寺",
+          "lat": 35.7027,
+          "lng": 139.5800,
+          "time": "14:00–14:30",
+          "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR山手線 原宿→渋谷（1停，約2分）→ 京王井の頭線 渋谷→吉祥寺（急行，約26分）；合計約30分，1次換乘；前往吉祥寺プティット村エリア",
+          "type": "transit",
+          "note": "⚠️ 座標為吉祥寺駅（估算）"
+        },
+        {
+          "id": "kichijoji-petitmura-temarinooshiro",
+          "name": "🏰 吉祥寺プティット村 + CAPOON + てまりのおしろ",
+          "lat": 35.704654,
+          "lng": 139.57473,
+          "time": "14:30–16:15（~105分）",
+          "description": "童話村落複合設施；東京都武蔵野市吉祥寺本町2-33-2；吉祥寺駅北口步行7分；<br>🍵 <strong>CAPOON抹茶製造所</strong>：石臼現磨抹茶飲品＋甜點（20分）；<br>🏰 <strong>てまりのおしろ</strong>（Castle Cat Cafe）：城堡主題，約20隻貓，2層樓；**週日¥1,800/人**・無時間限制；附輕食菜單；walk-in ✅；10:00–21:00（全年）；<a href=\"https://temarinooshiro.com\" target=\"_blank\">官網</a>",
+          "type": "attraction",
+          "price": "週日¥1,800/人（4人¥7,200）・無時間限制",
+          "note": "✅ 座標已驗證（NAVITIME）"
+        },
+        {
+          "id": "kichijoji-soratobusakana-lunch",
+          "name": "☕ 空想街カフェ 空飛ぶ魚（下午茶）",
+          "lat": 35.6940,
+          "lng": 139.5790,
+          "time": "16:30–17:15（~45分）",
+          "description": "童話風格主題咖啡廳；東京都武蔵野市吉祥寺本町2-34-9；吉祥寺駅南口（公園口）步行7分・中道通り沿；繪本作家工作室世界觀；特調飲品＋甜點；⚠️ 週日無午餐套餐，以甜點・飲品為主；11:00–19:00（全年）；<a href=\"https://kichijoji-gourmet.com/kuusougaicafe/\" target=\"_blank\">紹介記事</a>",
+          "type": "cafe",
+          "note": "⚠️ 座標估算（南口547m，需現場確認）"
+        },
+        {
+          "id": "kichijoji-inokashira-park",
+          "name": "🌿 井の頭恩賜公園 湖畔散步【彈性】",
+          "lat": 35.7002,
+          "lng": 139.5703,
+          "time": "17:15–17:45（~30分）",
+          "description": "空飛ぶ魚から步行5分；免費；湖畔漫步・天鵝船（レンタルボート，可選）；吉祥寺で最美自然風光；<a href=\"https://www.kensetsu.metro.tokyo.lg.jp/jimusho/seibuk/inokashira/index.html\" target=\"_blank\">公園情報</a>",
+          "type": "park",
+          "price": "入場免費（天鵝船另計）",
+          "note": "⚠️ 座標為公園湖畔中心（估算）"
+        },
+        {
+          "id": "movement-kichijoji-to-shinjuku",
+          "name": "吉祥寺 → 新宿西口",
+          "lat": 35.6940,
+          "lng": 139.6991,
+          "time": "17:45–18:15",
+          "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR中央線（快速）吉祥寺→新宿（約22分）；抵新宿西口步行1分至香川一福；全程約30分",
+          "type": "transit",
+          "note": "⚠️ 座標為香川一福附近（推算）；需驗證"
+        },
+        {
+          "id": "shinjuku-kagawa-ippuku",
+          "name": "🍜 香川一福 西新宿店（晩餐）",
+          "lat": 35.6940,
+          "lng": 139.6991,
+          "time": "18:15–18:55（~40分）",
+          "description": "讃岐うどん専門店；新宿区西新宿7-9-15 新宿ダイカンプラザ ビズネス清田ビル1F；大江戸線 新宿西口駅D5出口 步行1分；日祝 11:00–21:00（LO 20:30）；<a href=\"https://kagawa-ippuku.jp/store/\" target=\"_blank\">公式サイト</a>",
+          "type": "restaurant",
+          "price": "約¥800–1,200/人",
+          "note": "⚠️ 座標推算（近新宿西口駅）；需現場確認"
+        },
+        {
+          "id": "movement-shinjuku-to-tochomae",
+          "name": "西新宿 → 都庁前駅（晩餐後）",
+          "lat": 35.6906,
+          "lng": 139.6926,
+          "time": "18:55–20:00",
+          "description": "香川一福→都庁前 步行約10–12分（約850m）；or 大江戸線 新宿西口→都庁前（1停，約3分）；確保20:00前到達",
+          "type": "transit",
+          "note": "✅ 座標已驗證（Mapion）"
+        },
+        {
+          "id": "tokyo-night-light-projection",
+          "name": "✨ 東京夜のライト ～新宿投影映射秀～【必看】",
+          "lat": 35.6872,
+          "lng": 139.6887,
+          "time": "20:00–21:00",
+          "description": "東京都庁舎前（都庁前駅直結）；新宿特殊大型投影映射秀；每晚20:00–21:00點亮（需出發前確認營運狀況）；免費；璀璨光影秀；東京夜景必看體驗；<a href=\"https://tokyoprojectionmappingproject.jp/en/\" target=\"_blank\">公式サイト</a>",
+          "type": "attraction",
+          "price": "免費",
+          "note": "✅ 座標已驗證（latitude.to 東京都庁舎）"
+        },
+        {
+          "id": "movement-return-hotel-28",
+          "name": "都庁前駅 → 竹芝駅 返 Hotel",
+          "lat": 35.654578,
+          "lng": 139.762111,
+          "time": "21:00–21:45",
+          "description": "<img src=\"img/transit/M.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">丸ノ内線 都庁前駅→竹芝駅；約25分；返回 Hotel Tabinos 休息；準備次日早起出發越後湯沢",
           "type": "transit"
         }
       ]
@@ -425,7 +577,7 @@
           "id": "kahara-shrine-first-night",
           "name": "🏮 蒲原神社 - 蒲原まつり 初夜",
           "lat": 37.9127,
-          "lng": 139.027,
+          "lng": 139.0270,
           "time": "19:30起",
           "description": "JR新潟駅→古町方向；宵宮のぼり行列・万代太鼓・参道燈籠・露店（ぽっぽ焼き・おばけ屋敷・射的等）；830年傳統祭典；免費散策；夜間熱鬧氛圍；<a href=\"https://minekomi.sakura.ne.jp/\" target=\"_blank\">公式サイト</a> ／ <a href=\"https://www.gltjp.com/zh-hant/directory/item/15801/\" target=\"_blank\">繁中介紹</a> ／ <a href=\"https://www.youtube.com/shorts/Z3C6kkUoIIY\" target=\"_blank\">▶ YouTube</a>",
           "type": "festival",
@@ -483,7 +635,7 @@
           "id": "otakusen-night",
           "name": "蒲原神社 - 万代太鼓 + 御託宣（中日）",
           "lat": 37.9127,
-          "lng": 139.027,
+          "lng": 139.0270,
           "time": "18:30–19:00+",
           "description": "18:30 ★万代太鼓（震撼太鼓演出）→ 19:00 ★御託宣（830年傳統神事，蒲原神社神楽殿，免費觀禮）；夜間繼續逛露店；<a href=\"https://minekomi.sakura.ne.jp/\" target=\"_blank\">公式サイト</a> ／ <a href=\"https://www.gltjp.com/zh-hant/directory/item/15801/\" target=\"_blank\">繁中介紹</a> ／ <a href=\"https://www.youtube.com/shorts/Z3C6kkUoIIY\" target=\"_blank\">▶ YouTube</a>",
           "type": "festival",
@@ -580,336 +732,196 @@
           "time": "~16:45",
           "description": "築地2-15-13；東銀座駅步行3分；check-in 後可在東銀座・築地場外晚餐；<a href=\"https://www.viainn.com/higashiginza/\" target=\"_blank\">官網</a>",
           "type": "hotel"
-        },
-        {
-          "id": "movement-ginza-to-divercity-702",
-          "name": "ヴィアイン東銀座 → DiverCity Tokyo",
-          "lat": 35.6247851,
-          "lng": 139.7758551,
-          "time": "~17:30–18:15",
-          "description": "東銀座駅→都営浅草線→新橋駅→<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">ゆりかもめ→青海駅；約35–40分；前往台場 DiverCity",
-          "type": "transit"
-        },
-        {
-          "id": "divercity-dinner-702",
-          "name": "🍽️ DiverCity 晚餐",
-          "lat": 35.6247851,
-          "lng": 139.7758551,
-          "time": "~18:15–20:00",
-          "description": "DiverCity 商場內餐廳自由選擇；充裕時間用餐；⚠️ 今日為最長的一天（約12–13小時）；用餐後稍作休息準備看 Gundam 演出；<a href=\"https://mitsui-shopping-park.com/divercity-tokyo/\" target=\"_blank\">DiverCity官網</a>",
-          "type": "restaurant",
-          "price": "各店家自定（紏￥1,500–3,000/人）"
-        },
-        {
-          "id": "gundam-night-702",
-          "name": "🌃 ユニコーンガンダム 夜間演出【推薦 20:00 場】",
-          "lat": 35.6247851,
-          "lng": 139.7758551,
-          "time": "20:00–20:17",
-          "description": "⚠️【最後機會！】 2026年8月底永久撤除（近9年歷史）；免費；WALL-G夜間演出每30分一場（19:00–21:30）；推薦場次 20:00 UNICORN Special Movie；<a href=\"https://www.unicorn-gundam-statue.jp/\" target=\"_blank\">官網</a>",
-          "type": "attraction",
-          "price": "免費"
-        },
-        {
-          "id": "aqua-symphony-optional-702",
-          "name": "💦 Tokyo Aqua Symphony【備選 21:00 場】",
-          "lat": 35.63,
-          "lng": 139.775,
-          "time": "21:00–21:10（備選）",
-          "description": "【備選】Gundam 後步行15–20分；免費；台場海濱公園；若體力充足可加入；若疲勞可直接返酒店；<a href=\"https://tokyoaquasymphony.jp/en/\" target=\"_blank\">官網</a>",
-          "type": "attraction",
-          "price": "免費"
-        },
-        {
-          "id": "movement-return-hotel-702",
-          "name": "青海駅 → ヴィアイン東銀座 返回",
-          "lat": 35.6659,
-          "lng": 139.7722,
-          "time": "~21:30",
-          "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">ゆりかもめ 青海駅→新橋駅→都営浅草線→東銀座駅；約30分；返回ヴィアイン東銀座 休息",
-          "type": "transit"
         }
       ]
     },
     {
       "date": "2026-07-03",
       "day": "Day 7",
-      "title": "明治神宮 + 原宿 + 吉祥寺 + 新宿",
+      "title": "築地 + 歌舞伎座 + 浅草 + かっぱ橋七夕まつり",
       "segment": "SEG4",
       "locations": [
         {
-          "id": "hotel-breakfast-703",
-          "name": "ヴィアイン東銀座 早餐",
-          "lat": 35.6659,
-          "lng": 139.7722,
-          "time": "08:00–09:00",
-          "description": "ヴィアイン東銀座 朝食；充分補給，準備整日行程",
-          "type": "restaurant"
+          "id": "tsukiji-market",
+          "name": "築地場外市場",
+          "lat": 35.6656,
+          "lng": 139.7715,
+          "time": "08:00–09:30",
+          "description": "早餐推薦；步行5分；鮮魚・玉子燒・握壽司等；金曜日朝最佳時段（6:00已開業、食材新鮮、人潮未高峰）；<a href=\"https://www.tsukiji.or.jp/\" target=\"_blank\">官網</a>",
+          "type": "area",
+          "price": "各店家自定"
         },
         {
-          "id": "movement-viain-to-sangubashi-703",
-          "name": "ヴィアイン東銀座 → 参宮橋駅",
-          "lat": 35.6783,
-          "lng": 139.6936,
-          "time": "09:00–09:30",
-          "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">日比谷線 東銀座→千代田線 明治神宮前方面▶参宮橋駅；約20分；前往明治神宮北入口",
-          "type": "transit"
-        },
-        {
-          "id": "movement-sangubashi-to-meiji-north-703",
-          "name": "参宮橋駅 → 明治神宮北入口",
-          "lat": 35.6783,
-          "lng": 139.6936,
+          "id": "tsukiji-honganji",
+          "name": "築地本願寺",
+          "lat": 35.6664862,
+          "lng": 139.7722836,
           "time": "09:30–10:00",
-          "description": "步行；約30分；靜謐森林参道入口",
-          "type": "transit"
-        },
-        {
-          "id": "meiji-shrine-703",
-          "name": "⛩️ 明治神宮散步（参道・森林）",
-          "lat": 35.6764,
-          "lng": 139.6981,
-          "time": "10:00–11:00",
-          "description": "日本最重要神社；免費；北入口進、東出口出；沿参道往南走；靜謐森林参道；與都市形成平靜對比；<a href=\"https://www.meijijingu.or.jp\" target=\"_blank\">官網</a>",
-          "type": "shrine",
+          "description": "步行10分；免費；獨特建築；朝陽已轉明亮；精進料理推薦",
+          "type": "temple",
           "price": "免費"
         },
         {
-          "id": "omotesando-703",
-          "name": "🚶 表參道（Omotesando）",
-          "lat": 35.6694,
-          "lng": 139.7091,
-          "time": "11:00–11:45",
-          "description": "明治神宮東出口直接銜接；東京最高級購物街；LV、Gucci、Prada精品旗艦店；建築優美；邊走邊吃可選",
-          "type": "shopping"
+          "id": "kabuki-za",
+          "name": "歌舞伎座 - 廓三番叟",
+          "lat": 35.6694253,
+          "lng": 139.7677446,
+          "time": "11:00–11:17",
+          "description": "廓三番叟（Kuruwa Sanbaso）；祝儀舞踊（慶祝性傳統舞蹈）；4樓幕見席；朝の部（昼の部）開演；演出約17分鐘；高級芸妓（傾城）・芸妓修習者（新造）・招待者（幇間）による吉原花街の優雅な舞踏と語り；提前一天（7/2 12:00）<a href=\"https://www.e-tix.jp/shochiku_makumi/\" target=\"_blank\">一幕見席オンライン購票</a>；幕間（11:17–11:30）時間拍照最佳；4樓特色：視野有限但低価格；英語字幕導覽可租借（¥1,000/台）；撮影禁止時間中；表演前後・幕間は撮影可",
+          "type": "theater",
+          "price": "¥1,000/人（提前預購）"
         },
         {
-          "id": "movement-omotesando-to-takeshita-703",
-          "name": "表參道 → 竹下通",
-          "lat": 35.6694,
-          "lng": 139.705,
-          "time": "11:45–12:00",
-          "description": "步行；約10–15分；表參道エリアから竹下通入口まで順路",
-          "type": "transit"
+          "id": "senso-ji",
+          "name": "浅草寺・雷門・仲見世商店街",
+          "lat": 35.713454,
+          "lng": 139.795952,
+          "time": "11:45–12:30",
+          "description": "免費；早上人潮較少；傳統寺廟氛圍；從歌舞伎座步行～15分；<a href=\"https://www.senso-ji.jp/guide/guide02.html\" target=\"_blank\">官網</a>",
+          "type": "temple",
+          "price": "免費"
         },
         {
-          "id": "harajuku-takeshita-703",
-          "name": "🚶 竹下通り散策＋邂走邂吃（60分）",
-          "lat": 35.6694,
-          "lng": 139.705,
-          "time": "12:00–13:30",
-          "description": "世界最著名青少年時尚街；H&M、Forever 21、日本原創小店、Crepes、雜貨；人潮眾多但充滿活力；邊走邊吃小食；<a href=\"https://gltjp.com/ja/article/item/20395/\" target=\"_blank\">竹下通り</a>",
-          "type": "area"
+          "id": "higashi-hongan-ji",
+          "name": "東本願寺（浅草）",
+          "lat": 35.7117329,
+          "lng": 139.7896779,
+          "time": "12:30–13:00",
+          "description": "免費；台東区西浅草1-5-5；浅草寺から徒歩5分；<a href=\"https://www.higashihonganji.or.jp/\" target=\"_blank\">官網</a>",
+          "type": "temple",
+          "price": "免費"
         },
         {
-          "id": "harajuku-lunch-703",
-          "name": "🍽️ 原宿ランチ【彈性】",
-          "lat": 35.670005,
-          "lng": 139.703037,
-          "time": "13:30–14:00",
-          "description": "竹下通周邊或表參道沿線自由選擇；Eggs 'n Things・BAPE Cafe 等選擇豐富；補充體力再出發",
-          "type": "restaurant"
+          "id": "samurai-ninja",
+          "name": "Samurai Ninja Museum Asakusa",
+          "lat": 35.7115126,
+          "lng": 139.7917746,
+          "time": "13:00–14:00",
+          "description": "英語ガイド付き；甲冑体験・手裏剣；約60分；<a href=\"https://www.samuraininja-museum.com/\" target=\"_blank\">官網預約</a>；東本願寺から徒歩3分",
+          "type": "museum",
+          "price": "3,000円/人（4人計12,000円）"
         },
         {
-          "id": "movement-harajuku-to-kichijoji-703",
-          "name": "原宿 → 吉祥寺",
-          "lat": 35.7027,
-          "lng": 139.58,
+          "id": "kappabashi-tanabata",
+          "name": "🎋 かっぱ橋本通り・下町七夕まつり",
+          "lat": 35.7168,
+          "lng": 139.7892,
           "time": "14:00–14:30",
-          "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR山手線 原宿→渋谷（1停，約2分）→ 京王井の頭線 渋谷→吉祥寺（急行，約26分）；合計約30分，1次換乘；前往吉祥寺プティット村エリア",
-          "type": "transit"
-        },
-        {
-          "id": "kichijoji-petitmura-temarinooshiro-703",
-          "name": "🏰 吉祥寺プティット村 + CAPOON + てまりのおしろ（平日）",
-          "lat": 35.704654,
-          "lng": 139.57473,
-          "time": "14:30–16:15（~105分）",
-          "description": "童話村落複合施設；東京都武蔵野市吉祥寺本町 2-33-2；吉祥寺駅北口步行7分；<br>🍵 <strong>CAPOON抖茶製造所</strong>：石臼現磨抖茶飲品＋甜點（20分）；<br>🏰 <strong>てまりのおしろ</strong>（Castle Cat Cafe）：城堡主題，約20隻貓，2層樓；⚠️ <strong>平日料金確認中</strong>（週末￥1,800/人）・無時間限制；walk-in ✅；10:00–21:00；<a href=\"https://temarinooshiro.com\" target=\"_blank\">官網</a>",
-          "type": "attraction",
-          "price": "平日料金確認中（週末￥1,800/人）",
-          "note": "✅ 座標已驗證（NAVITIME）"
-        },
-        {
-          "id": "movement-kichijoji-north-to-south-703",
-          "name": "吉祥寺 北口 → 南口",
-          "lat": 35.7027,
-          "lng": 139.58,
-          "time": "16:15–16:30",
-          "description": "步行；北口プティット村エリアから南口カフェ街へ；約15分；準備下午茶",
-          "type": "transit"
-        },
-        {
-          "id": "kichijoji-soratobusakana-703",
-          "name": "☕ 空想街カフェ 空飛ぶ魚（下午茶）",
-          "lat": 35.694,
-          "lng": 139.579,
-          "time": "16:30–17:15（~45分）",
-          "description": "童話風格主題和員山廳；東京都武蔵野市吉祥寺本町 2-34-9；吉祥寺駅南口（公園口）步行7分・中道通り沿；繪本作家工作室世界観；特調飲品＋甜點；11:00–19:00；<a href=\"https://kichijoji-gourmet.com/kuusougaicafe/\" target=\"_blank\">紹介記事</a>",
-          "type": "cafe",
-          "note": "⚠️ 座標估算（南口547m，需現場確認）"
-        },
-        {
-          "id": "kichijoji-inokashira-park-703",
-          "name": "🌿 井の頭恩赐公園 湖畔散步【彈性】",
-          "lat": 35.7002,
-          "lng": 139.5703,
-          "time": "17:15–17:45（~30分）",
-          "description": "空飛ぶ魚から歩行5分；免費；湖畔漫步・天鵝船（レンタルボート，可選）；吉祥寺で最美自然風光；<a href=\"https://www.kensetsu.metro.tokyo.lg.jp/jimusho/seibuk/inokashira/index.html\" target=\"_blank\">公園情報</a>",
-          "type": "park",
-          "price": "入場免費（天鵝船另計）",
-          "note": "⚠️ 座標為公園湖畔中心（估算）"
-        },
-        {
-          "id": "movement-kichijoji-to-shinjuku-703",
-          "name": "吉祥寺 → 新宿西口",
-          "lat": 35.694,
-          "lng": 139.6991,
-          "time": "17:45–18:15",
-          "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR中央線（快速）吉祥寺→新宿（約22分）；抵新宿西口步行1分至香川一福；全程約30分",
-          "type": "transit",
-          "note": "⚠️ 座標為香川一福附近（推算）；需驗證"
-        },
-        {
-          "id": "shinjuku-kagawa-ippuku-703",
-          "name": "🎜️ 香川一福 西新宿店（晩餐）",
-          "lat": 35.694,
-          "lng": 139.6991,
-          "time": "18:15–18:55（~40分）",
-          "description": "譚岐うどん専門店；新宿区西新宿 7-9-15；大江戸線 新宿西口駅 D5出口 歩行1分；金曜日 11:00–21:30（LO 21:00）；<a href=\"https://kagawa-ippuku.jp/store/\" target=\"_blank\">公式サイト</a>",
-          "type": "restaurant",
-          "price": "紏￥800–1,200/人",
-          "note": "⚠️ 座標推算（近新宿西口駅）；需現場確認"
-        },
-        {
-          "id": "movement-shinjuku-to-tochomae-703",
-          "name": "西新宿 → 都庁前駅（晩餐後）",
-          "lat": 35.6906,
-          "lng": 139.6926,
-          "time": "18:55–20:00",
-          "description": "香川一福→都庁前 步行約10–12分（約850m）；or 大江戸線 新宿西口→都庁前（1停，約3分）；確保 20:00 前到達",
-          "type": "transit",
-          "note": "✅ 座標已驗證（Mapion）"
-        },
-        {
-          "id": "tokyo-night-light-703",
-          "name": "✨ 東京夜のライト ～新宿投影映射秀～【必看】",
-          "lat": 35.6872,
-          "lng": 139.6887,
-          "time": "20:00–21:00",
-          "description": "東京都庁舎前（都庁前駅直結）；新宿特殊大型投影映射秀；每晚 20:00–21:00 點亮；免費；炑燿光影秀；東京夜景必看體驗；<a href=\"https://tokyoprojectionmappingproject.jp/en/\" target=\"_blank\">公式サイト</a>",
-          "type": "attraction",
+          "description": "笹飾り・屋台・七夕装飾；昭和通りから国際通りまで約1.2km；Samurai Ninja Museumから徒歩5分；昼食も同時進行（かっぱ橋周辺飲食店）；免費散策；<a href=\"https://e-asakusa.jp/culture-experience/105619\" target=\"_blank\">浅草観光連盟</a> ／ <a href=\"https://shitamachi-tanabata.studio.site/\" target=\"_blank\">公式サイト</a> ／ <a href=\"https://www.youtube.com/watch?v=rG4SvbooRxU\" target=\"_blank\">▶ YouTube</a>",
+          "type": "festival",
           "price": "免費",
-          "note": "✅ 座標已驗證（latitude.to 東京都庁舎）"
+          "note": "✅ 座標已驗證（latitude.to：35.7168, 139.7892）"
         },
         {
-          "id": "movement-return-viain-703",
-          "name": "都庁前駅 → ヴィアイン東銀座 返回",
-          "lat": 35.6659,
-          "lng": 139.7722,
-          "time": "21:00–21:45",
-          "description": "<img src=\"img/transit/M.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">丸ノ内線 都庁前駅→銀座駅→<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">日比谷線 東銀座駅；約25分；返回ヴィアイン東銀座 休息",
+          "id": "movement-asakusa-to-hotel",
+          "name": "浅草 → 東銀座酒店 返回",
+          "lat": 35.6656,
+          "lng": 139.7715,
+          "time": "14:30–16:30",
+          "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">日比谷線 浅草駅 → 東銀座駅；約20分；提早返回酒店為翌日做準備",
           "type": "transit"
+        },
+        {
+          "id": "hotel-rest-evening-3",
+          "name": "酒店休息・晚餐・早點睡眠",
+          "lat": 35.6656,
+          "lng": 139.7715,
+          "time": "16:30–19:00+",
+          "description": "返回 Hotel Viain 東銀座；休息、整理行李；酒店晚餐（17:30–19:00）；為翌日早起前往秋葉原做準備；【已移除】秋葉原貓頭鷹咖啡館改至 7/4；秋葉原活動改至 7/4 上午（時間更寬裕）",
+          "type": "hotel"
         }
       ]
     },
     {
       "date": "2026-07-04",
       "day": "Day 8",
-      "title": "SMALL WORLDS + 哆啦A夢展 + みなとみらい + Ado演唱會",
+      "title": "築地 + 秋葉原 + みなとみらい + Ado演唱會",
       "segment": "SEG4",
       "locations": [
         {
-          "id": "hotel-breakfast-704",
-          "name": "ヴィアイン東銀座 早餐",
-          "lat": 35.6659,
-          "lng": 139.7722,
+          "id": "tsukiji-market-morning",
+          "name": "築地場外市場（早餐快速版）",
+          "lat": 35.6656,
+          "lng": 139.7715,
           "time": "08:00–08:30",
-          "description": "ヴィアイン東銀座 朝食；充分補給；今日為移動日，行程緊湊",
-          "type": "restaurant"
+          "description": "快速早餐；步行5分；鮮魚・玉子燒・握壽司等；7/4 checkout前最後一次築地；6:00已開業，食材新鮮；<a href=\"https://www.tsukiji.or.jp/\" target=\"_blank\">官網</a>",
+          "type": "area",
+          "price": "各店家自定"
         },
         {
-          "id": "hotel-checkout-704",
-          "name": "🔔 ヴィアイン東銀座 Checkout ＋ 行李寄存",
-          "lat": 35.6659,
-          "lng": 139.7722,
-          "time": "08:30–09:00",
-          "description": "辦理退房；行李由酒店代保管（17:00 前取回）；務必 10:00 前完成退房；⚠️【備選：歌舞伎座幕見席】退房後步行3分，若時間許可可排隊購買「末広がり」幕見席（11:00～，約30分）；但會使 SMALL WORLDS 延至 12:00 開始，視體力決定；<a href=\"https://www.e-tix.jp/shochiku_makumi/\" target=\"_blank\">幕見席オンライン</a>",
+          "id": "hotel-checkout-4",
+          "name": "ヴィアイン東銀座 Checkout + 行李寄存",
+          "lat": 35.6656,
+          "lng": 139.7715,
+          "time": "09:00–09:45",
+          "description": "返回酒店後；辦理退房；行李由酒店代保管；務必 10:00 前完成",
           "type": "hotel"
         },
         {
-          "id": "movement-viain-to-ariake-704",
-          "name": "ヴィアイン東銀座 → 有明テニスの森駅",
-          "lat": 35.637887,
-          "lng": 139.788362,
-          "time": "09:00–09:30",
-          "description": "東銀座駅→新橋駅→<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">ゆりかもめ→有明テニスの森駅；約30分；前往 SMALL WORLDS TOKYO",
+          "id": "akihabara-lunch-afternoon",
+          "name": "★ 秋葉原午餐 + 周邊散策",
+          "lat": 35.702160,
+          "lng": 139.774583,
+          "time": "10:00–11:00",
+          "description": "【改至 7/4】進入秋葉原；午餐自選（拉麵、定食、迴轉壽司等）；電器街初探",
+          "type": "area",
+          "note": "✅ 10:15-11:00 午餐時段"
+        },
+        {
+          "id": "akiba-fukurou-owl-cafe-4",
+          "name": "🦉 Akiba Fukurou Owl Cafe",
+          "lat": 35.702160,
+          "lng": 139.774583,
+          "time": "11:00–12:00",
+          "description": "貓頭鷹互動體驗【改至 7/4】；必須提前預約；現金only；可愛的貓頭鷹、拍照、飲食體驗；秋葉原內；1小時体驗；<a href=\"https://visit-chiyoda.tokyo/app/en/spot/detail/729\" target=\"_blank\">Info</a>",
+          "type": "cafe",
+          "price": "3,300円/人",
+          "note": "✅ 11:00-12:00（從 7/3 移至 7/4）"
+        },
+        {
+          "id": "akihabara-afternoon-shopping",
+          "name": "秋葉原周邊散策・購物",
+          "lat": 35.702160,
+          "lng": 139.774583,
+          "time": "12:00–13:15",
+          "description": "Owl Cafe後；逛電器街、遊戲廳、模型店、手辦店；購物體驗",
+          "type": "area"
+        },
+        {
+          "id": "movement-akiba-to-minato",
+          "name": "秋葉原 → みなとみらい（行李領回・移動）",
+          "lat": 35.6652,
+          "lng": 139.7418,
+          "time": "13:15–14:30",
+          "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\"><img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">日比谷線 秋葉原→東銀座（領回行李）→JR 横浜方向；約50分；準備赤レンガ散策",
           "type": "transit"
         },
         {
-          "id": "small-worlds-704",
-          "name": "🎮 SMALL WORLDS TOKYO",
-          "lat": 35.637887,
-          "lng": 139.788362,
-          "time": "09:30–12:30",
-          "description": "世界最大級迷你模型館；有明テニスの森駅 3分；建議 3小時；各種精細世界模型展示；⚠️ 建議出發前網上購票（週六旺季）；<a href=\"https://www.smallworlds.jp\" target=\"_blank\">官網</a>",
-          "type": "attraction",
-          "price": "大人￥3,200・中高生￥2,100（4人￥10,600）"
+          "id": "minato-light-meal-rest",
+          "name": "みなとみらい 輕食・休息",
+          "lat": 35.4529486,
+          "lng": 139.6434541,
+          "time": "14:30–15:00",
+          "description": "抵達みなとみらいエリア後短暫休息；輕食補給",
+          "type": "restaurant"
         },
         {
-          "id": "movement-ariake-to-ichiba-704",
-          "name": "有明テニスの森駅 → 市場前駅",
-          "lat": 35.6457334,
-          "lng": 139.785686,
-          "time": "12:30–12:35",
-          "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">ゆりかもめ 有明テニスの森駅 → 市場前駅；約5分；直達豐洲千客万来",
-          "type": "transit"
+          "id": "akarenga",
+          "name": "赤レンガ倉庫周邊・港灣散策",
+          "lat": 35.4529486,
+          "lng": 139.6434541,
+          "time": "15:00–16:00",
+          "description": "免費；拍照・逛街；横浜港灣風景；傍晚景色優美；<a href=\"https://www.yokohama-akarenga.jp/\" target=\"_blank\">官網</a>",
+          "type": "area",
+          "price": "免費"
         },
         {
-          "id": "toyosu-sengyoku-704",
-          "name": "🍱 豐洲千客万来（ランチ）",
-          "lat": 35.6457275,
-          "lng": 139.7836383,
-          "time": "12:35–14:00",
-          "description": "市場前駅4分鐘；豐洲美食廣場；自由選擇海鮮・丼・蓣麦等；大樓地下～3F；紏 1.5 小時用餐；<a href=\"https://www.toyosu-senkyakubanrai.jp\" target=\"_blank\">官網</a>",
-          "type": "restaurant",
-          "price": "價格自選（平均￥1,500–3,000/人）"
-        },
-        {
-          "id": "movement-ichiba-to-ariake-704",
-          "name": "市場前駅 → 有明テニスの森駅",
-          "lat": 35.637887,
-          "lng": 139.788362,
-          "time": "14:00–14:05",
-          "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">ゆりかもめ 市場前駅 → 有明テニスの森駅；約5分",
-          "type": "transit"
-        },
-        {
-          "id": "tokyo-dream-park-704",
-          "name": "🎡 Tokyo Dream Park（哆啦A夢展）",
-          "lat": 35.6293567,
-          "lng": 139.7878091,
-          "time": "14:00–17:00",
-          "description": "有明テニスの森から歩行3分；100%ドラえもん展；週六 大人￥2,600・中高生￥2,000・小學生以下￥1,800；⚠️ 需在 7-Eleven マルチコピー機購買紙チケット（6/27～7/03 任何一天可購買）；建議提前購買；<a href=\"https://tdp.tv-asahi.co.jp/\" target=\"_blank\">官網</a>",
-          "type": "attraction",
-          "price": "週六 大人￥2,600・中高生￥2,000・小學生￥1,800"
-        },
-        {
-          "id": "movement-ariake-to-viain-704",
-          "name": "有明 → ヴィアイン東銀座（取行李）",
-          "lat": 35.6659,
-          "lng": 139.7722,
-          "time": "17:00–17:30",
-          "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">ゆりかもめ→新橋駅→都営浅草線→東銀座駅；約30分；取回寄存行李",
-          "type": "transit"
-        },
-        {
-          "id": "movement-viain-to-shinyoko-704",
-          "name": "東銀座 → 新横浜",
+          "id": "movement-minato-to-shinyoko",
+          "name": "みなとみらい → 新横浜（チェックイン）",
           "lat": 35.5089,
           "lng": 139.6145,
-          "time": "17:30–18:20",
-          "description": "東銀座→品川→<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR東海道線→横浜→JR横浜線→新横浜；約45–50分；Super Hotel 新横浜 check-in",
+          "time": "16:00–17:00",
+          "description": "<img src=\"img/transit/minatomirai.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">みなとみらい線→横浜線 約20分；抵達新横浜駅後 check-in Super Hotel",
           "type": "transit"
         },
         {
@@ -917,8 +929,8 @@
           "name": "Super Hotel 新横浜 check-in + 休息",
           "lat": 35.5089,
           "lng": 139.6145,
-          "time": "18:20–18:30",
-          "description": "天然温泉付き；朝食無料；日産スタジアム歩行10–12分；check-in 後快速整理，準備出發演唱會",
+          "time": "16:00–18:30",
+          "description": "天然温泉付き；朝食無料；日産スタジアム步行10–12分；check-in 後短暫休息、盥洗",
           "type": "hotel"
         },
         {
@@ -927,7 +939,7 @@
           "lat": 35.5099771,
           "lng": 139.6064006,
           "time": "18:30–19:00",
-          "description": "步行 10–12分；提前到達排隊周渺商品；建議穿戴防暑用品（毛巾・水・防晒）",
+          "description": "步行 10–12分；提前到達排隊周邊商品；建議穿戴防暑用品（毛巾・水・防晒）",
           "type": "transit"
         },
         {
@@ -1020,7 +1032,7 @@
         {
           "id": "ado-2",
           "name": "Ado 演唱會 第二夜",
-          "lat": 35.51,
+          "lat": 35.5100,
           "lng": 139.6064,
           "time": "19:00",
           "description": "日産スタジアム（約72,000人）；已購票；散場後建議稍等，準備翌日退房",
@@ -1057,7 +1069,7 @@
         {
           "id": "kawasaki-daishi",
           "name": "川崎大師（平間寺）",
-          "lat": 35.536,
+          "lat": 35.5360,
           "lng": 139.7325,
           "time": "10:35-12:30",
           "description": "1128年創建的古寺；參拜＋仲見世通り購物美食體驗；<a href=\"http://kawasakidaishi-kanko.com/\" target=\"_blank\">詳情</a>",
