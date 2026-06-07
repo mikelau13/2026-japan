@@ -506,7 +506,7 @@
           "lat": 36.9725,
           "lng": 138.7498,
           "time": "13:10–13:34",
-          "description": "<img src=\"img/transit/bus.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">南越後観光バス 湯沢駅前（東口4番乗り場）13:10発→清津峡入口 13:34着；⚠️ 1日4便のみ（07:15/13:10/15:10/17:05）；之後步行約30分至トンネル入口",
+          "description": "<img src=\"img/transit/bus.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">南越後観光バス 湯沢駅前（東口4番乗り場）13:10発→清津峡入口 13:34着；⚠️ 1日4便のみ（07:15/13:10/15:10/17:05）；之後步行約30分至トンネル入口；<a href=\"https://www.minamiechigo.co.jp/pdf/muikamachi/jikoku/weekday/morimiyaR7-10-all-w.pdf\" target=\"_blank\">📄 平日時刻表PDF</a>　<a href=\"https://www.minamiechigo.co.jp/pdf/muikamachi/jikoku/holiday/morimiyaR7-10-all-h.pdf\" target=\"_blank\">📄 休日時刻表PDF</a>",
           "type": "transit"
         },
         {
