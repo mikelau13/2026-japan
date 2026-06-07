@@ -1,16 +1,38 @@
 {
   "days": {
-    "2026-06-26": { "title": "Haneda Arrival + Easy Evening" },
-    "2026-06-27": { "title": "Hamamatsucho → Ariake → Toyosu → Odaiba" },
-    "2026-06-28": { "title": "Harajuku + Shinjuku ～Projection Mapping Night Show～" },
-    "2026-06-29": { "title": "Shinkansen ～teamLab + Echigo-Yuzawa Onsen～" },
-    "2026-06-30": { "title": "Echigo-Yuzawa ～Kiyotsu Gorge + Niigata City～" },
-    "2026-07-01": { "title": "Shibata City Day Trip + Otakusen Ceremony" },
-    "2026-07-02": { "title": "Kawagoe Little Edo Half-Day + Tokyo Higashi-Ginza" },
-    "2026-07-03": { "title": "Tsukiji + Asakusa + Kappabashi Tanabata" },
-    "2026-07-04": { "title": "Tsukiji + Kabuki-za + Akihabara + Minatomirai + Ado Concert" },
-    "2026-07-05": { "title": "Yokohama Walk + Minatomirai + Ado Concert" },
-    "2026-07-06": { "title": "Kawasaki Daishi + Return to Canada" }
+    "2026-06-26": {
+      "title": "Haneda Arrival + Easy Evening"
+    },
+    "2026-06-27": {
+      "title": "Hamamatsucho → Ariake → Toyosu → Odaiba"
+    },
+    "2026-06-28": {
+      "title": "Harajuku + Shinjuku ～Projection Mapping Night Show～"
+    },
+    "2026-06-29": {
+      "title": "Shinkansen ～teamLab + Echigo-Yuzawa Onsen～"
+    },
+    "2026-06-30": {
+      "title": "Echigo-Yuzawa ～Kiyotsu Gorge + Niigata City～"
+    },
+    "2026-07-01": {
+      "title": "Shibata City Day Trip + Otakusen Ceremony"
+    },
+    "2026-07-02": {
+      "title": "Kawagoe Little Edo Half-Day + Tokyo Higashi-Ginza"
+    },
+    "2026-07-03": {
+      "title": "Tsukiji + Asakusa + Kappabashi Tanabata"
+    },
+    "2026-07-04": {
+      "title": "Tsukiji + Kabuki-za + Akihabara + Minatomirai + Ado Concert"
+    },
+    "2026-07-05": {
+      "title": "Yokohama Walk + Minatomirai + Ado Concert"
+    },
+    "2026-07-06": {
+      "title": "Kawasaki Daishi + Return to Canada"
+    }
   },
   "locations": {
     "haneda": {
@@ -297,8 +319,8 @@
       "description": "<img src=\"img/transit/JO.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Joetsu Shinkansen toward Tokyo; ~100 min; arrive early evening with plenty of time to check in and have dinner"
     },
     "ginza-hotel": {
-      "name": "Via Inn Higashi-Ginza – Check-in",
-      "description": "2-15-13 Tsukiji; arrive early evening — time to check in and enjoy dinner around Higashi-Ginza; Tsukiji market and Day 7 sights nearby; <a href=\"https://www.viainn.com/higashiginza/\" target=\"_blank\">Official Site</a>"
+      "name": "Sotetsu Fresa Inn Nihonbashi-Kayabacho – Check-in",
+      "description": "Nihonbashi Kayabacho, Chuo Ward; 3-min walk from Kayabacho Stn (Hibiya &amp; Tozai Lines); check-in from 15:00, checkout by 11:00; Asakusa direct ~8 min, Akihabara direct ~6 min, Tsukiji 2 stops; <a href=\"https://www.sotetsu-hotels.com/fresa-inn/nihonbashi-kayabacho/\" target=\"_blank\">Official Site</a>"
     },
     "movement-niigata-to-kawagoe": {
       "name": "Niigata → Omiya → Kawagoe (transit)",

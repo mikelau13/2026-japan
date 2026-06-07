@@ -210,8 +210,8 @@
         {
           "id": "movement-to-odaiba-bay",
           "name": "青海駅 → 台場海浜公園",
-          "lat": 35.6300,
-          "lng": 139.7750,
+          "lat": 35.63,
+          "lng": 139.775,
           "time": "20:20–20:45",
           "description": "DiverCity 後方步行15–20分至台場海浜公園；沿路東京灣景色優美",
           "type": "transit"
@@ -219,8 +219,8 @@
         {
           "id": "aqua-symphony",
           "name": "💦 Tokyo Aqua Symphony 夜間噴水秀",
-          "lat": 35.6300,
-          "lng": 139.7750,
+          "lat": 35.63,
+          "lng": 139.775,
           "time": "21:00–21:10",
           "description": "免費；台場駅徒歩3分；在 Gundam 後方；每日10場（11/12/13/14/15/17/18/19/20/21時）；【推薦場次：21:00 場】；約10分；<a href=\"https://tokyoaquasymphony.jp/en/\" target=\"_blank\">官網</a>",
           "type": "attraction",
@@ -294,7 +294,7 @@
           "id": "movement-omotesando-to-takeshita",
           "name": "表參道 → 竹下通",
           "lat": 35.6694,
-          "lng": 139.7050,
+          "lng": 139.705,
           "time": "11:45–12:00",
           "description": "步行；約10–15分；表参道エリアから竹下通入口まで順路",
           "type": "transit"
@@ -303,7 +303,7 @@
           "id": "harajuku-takeshita",
           "name": "🚶 竹下通り散策＋邊走邊吃（充裕1.5小時）",
           "lat": 35.6694,
-          "lng": 139.7050,
+          "lng": 139.705,
           "time": "12:00–13:30",
           "description": "世界最著名青少年時尚街；H&M、Forever 21、日本原創小店、Crepes、雜貨；人潮眾多但充滿活力；邊走邊吃小食；充裕1.5小時遊覽；<a href=\"https://gltjp.com/ja/article/item/20395/\" target=\"_blank\">竹下通り</a>",
           "type": "area"
@@ -321,7 +321,7 @@
           "id": "movement-harajuku-to-kichijoji",
           "name": "原宿 → 吉祥寺",
           "lat": 35.7027,
-          "lng": 139.5800,
+          "lng": 139.58,
           "time": "14:00–14:30",
           "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR山手線 原宿→渋谷（1停，約2分）→ 京王井の頭線 渋谷→吉祥寺（急行，約26分）；合計約30分，1次換乘；前往吉祥寺プティット村エリア",
           "type": "transit",
@@ -341,8 +341,8 @@
         {
           "id": "kichijoji-soratobusakana-lunch",
           "name": "☕ 空想街カフェ 空飛ぶ魚（下午茶）",
-          "lat": 35.6940,
-          "lng": 139.5790,
+          "lat": 35.694,
+          "lng": 139.579,
           "time": "16:30–17:15（~45分）",
           "description": "童話風格主題咖啡廳；東京都武蔵野市吉祥寺本町2-34-9；吉祥寺駅南口（公園口）步行7分・中道通り沿；繪本作家工作室世界觀；特調飲品＋甜點；⚠️ 週日無午餐套餐，以甜點・飲品為主；11:00–19:00（全年）；<a href=\"https://kichijoji-gourmet.com/kuusougaicafe/\" target=\"_blank\">紹介記事</a>",
           "type": "cafe",
@@ -362,7 +362,7 @@
         {
           "id": "movement-kichijoji-to-shinjuku",
           "name": "吉祥寺 → 新宿西口",
-          "lat": 35.6940,
+          "lat": 35.694,
           "lng": 139.6991,
           "time": "17:45–18:15",
           "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR中央線（快速）吉祥寺→新宿（約22分）；抵新宿西口步行1分至香川一福；全程約30分",
@@ -372,7 +372,7 @@
         {
           "id": "shinjuku-kagawa-ippuku",
           "name": "🍜 香川一福 西新宿店（晩餐）",
-          "lat": 35.6940,
+          "lat": 35.694,
           "lng": 139.6991,
           "time": "18:15–18:55（~40分）",
           "description": "讃岐うどん専門店；新宿区西新宿7-9-15 新宿ダイカンプラザ ビズネス清田ビル1F；大江戸線 新宿西口駅D5出口 步行1分；日祝 11:00–21:00（LO 20:30）；<a href=\"https://kagawa-ippuku.jp/store/\" target=\"_blank\">公式サイト</a>",
@@ -577,7 +577,7 @@
           "id": "kahara-shrine-first-night",
           "name": "🏮 蒲原神社 - 蒲原まつり 初夜",
           "lat": 37.9127,
-          "lng": 139.0270,
+          "lng": 139.027,
           "time": "19:30起",
           "description": "JR新潟駅→古町方向；宵宮のぼり行列・万代太鼓・参道燈籠・露店（ぽっぽ焼き・おばけ屋敷・射的等）；830年傳統祭典；免費散策；夜間熱鬧氛圍；<a href=\"https://minekomi.sakura.ne.jp/\" target=\"_blank\">公式サイト</a> ／ <a href=\"https://www.gltjp.com/zh-hant/directory/item/15801/\" target=\"_blank\">繁中介紹</a> ／ <a href=\"https://www.youtube.com/shorts/Z3C6kkUoIIY\" target=\"_blank\">▶ YouTube</a>",
           "type": "festival",
@@ -635,7 +635,7 @@
           "id": "otakusen-night",
           "name": "蒲原神社 - 万代太鼓 + 御託宣（中日）",
           "lat": 37.9127,
-          "lng": 139.0270,
+          "lng": 139.027,
           "time": "18:30–19:00+",
           "description": "18:30 ★万代太鼓（震撼太鼓演出）→ 19:00 ★御託宣（830年傳統神事，蒲原神社神楽殿，免費觀禮）；夜間繼續逛露店；<a href=\"https://minekomi.sakura.ne.jp/\" target=\"_blank\">公式サイト</a> ／ <a href=\"https://www.gltjp.com/zh-hant/directory/item/15801/\" target=\"_blank\">繁中介紹</a> ／ <a href=\"https://www.youtube.com/shorts/Z3C6kkUoIIY\" target=\"_blank\">▶ YouTube</a>",
           "type": "festival",
@@ -726,11 +726,11 @@
         },
         {
           "id": "ginza-hotel",
-          "name": "ヴィアイン東銀座 Check-in",
-          "lat": 35.6659,
-          "lng": 139.7722,
+          "name": "相鉄フレッサイン 日本橋茅場町 Check-in",
+          "lat": 35.681219,
+          "lng": 139.779955,
           "time": "~16:45",
-          "description": "築地2-15-13；東銀座駅步行3分；check-in 後可在東銀座・築地場外晚餐；<a href=\"https://www.viainn.com/higashiginza/\" target=\"_blank\">官網</a>",
+          "description": "東京都中央区日本橋茅場町；茅場町駅（日比谷線・東西線）步行3分；check-in 15:00 起・checkout 11:00前；浅草直通8分・秋葉原直通6分・築地2停；<a href=\"https://www.sotetsu-hotels.com/fresa-inn/nihonbashi-kayabacho/\" target=\"_blank\">官網</a>",
           "type": "hotel"
         }
       ]
@@ -860,7 +860,7 @@
         {
           "id": "akihabara-lunch-afternoon",
           "name": "★ 秋葉原午餐 + 周邊散策",
-          "lat": 35.702160,
+          "lat": 35.70216,
           "lng": 139.774583,
           "time": "10:00–11:00",
           "description": "【改至 7/4】進入秋葉原；午餐自選（拉麵、定食、迴轉壽司等）；電器街初探",
@@ -870,7 +870,7 @@
         {
           "id": "akiba-fukurou-owl-cafe-4",
           "name": "🦉 Akiba Fukurou Owl Cafe",
-          "lat": 35.702160,
+          "lat": 35.70216,
           "lng": 139.774583,
           "time": "11:00–12:00",
           "description": "貓頭鷹互動體驗【改至 7/4】；必須提前預約；現金only；可愛的貓頭鷹、拍照、飲食體驗；秋葉原內；1小時体驗；<a href=\"https://visit-chiyoda.tokyo/app/en/spot/detail/729\" target=\"_blank\">Info</a>",
@@ -881,7 +881,7 @@
         {
           "id": "akihabara-afternoon-shopping",
           "name": "秋葉原周邊散策・購物",
-          "lat": 35.702160,
+          "lat": 35.70216,
           "lng": 139.774583,
           "time": "12:00–13:15",
           "description": "Owl Cafe後；逛電器街、遊戲廳、模型店、手辦店；購物體驗",
@@ -1032,7 +1032,7 @@
         {
           "id": "ado-2",
           "name": "Ado 演唱會 第二夜",
-          "lat": 35.5100,
+          "lat": 35.51,
           "lng": 139.6064,
           "time": "19:00",
           "description": "日産スタジアム（約72,000人）；已購票；散場後建議稍等，準備翌日退房",
@@ -1069,7 +1069,7 @@
         {
           "id": "kawasaki-daishi",
           "name": "川崎大師（平間寺）",
-          "lat": 35.5360,
+          "lat": 35.536,
           "lng": 139.7325,
           "time": "10:35-12:30",
           "description": "1128年創建的古寺；參拜＋仲見世通り購物美食體驗；<a href=\"http://kawasakidaishi-kanko.com/\" target=\"_blank\">詳情</a>",
