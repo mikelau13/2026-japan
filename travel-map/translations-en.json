@@ -352,8 +352,8 @@
       "price": "Adult ¥300 · Under 13 ¥100"
     },
     "movement-kawagoe-to-higashiginza": {
-      "name": "Kawagoe → Via Inn Higashi-Ginza (transit)",
-      "description": "Tobu Tojo Line Express Kawagoe→Ikebukuro (~30 min) → Tokyo Metro Hibiya Line Hibiya→Higashi-Ginza (~30 min); total ~1h10min; arrive at hotel ~16:45"
+      "name": "Kawagoe → Sotetsu Fresa Inn Nihonbashi-Kayabacho (transit)",
+      "description": "Tobu Tojo Line Express Kawagoe→Ikebukuro (~30 min) → Marunouchi Line→Otemachi → Tozai Line→Kayabacho (~40 min); total ~1h10min"
     },
     "tsukiji-market": {
       "name": "Tsukiji Outer Market (築地場外市場)",
@@ -404,8 +404,8 @@
       "price": "Varies by stall"
     },
     "hotel-checkout-4": {
-      "name": "Via Inn Higashi-Ginza – Checkout + Luggage Storage",
-      "description": "Check out; leave luggage with hotel storage; complete by 10:00"
+      "name": "Sotetsu Fresa Inn Nihonbashi-Kayabacho – Checkout + Luggage Storage",
+      "description": "Check out; leave luggage with hotel storage (collect before heading to Shin-Yokohama); complete by 11:00"
     },
     "akihabara-lunch-afternoon": {
       "name": "★ Akihabara Lunch + Area Explore",
