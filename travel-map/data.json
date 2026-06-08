@@ -792,16 +792,6 @@
           "price": "免費"
         },
         {
-          "id": "samurai-ninja",
-          "name": "Samurai Ninja Museum Asakusa",
-          "lat": 35.7115126,
-          "lng": 139.7917746,
-          "time": "13:00–14:00",
-          "description": "英語ガイド付き；甲冑体験・手裏剣；約60分；<a href=\"https://www.samuraininja-museum.com/\" target=\"_blank\">官網預約</a>；東本願寺から徒歩3分",
-          "type": "museum",
-          "price": "3,000円/人（4人計12,000円）"
-        },
-        {
           "id": "kappabashi-tanabata",
           "name": "🎋 かっぱ橋本通り・下町七夕まつり",
           "lat": 35.7168,
