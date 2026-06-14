@@ -742,6 +742,44 @@
           "time": "~16:45",
           "description": "東京都中央区日本橋茅場町；茅場町駅（日比谷線・東西線）步行3分；check-in 15:00 起・checkout 11:00前；浅草直通8分・秋葉原直通6分・築地2停；<a href=\"https://www.sotetsu-hotels.com/fresa-inn/nihonbashi-kayabacho/\" target=\"_blank\">官網</a>",
           "type": "hotel"
+        },
+        {
+          "id": "movement-hotel-to-akihabara-702",
+          "name": "相鉄フレッサイン 日本橋茅場町 → 秋葉原",
+          "lat": 35.70216,
+          "lng": 139.774583,
+          "time": "17:30–17:45",
+          "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">茅場町駅→秋葉原駅 日比谷線 約6分；務必提前到，預約須開演前10分鐘到達（17:50前）",
+          "type": "transit"
+        },
+        {
+          "id": "akiba-fukurou-702",
+          "name": "🦉 Akiba Fukurou Owl Cafe（Private Session）",
+          "lat": 35.70216,
+          "lng": 139.774583,
+          "time": "18:00–19:00",
+          "description": "✅ <strong>已預訂 Private Session（7/2 18:00–19:00・4名）</strong>；獨享包場貓頭鷹體驗（可上手＋專人攝影）；⚠️ 須 17:50 前到達（開演後不開門）；現金 only；⚠️ 無餐點／無飲品菜單，純體驗；67 Kanda Neribeicho 千代田区；秋葉原駅中央改札步行2分；<a href=\"https://akiba2960.com/\" target=\"_blank\">官網</a>",
+          "type": "cafe",
+          "price": "Private Session・現金 only",
+          "note": "✅ 已預訂（Private・18:00-19:00・4名）"
+        },
+        {
+          "id": "akihabara-dinner-702",
+          "name": "🍽️ 秋葉原 晚餐",
+          "lat": 35.70216,
+          "lng": 139.774583,
+          "time": "19:00–20:00",
+          "description": "貓頭鷹體驗後；秋葉原餐廳眾多（拉麵・定食・迴轉壽司・主題餐廳等）自由選擇",
+          "type": "restaurant"
+        },
+        {
+          "id": "movement-akihabara-to-hotel-702",
+          "name": "秋葉原 → 相鉄フレッサイン 日本橋茅場町 返回",
+          "lat": 35.681219,
+          "lng": 139.779955,
+          "time": "20:00–20:15",
+          "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">秋葉原駅→茅場町駅 日比谷線 約6分；返回酒店休息",
+          "type": "transit"
         }
       ]
     },
@@ -868,22 +906,11 @@
           "note": "✅ 10:15-11:00 午餐時段"
         },
         {
-          "id": "akiba-fukurou-owl-cafe-4",
-          "name": "🦉 Akiba Fukurou Owl Cafe",
-          "lat": 35.70216,
-          "lng": 139.774583,
-          "time": "11:00–12:00",
-          "description": "貓頭鷹互動體驗【改至 7/4】；必須提前預約；現金only；可愛的貓頭鷹、拍照、飲食體驗；秋葉原內；1小時体驗；<a href=\"https://visit-chiyoda.tokyo/app/en/spot/detail/729\" target=\"_blank\">Info</a>",
-          "type": "cafe",
-          "price": "3,300円/人",
-          "note": "✅ 11:00-12:00（從 7/3 移至 7/4）"
-        },
-        {
           "id": "akihabara-afternoon-shopping",
           "name": "秋葉原周邊散策・購物",
           "lat": 35.70216,
           "lng": 139.774583,
-          "time": "12:00–13:15",
+          "time": "11:00–13:15",
           "description": "Owl Cafe後；逛電器街、遊戲廳、模型店、手辦店；購物體驗",
           "type": "area"
         },

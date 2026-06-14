@@ -407,11 +407,6 @@
       "name": "★ Akihabara Lunch + Area Explore",
       "description": "Enter Akihabara; lunch choice (ramen, teishoku, conveyor sushi); first explore of the electronics district"
     },
-    "akiba-fukurou-owl-cafe-4": {
-      "name": "🦉 Akiba Fukurou Owl Cafe",
-      "description": "Owl interaction experience; must pre-book; cash only; cute owls, photos, food & drink; 1-hr session in Akihabara; <a href=\"https://visit-chiyoda.tokyo/app/en/spot/detail/729\" target=\"_blank\">Info</a>",
-      "price": "¥3,300/person"
-    },
     "akihabara-afternoon-shopping": {
       "name": "Akihabara Shopping & Exploring",
       "description": "After Owl Cafe; browse electronics street, game arcades, figure shops, anime goods; classic Akihabara experience"
@@ -519,6 +514,23 @@
       "name": "🦁 Miyashita Park – adidas PLAY FREE PARK (Ado Statue + adiFOTO)",
       "description": "[Final day 6/28!] adidas football-themed pop-up; 🗽 <strong>life-sized Ado statue</strong> in the adidas Japan national football team kit; 📸 <strong>adiFOTO</strong>: Ado collaboration photo booth (purikura) with original designs; venue: Miyashita Park multi-purpose sports facility (sand court); Sun 11:00–20:00; free; RAYARD Miyashita Park has the \"Shibuya Yokocho\" food street for lunch; <a href=\"https://www.miyashita-park.tokyo/schedule/?p=2894\" target=\"_blank\">Official</a>",
       "price": "Free"
+    },
+    "movement-hotel-to-akihabara-702": {
+      "name": "Sotetsu Fresa Inn Nihonbashi-Kayabacho → Akihabara",
+      "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Kayabacho→Akihabara, Hibiya Line ~6 min; arrive early — booking requires arrival 10 min before start (by 17:50)"
+    },
+    "akiba-fukurou-702": {
+      "name": "🦉 Akiba Fukurou Owl Cafe (Private Session)",
+      "description": "✅ <strong>Booked: Private Session (7/2 18:00–19:00, 4 people)</strong>; exclusive owl experience (hold owls + pro photographer); ⚠️ arrive by 17:50 (door locks once it starts); cash only; ⚠️ no food/drink menu — owl experience only; 67 Kanda Neribeicho, Chiyoda; 2 min from Akihabara Stn Central Gate; <a href=\"https://akiba2960.com/\" target=\"_blank\">Official</a>",
+      "price": "Private Session · cash only"
+    },
+    "akihabara-dinner-702": {
+      "name": "🍽️ Akihabara Dinner",
+      "description": "After the owl experience; plenty of Akihabara restaurants (ramen, set meals, conveyor sushi, themed cafes)"
+    },
+    "movement-akihabara-to-hotel-702": {
+      "name": "Akihabara → Sotetsu Fresa Inn Nihonbashi-Kayabacho (return)",
+      "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Akihabara→Kayabacho, Hibiya Line ~6 min; return to hotel"
     }
   }
 }
