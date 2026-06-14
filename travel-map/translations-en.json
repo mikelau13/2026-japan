@@ -403,17 +403,9 @@
       "name": "Sotetsu Fresa Inn Nihonbashi-Kayabacho – Checkout + Luggage Storage",
       "description": "Check out; leave luggage with hotel storage (collect before heading to Shin-Yokohama); complete by 11:00"
     },
-    "akihabara-lunch-afternoon": {
-      "name": "★ Akihabara Lunch + Area Explore",
-      "description": "Enter Akihabara; lunch choice (ramen, teishoku, conveyor sushi); first explore of the electronics district"
-    },
-    "akihabara-afternoon-shopping": {
-      "name": "Akihabara Shopping & Exploring",
-      "description": "After Owl Cafe; browse electronics street, game arcades, figure shops, anime goods; classic Akihabara experience"
-    },
     "movement-akiba-to-minato": {
-      "name": "Akihabara → Minatomirai (transit)",
-      "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\"><img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Hibiya Line Akihabara→Higashi-Ginza (collect luggage) → JR to Yokohama direction; ~50 min total; heading to Aka-Renga"
+      "name": "Nihonbashi → Kayabacho (luggage) → Minatomirai",
+      "description": "Nihonbashi→Kayabacho (Tozai Line 1 stop / 10 min walk) to collect stored luggage → Kayabacho→Yokohama/Minatomirai (~45–50 min); ~60–75 min total"
     },
     "minato-light-meal-rest": {
       "name": "Minatomirai – Light Meal & Rest",
@@ -531,6 +523,24 @@
     "movement-akihabara-to-hotel-702": {
       "name": "Akihabara → Sotetsu Fresa Inn Nihonbashi-Kayabacho (return)",
       "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Akihabara→Kayabacho, Hibiya Line ~6 min; return to hotel"
+    },
+    "movement-hotel-to-hamarikyu-704": {
+      "name": "Kayabacho → Hamarikyu Gardens",
+      "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Kayabacho → Tsukiji/Shiodome area (Hibiya/Oedo Line transfer) ~20 min; short walk to garden entrance"
+    },
+    "hamarikyu-garden-704": {
+      "name": "🌳 Hamarikyu Gardens",
+      "description": "Edo-period daimyo garden; tidal pond, 300-year-old pine, seasonal flowers; Nakajima Tea House on the pond serves matcha + wagashi (extra); a calm green oasis for a relaxed stroll — conserve energy for tonight; 09:00–17:00 (last entry 16:30); Adult ¥300, 65+ ¥150, junior-high & under free; <a href=\"https://www.tokyo-park.or.jp/teien/en/hama-rikyu/\" target=\"_blank\">Official</a>",
+      "price": "Adult ¥300 · 65+ ¥150 · jr-high & under free"
+    },
+    "movement-hamarikyu-to-nihonbashi-704": {
+      "name": "Hamarikyu → Nihonbashi",
+      "description": "Hamarikyu → Shimbashi → Ginza Line Shimbashi→Nihonbashi ~5 min; ~25 min total"
+    },
+    "nihonbashi-704": {
+      "name": "🏛️ Nihonbashi (Mitsukoshi, COREDO Muromachi, Fukutoku Shrine) + Lunch",
+      "description": "Historic Edo-era commercial district; Nihonbashi Mitsukoshi flagship (Important Cultural Property, Tennyo statue); COREDO Muromachi (dining & specialty shops); Fukutoku Shrine; Nihonbashi bridge (road origin marker); plenty of lunch options at COREDO Muromachi; just 1 stop from the Kayabacho hotel for easy luggage pickup",
+      "type": "area"
     }
   }
 }

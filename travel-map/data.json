@@ -896,31 +896,49 @@
           "type": "hotel"
         },
         {
-          "id": "akihabara-lunch-afternoon",
-          "name": "★ 秋葉原午餐 + 周邊散策",
-          "lat": 35.70216,
-          "lng": 139.774583,
-          "time": "10:00–11:00",
-          "description": "【改至 7/4】進入秋葉原；午餐自選（拉麵、定食、迴轉壽司等）；電器街初探",
-          "type": "area",
-          "note": "✅ 10:15-11:00 午餐時段"
+          "id": "movement-hotel-to-hamarikyu-704",
+          "name": "茅場町 → 浜離宮恩賜庭園",
+          "lat": 35.659656,
+          "lng": 139.763409,
+          "time": "09:45–10:10",
+          "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">茅場町→築地・汐留方面（日比谷線／大江戸線轉乘）約20分；步行至浜離宮入口",
+          "type": "transit"
         },
         {
-          "id": "akihabara-afternoon-shopping",
-          "name": "秋葉原周邊散策・購物",
-          "lat": 35.70216,
-          "lng": 139.774583,
-          "time": "11:00–13:15",
-          "description": "Owl Cafe後；逛電器街、遊戲廳、模型店、手辦店；購物體驗",
+          "id": "hamarikyu-garden-704",
+          "name": "🌳 浜離宮恩賜庭園",
+          "lat": 35.659656,
+          "lng": 139.763409,
+          "time": "10:10–11:30",
+          "description": "江戸時代大名庭園；潮入の池・三百年の松・四季花卉；池中「中島の御茶屋」可品抹茶＋和菓子（另計）；都心難得的靜謐綠洲，悠閒散步保留體力；09:00–17:00（最終入園16:30）；大人¥300・65歲以上¥150・中學生以下免費；<a href=\"https://www.tokyo-park.or.jp/teien/en/hama-rikyu/\" target=\"_blank\">官網</a>",
+          "type": "garden",
+          "price": "大人¥300・65歲以上¥150・中學生以下免費"
+        },
+        {
+          "id": "movement-hamarikyu-to-nihonbashi-704",
+          "name": "浜離宮 → 日本橋",
+          "lat": 35.685633,
+          "lng": 139.77343,
+          "time": "11:30–12:00",
+          "description": "浜離宮→汐留/新橋→銀座線 新橋→日本橋 約5分；合計約25分",
+          "type": "transit"
+        },
+        {
+          "id": "nihonbashi-704",
+          "name": "🏛️ 日本橋（三越本店・COREDO室町・福徳神社）＋午餐",
+          "lat": 35.685633,
+          "lng": 139.77343,
+          "time": "12:00–13:15",
+          "description": "江戸以來的老舖商業區；日本橋三越本店（重要文化財・天女像）；COREDO室町（餐廳・日本橋特色店）；福徳神社；日本橋（道路元標）；午餐選擇豐富（COREDO室町多間餐廳）；離茅場町酒店僅1站，方便取回行李",
           "type": "area"
         },
         {
           "id": "movement-akiba-to-minato",
-          "name": "秋葉原 → みなとみらい（行李領回・移動）",
+          "name": "日本橋 → 茅場町（取行李）→ みなとみらい",
           "lat": 35.6652,
           "lng": 139.7418,
           "time": "13:15–14:30",
-          "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\"><img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">日比谷線 秋葉原→東銀座（領回行李）→JR 横浜方向；約50分；準備赤レンガ散策",
+          "description": "日本橋→茅場町（東西線1停／步行10分）取回寄存行李 → 茅場町→横浜・みなとみらい方面（約45–50分）；合計約60–75分",
           "type": "transit"
         },
         {
