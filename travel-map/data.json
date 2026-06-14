@@ -304,26 +304,36 @@
           "name": "🚶 竹下通り散策＋邊走邊吃（充裕1.5小時）",
           "lat": 35.6694,
           "lng": 139.705,
-          "time": "12:00–13:30",
-          "description": "世界最著名青少年時尚街；H&M、Forever 21、日本原創小店、Crepes、雜貨；人潮眾多但充滿活力；邊走邊吃小食；充裕1.5小時遊覽；<a href=\"https://gltjp.com/ja/article/item/20395/\" target=\"_blank\">竹下通り</a>",
+          "time": "12:00–13:00",
+          "description": "世界最著名青少年時尚街；H&M、Forever 21、日本原創小店、Crepes、雜貨；人潮眾多但充滿活力；邊走邊吃當午餐；<a href=\"https://gltjp.com/ja/article/item/20395/\" target=\"_blank\">竹下通り</a>",
           "type": "area"
         },
         {
-          "id": "harajuku-lunch",
-          "name": "🍽️ 原宿ランチ【彈性】",
-          "lat": 35.670005,
-          "lng": 139.703037,
-          "time": "13:30–14:00",
-          "description": "竹下通周邊或表參道沿線自由選擇；Eggs 'n Things・BAPE Cafe 等選擇豐富；補充體力再出發",
-          "type": "restaurant"
+          "id": "movement-takeshita-to-miyashita-28",
+          "name": "竹下通 → 宮下公園",
+          "lat": 35.661385,
+          "lng": 139.701704,
+          "time": "13:00–13:15",
+          "description": "步行約12分；沿 Cat Street／明治通り 南下至澀谷宮下公園（RAYARD MIYASHITA PARK）",
+          "type": "transit"
+        },
+        {
+          "id": "miyashita-park-adidas-28",
+          "name": "🦁 宮下公園 adidas PLAY FREE PARK（Ado 雕像＋adiFOTO）",
+          "lat": 35.661385,
+          "lng": 139.701704,
+          "time": "13:15–14:00",
+          "description": "【限定 6/28 最後一天！】adidas PLAY FREE PARK 足球主題快閃；🗽 <strong>Ado 等身大雕像</strong>（穿 adidas 日本足球代表隊球衣）；📸 <strong>adiFOTO</strong>：Ado 聯名原創設計證明相機（大頭貼）；場地：宮下公園 多目的運動施設（サンドコート）；週日 11:00–20:00；免費；RAYARD 宮下公園併設「澀谷橫丁」美食街可補午餐；<a href=\"https://www.miyashita-park.tokyo/schedule/?p=2894\" target=\"_blank\">官方</a>",
+          "type": "event",
+          "price": "免費"
         },
         {
           "id": "movement-harajuku-to-kichijoji",
-          "name": "原宿 → 吉祥寺",
+          "name": "宮下公園（澀谷）→ 吉祥寺",
           "lat": 35.7027,
           "lng": 139.58,
           "time": "14:00–14:30",
-          "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR山手線 原宿→渋谷（1停，約2分）→ 京王井の頭線 渋谷→吉祥寺（急行，約26分）；合計約30分，1次換乘；前往吉祥寺プティット村エリア",
+          "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">宮下公園步行5分至澀谷駅 → 京王井の頭線（急行）澀谷→吉祥寺 約16分；合計約30分；前往吉祥寺プティット村エリア",
           "type": "transit",
           "note": "⚠️ 座標為吉祥寺駅（估算）"
         },

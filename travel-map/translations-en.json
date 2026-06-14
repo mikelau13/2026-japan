@@ -165,16 +165,12 @@
       "description": "10–15 min walk; Omotesando area straight to Takeshita-dori entrance"
     },
     "harajuku-takeshita": {
-      "name": "🚶 Takeshita-dori – 1.5 hrs",
-      "description": "World-famous Harajuku youth fashion street; H&M, Forever 21, Japanese indie shops, crepes, accessories; lively crowds; full 1.5 hrs to snack & explore; <a href=\"https://gltjp.com/ja/article/item/20395/\" target=\"_blank\">Info</a>"
-    },
-    "harajuku-lunch": {
-      "name": "🍽️ Harajuku Lunch [Flexible]",
-      "description": "Free choice around Takeshita-dori or Omotesando; Eggs 'n Things, BAPE Cafe and many more options; refuel before heading to Kichijoji"
+      "name": "🚶 Takeshita-dori (60 min)",
+      "description": "World-famous Harajuku youth fashion street; H&M, Forever 21, indie shops, crepes, accessories; lively crowds; grab street food for lunch; <a href=\"https://gltjp.com/ja/article/item/20395/\" target=\"_blank\">Info</a>"
     },
     "movement-harajuku-to-kichijoji": {
-      "name": "Harajuku → Kichijoji (transit)",
-      "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">JR Yamanote Line Harajuku→Shibuya (1 stop, ~2 min) → Keio Inokashira Line Shibuya→Kichijoji (Express, ~26 min); ~30 min total, 1 transfer"
+      "name": "Miyashita Park (Shibuya) → Kichijoji (transit)",
+      "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">5 min walk to Shibuya Stn → Keio Inokashira Line (Express) Shibuya→Kichijoji ~16 min; ~30 min total; heading to Kichijoji Petit Mura"
     },
     "kichijoji-petitmura-temarinooshiro": {
       "name": "🏰 Kichijoji Petit Mura + CAPOON + Temari no Oshiro Cat Cafe",
@@ -514,6 +510,15 @@
     "haneda-return": {
       "name": "Haneda Airport – International Departure",
       "description": "Collect luggage + duty-free shopping + check-in + immigration; arrive at airport by 13:30"
+    },
+    "movement-takeshita-to-miyashita-28": {
+      "name": "Takeshita-dori → Miyashita Park",
+      "description": "~12 min walk south via Cat Street / Meiji-dori to Shibuya Miyashita Park (RAYARD MIYASHITA PARK)"
+    },
+    "miyashita-park-adidas-28": {
+      "name": "🦁 Miyashita Park – adidas PLAY FREE PARK (Ado Statue + adiFOTO)",
+      "description": "[Final day 6/28!] adidas football-themed pop-up; 🗽 <strong>life-sized Ado statue</strong> in the adidas Japan national football team kit; 📸 <strong>adiFOTO</strong>: Ado collaboration photo booth (purikura) with original designs; venue: Miyashita Park multi-purpose sports facility (sand court); Sun 11:00–20:00; free; RAYARD Miyashita Park has the \"Shibuya Yokocho\" food street for lunch; <a href=\"https://www.miyashita-park.tokyo/schedule/?p=2894\" target=\"_blank\">Official</a>",
+      "price": "Free"
     }
   }
 }
