@@ -203,9 +203,10 @@
           "lat": 35.6247851,
           "lng": 139.7758551,
           "time": "20:00–20:20",
-          "description": "⚠️【最後機會！】2026年8月底永久撤除（近9年歷史）；免費；WALL-G夜間演出每30分一場（19:00–21:30）：19:00 Gundam 45週年特別映像・20:00 UNICORN Special Movie・21:30 GUNDAM:BEYOND等；【推薦場次：20:00 場】；旅行中剛有スタンプラリー（6/8–7/12）可於DiverCity 2F集章；<a href=\"https://www.unicorn-gundam-statue.jp/\" target=\"_blank\">官網</a>",
+          "description": "⚠️【最後機會！】2026年8月底永久撤除；免費；2F フェスティバル広場；夜演出 19:00–21:30 每30分一場（19:00 閃光のハサウェイ／19:30 MidNight CHA CHA／<strong>20:00 ガンダムUC SPECIAL MOVIE \"Cage\"</strong>／20:30 翔べ！ガンダム2017／21:00 ペルフェクティビリティ／21:30 GUNDAM:BEYOND）；【推薦 20:00 場】；昼變身 11/13/15/17時；<a href=\"https://www.unicorn-gundam-statue.jp/\" target=\"_blank\">官網（2026/3/7更新）</a>",
           "type": "attraction",
-          "price": "免費"
+          "price": "免費",
+          "note": "✅ 時刻表已確認（官網 2026/3/7 改正）"
         },
         {
           "id": "movement-to-odaiba-bay",
