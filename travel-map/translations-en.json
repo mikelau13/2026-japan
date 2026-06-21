@@ -19,7 +19,7 @@
       "title": "Shibata City Day Trip + Otakusen Ceremony"
     },
     "2026-07-02": {
-      "title": "Kawagoe Little Edo Half-Day → Nihonbashi Kayabacho"
+      "title": "Kawagoe Little Edo Half-Day → Tsukiji"
     },
     "2026-07-03": {
       "title": "Tsukiji + Asakusa + Kappabashi Tanabata"
@@ -315,8 +315,8 @@
       "description": "<img src=\"img/transit/JO.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Joetsu Shinkansen toward Tokyo; ~100 min; arrive early evening with plenty of time to check in and have dinner"
     },
     "ginza-hotel": {
-      "name": "Sotetsu Fresa Inn Nihonbashi-Kayabacho – Check-in",
-      "description": "Nihonbashi Kayabacho, Chuo Ward; 3-min walk from Kayabacho Stn (Hibiya &amp; Tozai Lines); check-in from 15:00, checkout by 11:00; Asakusa direct ~8 min, Akihabara direct ~6 min, Tsukiji 2 stops; <a href=\"https://www.sotetsu-hotels.com/fresa-inn/nihonbashi-kayabacho/\" target=\"_blank\">Official Site</a>"
+      "name": "Hotel Vista Tokyo [Tsukiji] – Check-in",
+      "description": "Tsukiji 4-chome, Chuo Ward; ~5 min walk from Tsukiji Stn (Hibiya Line) & Higashi-Ginza Stn; check-in 15:00 / checkout 11:00; walking distance to Tsukiji Outer Market & Kabuki-za; direct Hibiya Line to Akihabara/Asakusa; <a href=\"https://www.hotel-vista.jp/tsukiji/\" target=\"_blank\">Official</a>"
     },
     "movement-niigata-to-kawagoe": {
       "name": "Niigata → Omiya → Kawagoe (transit)",
@@ -348,8 +348,8 @@
       "price": "Adult ¥300 · Under 13 ¥100"
     },
     "movement-kawagoe-to-higashiginza": {
-      "name": "Kawagoe → Sotetsu Fresa Inn Nihonbashi-Kayabacho (transit)",
-      "description": "Tobu Tojo Line Express Kawagoe→Ikebukuro (~30 min) → Marunouchi Line→Otemachi → Tozai Line→Kayabacho (~40 min); total ~1h10min"
+      "name": "Kawagoe → Hotel Vista Tokyo [Tsukiji] (transit)",
+      "description": "Tobu Tojo Line Express Kawagoe→Ikebukuro (~30 min) → Tokyo Metro Yurakucho Line Ikebukuro→Shintomicho (~25 min) → 5 min walk; ~1h10min total"
     },
     "tsukiji-market": {
       "name": "Tsukiji Outer Market (築地場外市場)",
@@ -400,12 +400,12 @@
       "price": "Varies by stall"
     },
     "hotel-checkout-4": {
-      "name": "Sotetsu Fresa Inn Nihonbashi-Kayabacho – Checkout + Luggage Storage",
-      "description": "Check out; leave luggage with hotel storage (collect before heading to Shin-Yokohama); complete by 11:00"
+      "name": "Hotel Vista Tokyo [Tsukiji] – Checkout + Luggage Storage",
+      "description": "Check out (11:00); leave luggage with hotel storage (collect before 17:00); complete by 11:00"
     },
     "movement-akiba-to-minato": {
-      "name": "Nihonbashi → Kayabacho (luggage) → Minatomirai",
-      "description": "Nihonbashi→Kayabacho (Tozai Line 1 stop / 10 min walk) to collect stored luggage → Kayabacho→Yokohama/Minatomirai (~45–50 min); ~60–75 min total"
+      "name": "Nihonbashi → Tsukiji (luggage) → Minatomirai",
+      "description": "Nihonbashi→Tsukiji (Asakusa/Hibiya Line ~15 min) to collect stored luggage → Tsukiji→Yokohama/Minatomirai (~45–50 min); ~70–80 min total"
     },
     "minato-light-meal-rest": {
       "name": "Minatomirai – Light Meal & Rest",
@@ -508,8 +508,8 @@
       "price": "Free"
     },
     "movement-hotel-to-akihabara-702": {
-      "name": "Sotetsu Fresa Inn Nihonbashi-Kayabacho → Akihabara",
-      "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Kayabacho→Akihabara, Hibiya Line ~6 min; arrive early — booking requires arrival 10 min before start (by 17:50)"
+      "name": "Tsukiji → Akihabara",
+      "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Tsukiji→Akihabara, Hibiya Line direct ~10 min; arrive by 17:50 for the owl cafe"
     },
     "akiba-fukurou-702": {
       "name": "🦉 Akiba Fukurou Owl Cafe (Private Session)",
@@ -521,12 +521,12 @@
       "description": "After the owl experience; plenty of Akihabara restaurants (ramen, set meals, conveyor sushi, themed cafes)"
     },
     "movement-akihabara-to-hotel-702": {
-      "name": "Akihabara → Sotetsu Fresa Inn Nihonbashi-Kayabacho (return)",
-      "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Akihabara→Kayabacho, Hibiya Line ~6 min; return to hotel"
+      "name": "Akihabara → Hotel Vista Tokyo [Tsukiji] (return)",
+      "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Akihabara→Tsukiji, Hibiya Line direct ~10 min; return to hotel"
     },
     "movement-hotel-to-hamarikyu-704": {
-      "name": "Kayabacho → Hamarikyu Gardens",
-      "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Kayabacho → Tsukiji/Shiodome area (Hibiya/Oedo Line transfer) ~20 min; short walk to garden entrance"
+      "name": "Tsukiji → Hamarikyu Gardens",
+      "description": "<img src=\"img/transit/H.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Tsukiji → Shiodome/Tsukiji-Shijo area (walk or Oedo Line) ~15 min; short walk to garden entrance"
     },
     "hamarikyu-garden-704": {
       "name": "🌳 Hamarikyu Gardens",
@@ -539,7 +539,7 @@
     },
     "nihonbashi-704": {
       "name": "🏛️ Nihonbashi (Mitsukoshi, COREDO Muromachi, Fukutoku Shrine) + Lunch",
-      "description": "Historic Edo-era commercial district; Nihonbashi Mitsukoshi flagship (Important Cultural Property, Tennyo statue); COREDO Muromachi (dining & specialty shops); Fukutoku Shrine; Nihonbashi bridge (road origin marker); plenty of lunch options at COREDO Muromachi; just 1 stop from the Kayabacho hotel for easy luggage pickup",
+      "description": "Historic Edo-era commercial district; Nihonbashi Mitsukoshi flagship (Important Cultural Property, Tennyo statue); COREDO Muromachi (dining & specialty shops); Fukutoku Shrine; Nihonbashi bridge (road origin marker); plenty of lunch options at COREDO Muromachi",
       "type": "area"
     }
   }
