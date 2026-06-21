@@ -666,7 +666,7 @@
           "lat": 35.9065,
           "lng": 139.6233,
           "time": "09:30–11:40",
-          "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">上越新幹線 新潟→大宮（約1h40min）→ JR川越線 大宮→川越（約30min）；合計約2h10min；車內可補眠",
+          "description": "<img src=\"img/transit/JY.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">上越新幹線 新潟→大宮（約1h40min）→ JR川越線 大宮→川越（約30min）；合計約2h10min；車內可補眠；🧳 <strong>川越駅 行李寄存</strong>：大型置物櫃僅約6–7個易爆，建議①事前用 <a href=\"https://cloak.ecbo.io/ja/jpn/city/saitama/92\" target=\"_blank\">ecbo cloak</a>（App英文・預約保證有位）或②東武改札旁 観光案内所人工寄存（¥500/件・9:00～閉所前1小時・行李箱OK・15:30離開前取回）",
           "type": "transit",
           "note": "⚠️ 座標為大宮駅（中轉點）"
         },
