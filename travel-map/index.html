@@ -578,7 +578,7 @@
         // ── Data loading ─────────────────────────────────────────────
         async function loadData() {
             const [dataRes, enRes] = await Promise.all([
-                fetch('data.json?v=2.83'),
+                fetch('data.json?v=2.84'),
                 fetch('translations-en.json')
             ]);
             const data = await dataRes.json();
