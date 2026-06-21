@@ -507,17 +507,17 @@
           "name": "湯沢グランドホテル Checkout ＋ 行李寄存",
           "lat": 36.9353,
           "lng": 138.8074,
-          "time": "10:00",
-          "description": "【退房10:00】前台提供免費行李寄存服務；退房後可享足湯・散策・早餐充分放鬆，直至 13:10 巴士出發；🔐 駅コインロッカー（改札外2F右側）：特大¥700/小¥300；Suica可；<a href=\"https://coinlocker-shiori.com/echigo-yuzawa-station/\" target=\"_blank\">ロッカー詳細</a>",
+          "time": "09:00–09:45",
+          "description": "前台辦理退房（10:00前）＋行李寄存（酒店前台或駅ロッカー）；準備搭 Cコース貸切タクシー前往清津峡；🔐 駅コインロッカー（改札外2F右側）特大¥700～小¥300・Suica可；<a href=\"https://coinlocker-shiori.com/echigo-yuzawa-station/\" target=\"_blank\">ロッカー詳細</a>",
           "type": "hotel"
         },
         {
           "id": "movement-yuzawa-to-kiyotsu",
-          "name": "湯沢駅 → 清津峡渓谷トンネル",
+          "name": "🚕 湯沢グランドホテル → 清津峡（Cコース貸切タクシー）",
           "lat": 36.9725,
           "lng": 138.7498,
-          "time": "13:10–13:34",
-          "description": "<img src=\"img/transit/bus.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">南越後観光バス 湯沢駅前（東口4番乗り場）13:10発→清津峡入口 13:34着；⚠️ 1日4便のみ（07:15/13:10/15:10/17:05）；之後步行約30分至トンネル入口；<a href=\"https://www.minamiechigo.co.jp/pdf/muikamachi/jikoku/weekday/morimiyaR7-10-all-w.pdf\" target=\"_blank\">📄 平日時刻表PDF</a>　<a href=\"https://www.minamiechigo.co.jp/pdf/muikamachi/jikoku/holiday/morimiyaR7-10-all-h.pdf\" target=\"_blank\">📄 休日時刻表PDF</a>；🔄 <strong>備選：套票巴士（雪国観光舎）</strong>—直達第1駐車場（免30分步行）＋含入坑券；週三定休（6/30週二可乘）；5–8月須來回預訂・出發3日前網上申請；夏季班次/價格待確認；<a href=\"https://www.snow-country-tourism.jp/posts/57035221\" target=\"_blank\">套票巴士預約</a>",
+          "time": "10:00–10:25",
+          "description": "✅ <strong>Cコース 貸切タクシー（普通車1台・約2時間）</strong>—ゆざわ魚沼タクシー（TEL 025-784-2025）；直達第1駐車場（免來回各30分步行）、司機等候；約¥15,000–19,000/車＋入坑券自理；<strong>請6/29晚湯沢グランドホテル前台代訂</strong>；備選：路線巴士13:10（<a href=\"https://www.minamiechigo.co.jp/pdf/muikamachi/jikoku/weekday/morimiyaR7-10-all-w.pdf\" target=\"_blank\">時刻表</a>）／套票巴士（雪国観光舎）",
           "type": "transit"
         },
         {
@@ -525,27 +525,27 @@
           "name": "🏞️ 清津峡渓谷トンネル ～水鏡裝置～【重點】",
           "lat": 36.9725,
           "lng": 138.7498,
-          "time": "14:04–15:10（目標）",
-          "description": "日本三大峽谷；750米觀景隧道；終端水鏡裝置（晴天最佳）；⚠️ 步行30分到トンネル入口（從巴士站）；遊覽約1小時（需控制時間趕 15:57 回程巴士）；早起造訪人少；踩水拍照記得備用襪子；<a href=\"https://nakasato-kiyotsu.com/tunnel/\" target=\"_blank\">官網</a> ／ <a href=\"https://www.youtube.com/watch?v=xs7X5XQIguE&t=30s\" target=\"_blank\">▶ YouTube</a>",
+          "time": "10:25–11:35",
+          "description": "日本三大峽谷；750米觀景隧道；終端水鏡裝置（晴天最佳）；約70分遊覽（タクシー司機在駐車場等候）；現場買4張入坑券（大人¥1,200×3＋中学生¥500＝¥4,100）；踩水拍照記得備用襪子；<a href=\"https://nakasato-kiyotsu.com/tunnel/\" target=\"_blank\">官網</a> ／ <a href=\"https://www.youtube.com/watch?v=xs7X5XQIguE&t=30s\" target=\"_blank\">▶ YouTube</a>",
           "type": "attraction",
           "price": "大人1,200円・中高生500円"
         },
         {
           "id": "movement-kiyotsu-to-yuzawa",
-          "name": "清津峡渓谷站 → 湯沢駅",
+          "name": "🚕 清津峡 → 湯沢（Cコース同車送返）",
           "lat": 36.9353,
           "lng": 138.8074,
-          "time": "15:57–16:25",
-          "description": "<img src=\"img/transit/bus.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">南越後観光バス 清津峡入口 15:57発→湯沢駅前 16:25着；⚠️ 務必 15:34 前步行回到巴士站（步行約30分）；下一班17:57→18:25（備用）",
+          "time": "11:35–12:00",
+          "description": "Cコース貸切タクシー 同車送返湯沢駅／酒店；約2小時行程含在內，提早完成不另計、超時才按30分加收",
           "type": "transit"
         },
         {
           "id": "yuzawa-lunch-rest",
-          "name": "🛁 湯沢午前自由時間（足湯・散策・早餐）",
+          "name": "🍱 湯沢駅 午餐 ＋ 取行李",
           "lat": 36.9353,
           "lng": 138.8074,
-          "time": "10:00–13:10",
-          "description": "退房後至巴士出發前的空閒；推薦：酒店大浴場最後一泡・駅前足湯・HATAGO Isen珈琲・爆弾おにぎり等；13:00前往東口4番乗り場準備",
+          "time": "12:00–12:45",
+          "description": "湯沢駅周邊午餐（爆弾おにぎり・へぎそば・駅前咖啡等）並取回寄存行李；準備搭13:00新幹線",
           "type": "restaurant"
         },
         {
@@ -553,8 +553,8 @@
           "name": "湯沢駅 → 新潟駅 (新幹線)",
           "lat": 37.9108,
           "lng": 139.0638,
-          "time": "~17:00–17:45",
-          "description": "<img src=\"img/transit/JO.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">上越新幹線 越後湯沢→新潟；約45分；取回寄存行李後乘車；新幹線內可補眠",
+          "time": "13:00–13:45",
+          "description": "<img src=\"img/transit/JO.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">上越新幹線 越後湯沢→新潟；約45分；比原巴士方案大幅提早抵達新潟，下午更從容",
           "type": "transit"
         },
         {
@@ -562,7 +562,7 @@
           "name": "新潟駅到著・休息時間",
           "lat": 37.9108,
           "lng": 139.0638,
-          "time": "17:45–18:30",
+          "time": "13:45–15:00",
           "description": "早到新潟駅；行李可暫存於駅內寄物櫃或飯店前台（確認營業時間）；自由散策或休息；Popia萬代（駅直結）購物或站內咖啡館稍坐；為下午活動充電",
           "type": "area"
         },
@@ -571,7 +571,7 @@
           "name": "アートホテル新潟駅前 Check-in",
           "lat": 37.910903,
           "lng": 139.063846,
-          "time": "18:30",
+          "time": "15:00",
           "description": "JR新潟駅南口直結；官方check-in時間為15:00以後；提早抵達可先放行李、領房鑰匙；前往蒲原神社・新発田皆便利",
           "type": "hotel"
         },
@@ -580,7 +580,7 @@
           "name": "🎨 新潟市下午散策（彈性）",
           "lat": 37.9184194,
           "lng": 139.0488811,
-          "time": "18:30–19:30",
+          "time": "15:00–18:30",
           "description": "根據體力自由選擇：新潟市マンガ・アニメ情報館（200円）、万代橋・信濃川河畔散步、Popia萬代購物、沼垂テラス商店街（昭和懷舊街景）；或直接回飯店休息",
           "type": "area"
         },
