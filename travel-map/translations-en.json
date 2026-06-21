@@ -45,16 +45,16 @@
     },
     "divercity-evening": {
       "name": "DiverCity Dinner + Flexible Evening",
-      "description": "Takeiba→Aomi (10 min)→DiverCity; dinner 18:00–20:00; if energized: Gundam Night Show (20:00) + Aqua Symphony (20:30); if tired: return hotel; <a href=\"https://mitsui-shopping-park.com/divercity-tokyo/info/2670391.html\" target=\"_blank\">DiverCity Official</a>"
+      "description": "Takeiba→Aomi (10 min)→DiverCity; dinner 18:00–20:00; if energized: Gundam Night Show (20:00) + Aqua Symphony (20:30); if tired: return hotel; <a href=\"https://mitsui-shopping-park.com/divercity-tokyo/info/2670391.html\" target=\"_blank\">DiverCity Official</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.6247851,139.7758551\" target=\"_blank\">📍 Google Maps</a>"
     },
     "gundam-night-optional-26": {
       "name": "Unicorn Gundam Night Show (6/26 Optional)",
-      "description": "⚠️ LAST CHANCE (retires Aug 2026)! [Optional] Free; every 30 min from 19:00; <a href=\"https://www.unicorn-gundam-statue.jp/\" target=\"_blank\">Official Site</a>",
+      "description": "⚠️ LAST CHANCE (retires Aug 2026)! [Optional] Free; every 30 min from 19:00; <a href=\"https://www.unicorn-gundam-statue.jp/\" target=\"_blank\">Official Site</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.6247851,139.7758551\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "aqua-symphony-optional-26": {
       "name": "Tokyo Aqua Symphony (6/26 Optional)",
-      "description": "[Optional] Free; Odaiba Marine Park; 15–20 min walk from DiverCity; 10-min fountain show; 20:00 or 21:00 show; <a href=\"https://tokyoaquasymphony.jp/en/\" target=\"_blank\">Official Site</a>",
+      "description": "[Optional] Free; Odaiba Marine Park; 15–20 min walk from DiverCity; 10-min fountain show; 20:00 or 21:00 show; <a href=\"https://tokyoaquasymphony.jp/en/\" target=\"_blank\">Official Site</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.6311,139.7781\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "hotel-breakfast": {
@@ -67,27 +67,27 @@
     },
     "gundam-stamp-1-odaiba-kaihin": {
       "name": "[Stamp ①] Odaiba-Kaihinkoen Stn (Optional)",
-      "description": "[Optional] Gundam Stamp Rally 2026 Phase 2 (6/8–7/12); stamp stand inside station; hop off Yurikamome, stamp, re-board next train; only 2–3 min",
+      "description": "[Optional] Gundam Stamp Rally 2026 Phase 2 (6/8–7/12); stamp stand inside station; hop off Yurikamome, stamp, re-board next train; only 2–3 min ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.629889,139.778778\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "gundam-stamp-2-waterbus": {
       "name": "[Stamp ②] Water Bus Terminal (Optional)",
-      "description": "[Optional] Gundam Stamp Rally 2026 Phase 2 (6/8–7/12); 5 min walk from Odaiba-Kaihinkoen Stn; Daiba 1-4-1, waterfront pier; stamp and walk back to station",
+      "description": "[Optional] Gundam Stamp Rally 2026 Phase 2 (6/8–7/12); 5 min walk from Odaiba-Kaihinkoen Stn; Daiba 1-4-1, waterfront pier; stamp and walk back to station ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.628866,139.773681\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "gundam-stamp-3-daiba-station": {
       "name": "[Stamp ③] Daiba Station (Optional)",
-      "description": "[Optional] Gundam Stamp Rally 2026 Phase 2 (6/8–7/12); stamp stand inside station; hop off Yurikamome, stamp, re-board next train; only 2–3 min",
+      "description": "[Optional] Gundam Stamp Rally 2026 Phase 2 (6/8–7/12); stamp stand inside station; hop off Yurikamome, stamp, re-board next train; only 2–3 min ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.625889,139.771417\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "gundam-stamp-4-shiokaze": {
       "name": "[Stamp ④] Shiokaze Park Observation Deck (Optional)",
-      "description": "[Optional] Gundam Stamp Rally 2026 Phase 2 (6/8–7/12); 5–10 min walk from Daiba Stn; stamp at observation deck with sea view; return to station after",
+      "description": "[Optional] Gundam Stamp Rally 2026 Phase 2 (6/8–7/12); 5–10 min walk from Daiba Stn; stamp at observation deck with sea view; return to station after ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.625271,139.767809\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "small-worlds": {
       "name": "🎮 SMALL WORLDS TOKYO",
-      "description": "[Must-do] World's largest miniature theme park; 3 min from Ariake Tennos-no-Mori Stn; 2.5–3 hrs; or swap with Tokyo Dream Park Doraemon exhibition; <a href=\"https://www.smallworlds.jp\" target=\"_blank\">Official Site</a>",
+      "description": "[Must-do] World's largest miniature theme park; 3 min from Ariake Tennos-no-Mori Stn; 2.5–3 hrs; or swap with Tokyo Dream Park Doraemon exhibition; <a href=\"https://www.smallworlds.jp\" target=\"_blank\">Official Site</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.637887,139.788362\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Adult ¥3,200 · Student ¥2,100"
     },
     "movement-to-ichiba-mae": {
@@ -104,7 +104,7 @@
     },
     "tokyo-dream-park": {
       "name": "🎡 Tokyo Dream Park",
-      "description": "[Must-do] Ariake; 6F rooftop plaza + Shohei Ohtani golden statue FREE; 100% Doraemon Exhibition ¥2,400 (weekend pre-sale, optional); 2–3 hrs; <a href=\"https://tdp.tv-asahi.co.jp/\" target=\"_blank\">Official Site</a>",
+      "description": "[Must-do] Ariake; 6F rooftop plaza + Shohei Ohtani golden statue FREE; 100% Doraemon Exhibition ¥2,400 (weekend pre-sale, optional); 2–3 hrs; <a href=\"https://tdp.tv-asahi.co.jp/\" target=\"_blank\">Official Site</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.6293567,139.7878091\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Rooftop free; Doraemon: Adult ¥2,400 · Student ¥1,800"
     },
     "movement-to-odaiba": {
@@ -113,7 +113,7 @@
     },
     "divercity-afternoon": {
       "name": "🎮 DiverCity Afternoon (Flexible)",
-      "description": "Choose freely: ✅ <a href=\"https://unkomuseum.com/tokyo/\" target=\"_blank\">Unko Museum</a> (1–1.5h) ✅ Gundam Base Tokyo 5F (free) ✅ Unicorn Gundam statue photo ✅ Shopping & café; ✅ Stamp Rally (6/8–7/12): collect at DiverCity 2F + 5 other Odaiba spots → instant on-site lottery machine (win = collect prize right there, tourist-friendly!); <a href=\"https://mitsui-shopping-park.com/divercity-tokyo/info/2670391.html\" target=\"_blank\">DiverCity Official</a>",
+      "description": "Choose freely: ✅ <a href=\"https://unkomuseum.com/tokyo/\" target=\"_blank\">Unko Museum</a> (1–1.5h) ✅ Gundam Base Tokyo 5F (free) ✅ Unicorn Gundam statue photo ✅ Shopping & café; ✅ Stamp Rally (6/8–7/12): collect at DiverCity 2F + 5 other Odaiba spots → instant on-site lottery machine (win = collect prize right there, tourist-friendly!); <a href=\"https://mitsui-shopping-park.com/divercity-tokyo/info/2670391.html\" target=\"_blank\">DiverCity Official</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.6247851,139.7758551\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Unko Museum ¥2,000+; others free"
     },
     "divercity-dinner": {
@@ -123,7 +123,7 @@
     },
     "gundam-night": {
       "name": "🌃 Unicorn Gundam Night Show",
-      "description": "⚠️ LAST CHANCE — retiring end of August 2026 after nearly 9 years! Free; WALL-G shows every 30 min (19:00–21:30): 19:00 Gundam 45th Anniversary Special Movie · 20:00 UNICORN Special Movie · 21:30 GUNDAM:BEYOND; recommended: 20:00 show; Stamp Rally (6/8–7/12) at DiverCity 2F — collect for chance to win limited RG Gundam; <a href=\"https://www.unicorn-gundam-statue.jp/\" target=\"_blank\">Official Site</a>",
+      "description": "⚠️ LAST CHANCE — retiring end of August 2026 after nearly 9 years! Free; WALL-G shows every 30 min (19:00–21:30): 19:00 Gundam 45th Anniversary Special Movie · 20:00 UNICORN Special Movie · 21:30 GUNDAM:BEYOND; recommended: 20:00 show; Stamp Rally (6/8–7/12) at DiverCity 2F — collect for chance to win limited RG Gundam; <a href=\"https://www.unicorn-gundam-statue.jp/\" target=\"_blank\">Official Site</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.6247851,139.7758551\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "movement-to-odaiba-bay": {
@@ -132,7 +132,7 @@
     },
     "aqua-symphony": {
       "name": "💦 Tokyo Aqua Symphony Night Fountain Show",
-      "description": "Free; 3 min from Odaiba Stn; 10 shows/day (11–21:00, no 16:00); recommended 21:00 show; ~10 min; <a href=\"https://tokyoaquasymphony.jp/en/\" target=\"_blank\">Official Site</a>",
+      "description": "Free; 3 min from Odaiba Stn; 10 shows/day (11–21:00, no 16:00); recommended 21:00 show; ~10 min; <a href=\"https://tokyoaquasymphony.jp/en/\" target=\"_blank\">Official Site</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.63,139.775\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "movement-return-to-hotel": {
@@ -153,7 +153,7 @@
     },
     "harajuku-meiji-shrine": {
       "name": "⛩️ Meiji Shrine – Forest Walk",
-      "description": "Japan's most important Shinto shrine; free; enter north gate, exit east; serene forested path; tranquil contrast to the city; <a href=\"https://www.meijijingu.or.jp\" target=\"_blank\">Official Site</a>",
+      "description": "Japan's most important Shinto shrine; free; enter north gate, exit east; serene forested path; tranquil contrast to the city; <a href=\"https://www.meijijingu.or.jp\" target=\"_blank\">Official Site</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.6764,139.6981\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "harajuku-omotesando": {
@@ -174,7 +174,7 @@
     },
     "kichijoji-petitmura-temarinooshiro": {
       "name": "🏰 Kichijoji Petit Mura + CAPOON + Temari no Oshiro Cat Cafe",
-      "description": "Fairy-tale village complex; 2-33-2 Kichijoji Honcho, Musashino; 7-min walk from Kichijoji North Exit; 🍵 <strong>CAPOON Matcha</strong>: stone-ground matcha drinks & desserts (20 min); 🏰 <strong>Temari no Oshiro</strong> (Castle Cat Café): castle-themed, ~20 cats, 2-storey; flat weekend entry ¥1,800/person, no time limit; light food menu available; walk-ins welcome; open 10:00–21:00 year-round; <a href=\"https://temarinooshiro.com\" target=\"_blank\">Official Site</a>",
+      "description": "Fairy-tale village complex; 2-33-2 Kichijoji Honcho, Musashino; 7-min walk from Kichijoji North Exit; 🍵 <strong>CAPOON Matcha</strong>: stone-ground matcha drinks & desserts (20 min); 🏰 <strong>Temari no Oshiro</strong> (Castle Cat Café): castle-themed, ~20 cats, 2-storey; flat weekend entry ¥1,800/person, no time limit; light food menu available; walk-ins welcome; open 10:00–21:00 year-round; <a href=\"https://temarinooshiro.com\" target=\"_blank\">Official Site</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.704654,139.57473\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Weekend ¥1,800/person (4 people = ¥7,200) · No time limit"
     },
     "kichijoji-soratobusakana-lunch": {
@@ -183,7 +183,7 @@
     },
     "kichijoji-inokashira-park": {
       "name": "🌿 Inokashira Park – Lakeside Stroll [Flexible]",
-      "description": "5-min walk from Flying Fish Café; free entry; lakeside walk + optional swan boat rental; most beautiful natural scenery in Kichijoji; <a href=\"https://www.kensetsu.metro.tokyo.lg.jp/jimusho/seibuk/inokashira/index.html\" target=\"_blank\">Park Info</a>",
+      "description": "5-min walk from Flying Fish Café; free entry; lakeside walk + optional swan boat rental; most beautiful natural scenery in Kichijoji; <a href=\"https://www.kensetsu.metro.tokyo.lg.jp/jimusho/seibuk/inokashira/index.html\" target=\"_blank\">Park Info</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.7002,139.5703\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free entry (swan boats extra)"
     },
     "movement-kichijoji-to-shinjuku": {
@@ -201,7 +201,7 @@
     },
     "tokyo-night-light-projection": {
       "name": "✨ Tokyo Night Light – Shinjuku Projection Mapping Show [Must-see]",
-      "description": "Tokyo Metropolitan Government Building (connected to Tochomae Stn); massive outdoor projection mapping show; every night 20:00–21:00 (confirm before going); free; breathtaking light art; <a href=\"https://tokyoprojectionmappingproject.jp/en/\" target=\"_blank\">Official Site</a>",
+      "description": "Tokyo Metropolitan Government Building (connected to Tochomae Stn); massive outdoor projection mapping show; every night 20:00–21:00 (confirm before going); free; breathtaking light art; <a href=\"https://tokyoprojectionmappingproject.jp/en/\" target=\"_blank\">Official Site</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.6872,139.6887\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "movement-return-hotel-28": {
@@ -218,12 +218,12 @@
     },
     "teamlab-29": {
       "name": "🎨 teamLab Borderless – Azabudai Hills [Highlight]",
-      "description": "[Must-do] Boundary-less immersive digital art; interconnected rooms; light & interactive installations; 3 hrs recommended; must pre-book online; <a href=\"https://www.teamlab.art/jp/e/tokyo/\" target=\"_blank\">Book Tickets</a>",
+      "description": "[Must-do] Boundary-less immersive digital art; interconnected rooms; light & interactive installations; 3 hrs recommended; must pre-book online; <a href=\"https://www.teamlab.art/jp/e/tokyo/\" target=\"_blank\">Book Tickets</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.6652,139.7418\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Adult ¥3,600 · Student (13–17) ¥2,800"
     },
     "azabudai-optional-shrines": {
       "name": "⛩️ Azabudai Shrines [Optional]",
-      "description": "[Flexible] After teamLab: if time & energy → quick photo at Reiyukai Shakaden + Nishikubo Hachimangu (15 min); rushed/tired → skip, head to Tokyo Stn",
+      "description": "[Flexible] After teamLab: if time & energy → quick photo at Reiyukai Shakaden + Nishikubo Hachimangu (15 min); rushed/tired → skip, head to Tokyo Stn ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.661127,139.742218\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "movement-azabudai-to-yuzawa": {
@@ -248,7 +248,7 @@
     },
     "kiyotsu-gorge-morning": {
       "name": "🏞️ Kiyotsu Gorge Tunnel ～Mirror Reflection～ [Highlight]",
-      "description": "One of Japan's three great gorges; 750m observation tunnel with the famous water-mirror art at the end (best on sunny days); ~70 min visit (taxi driver waits at the lot); buy 4 tickets on site (Adult ¥1,200×3 + jr-high ¥500 = ¥4,100); bring spare socks for the water mirror; <a href=\"https://nakasato-kiyotsu.com/tunnel/\" target=\"_blank\">Official</a> / <a href=\"https://www.youtube.com/watch?v=xs7X5XQIguE&t=30s\" target=\"_blank\">▶ YouTube</a>"
+      "description": "One of Japan's three great gorges; 750m observation tunnel with the famous water-mirror art at the end (best on sunny days); ~70 min visit (taxi driver waits at the lot); buy 4 tickets on site (Adult ¥1,200×3 + jr-high ¥500 = ¥4,100); bring spare socks for the water mirror; <a href=\"https://nakasato-kiyotsu.com/tunnel/\" target=\"_blank\">Official</a> / <a href=\"https://www.youtube.com/watch?v=xs7X5XQIguE&t=30s\" target=\"_blank\">▶ YouTube</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=36.9725,138.7498\" target=\"_blank\">📍 Google Maps</a>"
     },
     "movement-kiyotsu-to-yuzawa": {
       "name": "🚕 Kiyotsu Gorge → Yuzawa (Course C return)",
@@ -276,32 +276,32 @@
     },
     "kahara-shrine-first-night": {
       "name": "Kanbara Shrine – Festival Opening Night",
-      "description": "Kanbara Matsuri (蒲原まつり) opening night; traditional Niigata summer festival dating back 300+ years; stalls, food, performances, mikoshi; free admission; <a href=\"https://minekomi.sakura.ne.jp/\" target=\"_blank\">Official Site</a> / <a href=\"https://www.gltjp.com/zh-hant/directory/item/15801/\" target=\"_blank\">Guide</a> / <a href=\"https://www.youtube.com/shorts/Z3C6kkUoIIY\" target=\"_blank\">▶ YouTube</a>",
+      "description": "Kanbara Matsuri (蒲原まつり) opening night; traditional Niigata summer festival dating back 300+ years; stalls, food, performances, mikoshi; free admission; <a href=\"https://minekomi.sakura.ne.jp/\" target=\"_blank\">Official Site</a> / <a href=\"https://www.gltjp.com/zh-hant/directory/item/15801/\" target=\"_blank\">Guide</a> / <a href=\"https://www.youtube.com/shorts/Z3C6kkUoIIY\" target=\"_blank\">▶ YouTube</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=37.9127,139.027\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "zoushuukan": {
       "name": "蔵春閣 (Zoshunkan)",
-      "description": "Former Ito Hikohachi villa; elegant Meiji-era architecture; Japanese garden; <a href=\"https://www.city.niigata.lg.jp\" target=\"_blank\">Info</a>",
+      "description": "Former Ito Hikohachi villa; elegant Meiji-era architecture; Japanese garden; <a href=\"https://www.city.niigata.lg.jp\" target=\"_blank\">Info</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=37.9548,139.3258\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "shimizu-en": {
       "name": "清水園 (Shimizu-en Garden)",
-      "description": "Traditional Japanese garden formerly attached to the Mizoguchi clan in Shibata; peaceful strolling garden; <a href=\"https://hoppou-bunka.com/shimizuen/\" target=\"_blank\">Official Site</a>",
+      "description": "Traditional Japanese garden formerly attached to the Mizoguchi clan in Shibata; peaceful strolling garden; <a href=\"https://hoppou-bunka.com/shimizuen/\" target=\"_blank\">Official Site</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=37.943398,139.3284003\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "shibata-castle": {
       "name": "新発田城 (Shibata Castle)",
-      "description": "Japan's 100 Famous Castles #17; unique three-shachi (dolphin-fish) golden turrets; free exterior; restored buildings; <a href=\"https://www.city.shibata.lg.jp\" target=\"_blank\">Official Site</a>",
+      "description": "Japan's 100 Famous Castles #17; unique three-shachi (dolphin-fish) golden turrets; free exterior; restored buildings; <a href=\"https://www.city.shibata.lg.jp\" target=\"_blank\">Official Site</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=37.9547806,139.3260149\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Exterior free"
     },
     "senbei-kingdom": {
       "name": "せんべい王国 (Senbei Kingdom)",
-      "description": "Free admission; draw & paint your own giant rice cracker + flavoring (weekdays, reservation required); fun hands-on experience; <a href=\"http://senbei-oukoku.jp/\" target=\"_blank\">Official Site</a>",
+      "description": "Free admission; draw & paint your own giant rice cracker + flavoring (weekdays, reservation required); fun hands-on experience; <a href=\"http://senbei-oukoku.jp/\" target=\"_blank\">Official Site</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=37.9293,139.1638\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Jumbo ¥2,500 / Large ¥1,800 per person"
     },
     "otakusen-night": {
       "name": "Kanbara Shrine – Bandai Taiko + Otakusen Ceremony",
-      "description": "18:30 ★ Bandai Taiko (thunderous drum performance) → 19:00 ★ Otakusen (830-year-old Shinto ritual at Kanbara Shrine Kagura-den; free to watch); festival stalls open late; <a href=\"https://minekomi.sakura.ne.jp/\" target=\"_blank\">Official Site</a> / <a href=\"https://www.gltjp.com/zh-hant/directory/item/15801/\" target=\"_blank\">Guide</a> / <a href=\"https://www.youtube.com/shorts/Z3C6kkUoIIY\" target=\"_blank\">▶ YouTube</a>",
+      "description": "18:30 ★ Bandai Taiko (thunderous drum performance) → 19:00 ★ Otakusen (830-year-old Shinto ritual at Kanbara Shrine Kagura-den; free to watch); festival stalls open late; <a href=\"https://minekomi.sakura.ne.jp/\" target=\"_blank\">Official Site</a> / <a href=\"https://www.gltjp.com/zh-hant/directory/item/15801/\" target=\"_blank\">Guide</a> / <a href=\"https://www.youtube.com/shorts/Z3C6kkUoIIY\" target=\"_blank\">▶ YouTube</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=37.9127,139.027\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "kahara-final": {
@@ -323,7 +323,7 @@
     },
     "kawagoe-hikawa-shrine": {
       "name": "🌸 Kawagoe Hikawa Shrine",
-      "description": "Kawagoe's beloved matchmaking shrine; 2-11-3 Miyashita-cho; ~20 min walk from Kawagoe Stn East Exit; precincts adorned with wind chimes and enpmusubi (love-tying) balls; free; <a href=\"https://www.kawagoehikawa.jp/\" target=\"_blank\">Official Site</a>",
+      "description": "Kawagoe's beloved matchmaking shrine; 2-11-3 Miyashita-cho; ~20 min walk from Kawagoe Stn East Exit; precincts adorned with wind chimes and enpmusubi (love-tying) balls; free; <a href=\"https://www.kawagoehikawa.jp/\" target=\"_blank\">Official Site</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.92759,139.48853\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "kawagoe-kurazukuri-taisho": {
@@ -333,7 +333,7 @@
     },
     "kawagoe-tokinokane-starbucks": {
       "name": "⏰ Toki no Kane Bell Tower + Starbucks Kawagoe",
-      "description": "15-7 Saiwai-cho; 400-year-old bell tower; chimes 4 times daily (06:00 · 12:00 · 15:00 · 18:00); adjacent Starbucks occupies a restored kurazukuri storehouse — one of Japan's most photographed Starbucks; terrace seating available; <a href=\"https://koedo.or.jp/spot_001/\" target=\"_blank\">Toki no Kane Info</a>",
+      "description": "15-7 Saiwai-cho; 400-year-old bell tower; chimes 4 times daily (06:00 · 12:00 · 15:00 · 18:00); adjacent Starbucks occupies a restored kurazukuri storehouse — one of Japan's most photographed Starbucks; terrace seating available; <a href=\"https://koedo.or.jp/spot_001/\" target=\"_blank\">Toki no Kane Info</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.923497,139.483333\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Bell tower free (Starbucks drinks extra)"
     },
     "kawagoe-kashiya-chiikawa": {
@@ -343,7 +343,7 @@
     },
     "kawagoe-matsuri-kaikan": {
       "name": "🎪 Kawagoe Matsuri Kaikan (Festival Museum)",
-      "description": "2-1-10 Moto-machi; UNESCO Intangible Cultural Heritage — Kawagoe Festival floats (dashi) and float culture displayed up close; open 09:30–18:30 (Apr–Sep); closed Tuesdays (7/2 is Thursday ✅); <a href=\"https://kawagoematsuri.jp/matsurimuseum/\" target=\"_blank\">Official Site</a>",
+      "description": "2-1-10 Moto-machi; UNESCO Intangible Cultural Heritage — Kawagoe Festival floats (dashi) and float culture displayed up close; open 09:30–18:30 (Apr–Sep); closed Tuesdays (7/2 is Thursday ✅); <a href=\"https://kawagoematsuri.jp/matsurimuseum/\" target=\"_blank\">Official Site</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.924287,139.482844\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Adult ¥300 · Under 13 ¥100"
     },
     "movement-kawagoe-to-higashiginza": {
@@ -357,22 +357,22 @@
     },
     "tsukiji-honganji": {
       "name": "Tsukiji Honganji Temple",
-      "description": "10 min walk; free; striking Indian-style Buddhist architecture; beautiful in morning light",
+      "description": "10 min walk; free; striking Indian-style Buddhist architecture; beautiful in morning light ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.6664862,139.7722836\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "kabuki-za": {
       "name": "Kabuki-za – Curtain-View Seat (幕見席)",
-      "description": "July Grand Kabuki (7/2–7/26); Matinée 11:00; Recommended 幕見: <strong>Suehirogari</strong> (1st act, short celebratory dance); 4F single-act seating; English audio guide ¥1,000/unit; no photography during performance; photos allowed during intermission; <a href=\"https://www.e-tix.jp/shochiku_makumi/\" target=\"_blank\">Curtain-View Tickets</a> · <a href=\"https://www.kabuki-bito.jp/theaters/kabukiza/play/976/\" target=\"_blank\">July Programme</a>",
+      "description": "July Grand Kabuki (7/2–7/26); Matinée 11:00; Recommended 幕見: <strong>Suehirogari</strong> (1st act, short celebratory dance); 4F single-act seating; English audio guide ¥1,000/unit; no photography during performance; photos allowed during intermission; <a href=\"https://www.e-tix.jp/shochiku_makumi/\" target=\"_blank\">Curtain-View Tickets</a> · <a href=\"https://www.kabuki-bito.jp/theaters/kabukiza/play/976/\" target=\"_blank\">July Programme</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.6694253,139.7677446\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Curtain-view price TBC"
     },
     "senso-ji": {
       "name": "Senso-ji Temple, Kaminarimon & Nakamise",
-      "description": "Tokyo's most visited temple; free; iconic Kaminarimon thunder gate; Nakamise shopping street; morning = fewer crowds; <a href=\"https://www.senso-ji.jp/guide/guide02.html\" target=\"_blank\">Official Site</a>",
+      "description": "Tokyo's most visited temple; free; iconic Kaminarimon thunder gate; Nakamise shopping street; morning = fewer crowds; <a href=\"https://www.senso-ji.jp/guide/guide02.html\" target=\"_blank\">Official Site</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.713454,139.795952\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "higashi-hongan-ji": {
       "name": "Higashi Hongan-ji (Asakusa)",
-      "description": "Free; West Asakusa 1-5-5; 5 min walk from Senso-ji; peaceful alternative temple worth a quick visit; <a href=\"https://www.higashihonganji.or.jp/\" target=\"_blank\">Official Site</a>",
+      "description": "Free; West Asakusa 1-5-5; 5 min walk from Senso-ji; peaceful alternative temple worth a quick visit; <a href=\"https://www.higashihonganji.or.jp/\" target=\"_blank\">Official Site</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.7117329,139.7896779\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "samurai-ninja": {
@@ -382,7 +382,7 @@
     },
     "kappabashi-tanabata": {
       "name": "🎋 Kappabashi – Shitamachi Tanabata Festival",
-      "description": "Bamboo Tanabata decorations, food stalls; 1.2km from Showa-dori to Kokusai-dori; 5 min from Samurai Ninja Museum; free strolling; <a href=\"https://e-asakusa.jp/culture-experience/105619\" target=\"_blank\">Asakusa Tourism</a> / <a href=\"https://shitamachi-tanabata.studio.site/\" target=\"_blank\">Official Site</a> / <a href=\"https://www.youtube.com/watch?v=rG4SvbooRxU\" target=\"_blank\">▶ YouTube</a>",
+      "description": "Bamboo Tanabata decorations, food stalls; 1.2km from Showa-dori to Kokusai-dori; 5 min from Samurai Ninja Museum; free strolling; <a href=\"https://e-asakusa.jp/culture-experience/105619\" target=\"_blank\">Asakusa Tourism</a> / <a href=\"https://shitamachi-tanabata.studio.site/\" target=\"_blank\">Official Site</a> / <a href=\"https://www.youtube.com/watch?v=rG4SvbooRxU\" target=\"_blank\">▶ YouTube</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.7168,139.7892\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "movement-asakusa-to-hotel": {
@@ -429,17 +429,17 @@
     },
     "ado-1": {
       "name": "Ado Concert – Night 1 (Nissan Stadium)",
-      "description": "Nissan Stadium (~72,000 capacity); large outdoor concert; tickets confirmed; wait 30–45 min after show before leaving (crowd management)",
+      "description": "Nissan Stadium (~72,000 capacity); large outdoor concert; tickets confirmed; wait 30–45 min after show before leaving (crowd management) ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.5099771,139.6064006\" target=\"_blank\">📍 Google Maps</a>",
       "price": "✅ Tickets purchased"
     },
     "yamashita-park": {
       "name": "山下公園 (Yamashita Park)",
-      "description": "Free; panoramic Yokohama Harbour views; seaside promenade; stroll and take photos",
+      "description": "Free; panoramic Yokohama Harbour views; seaside promenade; stroll and take photos ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.4457655,139.6497793\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "osaka-daisan-bashi": {
       "name": "大さん橋 (Osanbashi – Yokohama International Pier)",
-      "description": "Free; Yokohama International Cruise Terminal; dramatic curved wooden rooftop terrace with sweeping harbour views; one of Yokohama's most beautiful spots",
+      "description": "Free; Yokohama International Cruise Terminal; dramatic curved wooden rooftop terrace with sweeping harbour views; one of Yokohama's most beautiful spots ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.4511766,139.6473228\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "motomachi": {
@@ -448,17 +448,17 @@
     },
     "cup-noodles": {
       "name": "カップヌードルミュージアム (Cup Noodles Museum)",
-      "description": "Hands-on food museum; create your own original Cup Noodle flavour; Chicken Ramen factory workshop; fun for all ages; <a href=\"https://www.cupnoodles-museum.jp/ja/yokohama/\" target=\"_blank\">Official Site</a>",
+      "description": "Hands-on food museum; create your own original Cup Noodle flavour; Chicken Ramen factory workshop; fun for all ages; <a href=\"https://www.cupnoodles-museum.jp/ja/yokohama/\" target=\"_blank\">Official Site</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.4557271,139.6391141\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Adult ¥500 · Under 12 free; Custom Cup Noodle +¥500; Chicken Ramen workshop +¥500"
     },
     "air-cabin": {
       "name": "YOKOHAMA AIR CABIN",
-      "description": "Cable car ride over the canal; Unga Park Stn → Sakuragi-cho Stn; ~5 min scenic aerial ride",
+      "description": "Cable car ride over the canal; Unga Park Stn → Sakuragi-cho Stn; ~5 min scenic aerial ride ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.4453,139.6385\" target=\"_blank\">📍 Google Maps</a>",
       "price": "¥1,000/person"
     },
     "bandai-namco-cross-store": {
       "name": "🎮 Bandai Namco Cross Store Yokohama",
-      "description": "Yokohama World Porters 2F; 1 min from Unga Park Stn; 20+ official shops (Gundam, JoJo, etc.); Gashapon corner; amusement area; free entry; <a href=\"https://bandainamco-am.co.jp/crossstore/store/yokohama-wp2/\" target=\"_blank\">Official Site</a>",
+      "description": "Yokohama World Porters 2F; 1 min from Unga Park Stn; 20+ official shops (Gundam, JoJo, etc.); Gashapon corner; amusement area; free entry; <a href=\"https://bandainamco-am.co.jp/crossstore/store/yokohama-wp2/\" target=\"_blank\">Official Site</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.454268,139.638553\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free entry (games & shopping extra)"
     },
     "movement-minato-to-shinyoko-2": {
@@ -467,7 +467,7 @@
     },
     "ado-2": {
       "name": "Ado Concert – Night 2 (Nissan Stadium)",
-      "description": "Nissan Stadium; tickets confirmed; wait after show; prepare for tomorrow's checkout",
+      "description": "Nissan Stadium; tickets confirmed; wait after show; prepare for tomorrow's checkout ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.51,139.6064\" target=\"_blank\">📍 Google Maps</a>",
       "price": "✅ Tickets purchased"
     },
     "shinyoko-checkout": {
@@ -481,7 +481,7 @@
     },
     "kawasaki-daishi": {
       "name": "川崎大師 Kawasaki Daishi (Heiken-ji Temple)",
-      "description": "Founded 1128; one of Japan's top 3 most-visited temples; worship + Nakamise-dori shopping approach; traditional sweets and crafts; <a href=\"http://kawasakidaishi-kanko.com/\" target=\"_blank\">Info</a>",
+      "description": "Founded 1128; one of Japan's top 3 most-visited temples; worship + Nakamise-dori shopping approach; traditional sweets and crafts; <a href=\"http://kawasakidaishi-kanko.com/\" target=\"_blank\">Info</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.536,139.7325\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "nakamise-dori": {
@@ -490,7 +490,7 @@
     },
     "kawasaki-yakuyoke-mon": {
       "name": "📸 Kawasaki Daishi – Yakuyoke-mon Gate (大山門)",
-      "description": "Iconic vermillion main gate at the Nakamise-dori entrance; symbol of Kawasaki Daishi; quick photo stop only; free",
+      "description": "Iconic vermillion main gate at the Nakamise-dori entrance; symbol of Kawasaki Daishi; quick photo stop only; free ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.5355,139.7315\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "haneda-return": {
@@ -503,7 +503,7 @@
     },
     "miyashita-park-adidas-28": {
       "name": "🦁 Miyashita Park – adidas PLAY FREE PARK (Ado Statue + adiFOTO)",
-      "description": "[Final day 6/28!] adidas football-themed pop-up; 🗽 <strong>life-sized Ado statue</strong> in the adidas Japan national football team kit; 📸 <strong>adiFOTO</strong>: Ado collaboration photo booth (purikura) with original designs; venue: Miyashita Park multi-purpose sports facility (sand court); Sun 11:00–20:00; free; RAYARD Miyashita Park has the \"Shibuya Yokocho\" food street for lunch; <a href=\"https://www.miyashita-park.tokyo/schedule/?p=2894\" target=\"_blank\">Official</a>",
+      "description": "[Final day 6/28!] adidas football-themed pop-up; 🗽 <strong>life-sized Ado statue</strong> in the adidas Japan national football team kit; 📸 <strong>adiFOTO</strong>: Ado collaboration photo booth (purikura) with original designs; venue: Miyashita Park multi-purpose sports facility (sand court); Sun 11:00–20:00; free; RAYARD Miyashita Park has the \"Shibuya Yokocho\" food street for lunch; <a href=\"https://www.miyashita-park.tokyo/schedule/?p=2894\" target=\"_blank\">Official</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.661385,139.701704\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Free"
     },
     "movement-hotel-to-akihabara-702": {
@@ -512,7 +512,7 @@
     },
     "akiba-fukurou-702": {
       "name": "🦉 Akiba Fukurou Owl Cafe (Private Session)",
-      "description": "✅ <strong>Booked: Private Session (7/2 18:00–19:00, 4 people)</strong>; exclusive owl experience (hold owls + pro photographer); ⚠️ arrive by 17:50 (door locks once it starts); cash only; ⚠️ no food/drink menu — owl experience only; 67 Kanda Neribeicho, Chiyoda; 2 min from Akihabara Stn Central Gate; <a href=\"https://akiba2960.com/\" target=\"_blank\">Official</a>",
+      "description": "✅ <strong>Booked: Private Session (7/2 18:00–19:00, 4 people)</strong>; exclusive owl experience (hold owls + pro photographer); ⚠️ arrive by 17:50 (door locks once it starts); cash only; ⚠️ no food/drink menu — owl experience only; 67 Kanda Neribeicho, Chiyoda; 2 min from Akihabara Stn Central Gate; <a href=\"https://akiba2960.com/\" target=\"_blank\">Official</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.70216,139.774583\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Private Session · cash only"
     },
     "akihabara-dinner-702": {
@@ -529,7 +529,7 @@
     },
     "hamarikyu-garden-704": {
       "name": "🌳 Hamarikyu Gardens",
-      "description": "Edo-period daimyo garden; tidal pond, 300-year-old pine, seasonal flowers; Nakajima Tea House on the pond serves matcha + wagashi (extra); a calm green oasis for a relaxed stroll — conserve energy for tonight; 09:00–17:00 (last entry 16:30); Adult ¥300, 65+ ¥150, junior-high & under free; <a href=\"https://www.tokyo-park.or.jp/teien/en/hama-rikyu/\" target=\"_blank\">Official</a>",
+      "description": "Edo-period daimyo garden; tidal pond, 300-year-old pine, seasonal flowers; Nakajima Tea House on the pond serves matcha + wagashi (extra); a calm green oasis for a relaxed stroll — conserve energy for tonight; 09:00–17:00 (last entry 16:30); Adult ¥300, 65+ ¥150, junior-high & under free; <a href=\"https://www.tokyo-park.or.jp/teien/en/hama-rikyu/\" target=\"_blank\">Official</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.659656,139.763409\" target=\"_blank\">📍 Google Maps</a>",
       "price": "Adult ¥300 · 65+ ¥150 · jr-high & under free"
     },
     "movement-hamarikyu-to-nihonbashi-704": {
