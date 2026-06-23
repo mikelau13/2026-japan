@@ -841,11 +841,21 @@
           "price": "免費"
         },
         {
+          "id": "denbouin-dori",
+          "name": "🏮 伝法院通り【最後機會・2026/7末撤去】",
+          "lat": 35.712833,
+          "lng": 139.795667,
+          "time": "12:30–12:45",
+          "description": "浅草寺・仲見世旁的<strong>江戸風復古商店街</strong>（約200m，連接仲見世與六区）；店面・招牌仿江戸時代街並み，屋頂有「鼠小僧」雕像，很有味道；⚠️<strong>32間店舗因長年違法占用公共道路，訴訟和解須於 2026年7月31日前全部撤離</strong> → 你 7/3 造訪正是撤除前**最後機會**；逛浅草寺・仲見世時順道拐進即達；免費；<a href=\"https://www.google.com/maps/search/?api=1&query=35.712833,139.795667\" target=\"_blank\">📍 Google Map</a>",
+          "type": "landmark",
+          "price": "免費"
+        },
+        {
           "id": "higashi-hongan-ji",
           "name": "東本願寺（浅草）",
           "lat": 35.7117329,
           "lng": 139.7896779,
-          "time": "12:30–13:00",
+          "time": "12:45–13:10",
           "description": "免費；台東区西浅草1-5-5；浅草寺から徒歩5分；<a href=\"https://www.higashihonganji.or.jp/\" target=\"_blank\">官網</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.7117329,139.7896779\" target=\"_blank\">📍 Google Map</a>",
           "type": "temple",
           "price": "免費"
