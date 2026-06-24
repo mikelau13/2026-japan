@@ -496,6 +496,16 @@
           "type": "spa"
         },
         {
+          "id": "ponshukan-yuzawa",
+          "name": "🥤 ぽんしゅ館 越後湯沢（糀café・爆弾おにぎり・酒風呂）",
+          "lat": 36.9353,
+          "lng": 138.8074,
+          "time": "~14:00–15:00（站內順遊・彈性）",
+          "description": "越後湯沢駅內 CoCoLo湯沢；新潟米・發酵文化設施，**以下皆無酒精・全家小孩可**：<br>🥤 <strong>糀らって（糀café）</strong>：糀/甘酒 <strong>拿鐵・霜淇淋・float</strong>（無酒精・全年齡）＋雪室咖啡 ⭐小孩最愛<br>🍙 <strong>爆弾おにぎり家</strong>：南魚沼産コシヒカリ現捏巨型飯糰<br>♨️ <strong>酒風呂</strong>：溫泉浸泡（無酒精；大人¥950・小孩¥400・5歲下免費）<br>站內就在駅旁，抵達/出發順道即可 ／ <a href=\"https://www.google.com/maps/search/?api=1&query=36.9353,138.8074\" target=\"_blank\">📍 Google Map</a>",
+          "type": "experience",
+          "price": "糀ラテ・霜淇淋 各數百円；爆弾おにぎり 數百円；酒風呂 大人¥950/小孩¥400"
+        },
+        {
           "id": "yuzawa-hotel",
           "name": "湯沢グランドホテル",
           "lat": 36.9353,
