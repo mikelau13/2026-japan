@@ -103,9 +103,9 @@
       "description": "<img src=\"img/transit/YK.svg\" style=\"height:1.4em;vertical-align:middle;margin-right:3px\">Yurikamome Line; ~5 min return after lunch"
     },
     "tokyo-dream-park": {
-      "name": "🎡 Tokyo Dream Park",
-      "description": "[Must-do] Ariake; 6F rooftop plaza + Shohei Ohtani golden statue FREE; <a href=\"https://doraemon100japan.com/ticket/\" target=\"_blank\">100% Doraemon Exhibition (tickets)</a> (optional); 2–3 hrs; <a href=\"https://tdp.tv-asahi.co.jp/\" target=\"_blank\">Official Site</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.6293567,139.7878091\" target=\"_blank\">📍 Google Maps</a>",
-      "price": "Rooftop free; Doraemon: Adult ¥2,400 · Student ¥1,800"
+      "name": "🎡 Tokyo Dream Park (Doraemon Exhibition · ticketed)",
+      "description": "✅ [Ticket purchased] 3-min walk from Ariake Tennis-no-Mori Stn; first the FREE rooftop plaza (Shohei Ohtani golden statue) ~14:35–15:25 → 🎫 <a href=\"https://doraemon100japan.com/ticket/\" target=\"_blank\">100% Doraemon Exhibition</a> [<strong>booked · timed entry 15:30–16:00 · be there by 15:30</strong>] ~1.5–2 hrs; <a href=\"https://tdp.tv-asahi.co.jp/\" target=\"_blank\">Official</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.6293567,139.7878091\" target=\"_blank\">📍 Google Maps</a>",
+      "price": "✅ Doraemon exhibition booked (entry 15:30–16:00)"
     },
     "movement-to-odaiba": {
       "name": "Ariake → Aomi (Yurikamome)",

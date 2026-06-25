@@ -160,13 +160,13 @@
         },
         {
           "id": "tokyo-dream-park",
-          "name": "🎡 Tokyo Dream Park",
+          "name": "🎡 Tokyo Dream Park（哆啦A夢展・已購票）",
           "lat": 35.6293567,
           "lng": 139.7878091,
-          "time": "14:30–17:00",
-          "description": "【必辦】有明駅；屋上広場（免費）＋大谷翔平金像；<a href=\"https://doraemon100japan.com/ticket/\" target=\"_blank\">100%ドラえもん展（購票）</a>（可選）；建議2–3小時；或改為 SMALL WORLDS（與上午協調）；<a href=\"https://tdp.tv-asahi.co.jp/\" target=\"_blank\">官網</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.6293567,139.7878091\" target=\"_blank\">📍 Google Map</a>",
+          "time": "14:35–17:00（哆啦A夢展 15:30入場）",
+          "description": "✅【已購票】有明テニスの森駅步行3分；先逛<strong>屋上広場（免費・大谷翔平金像）約14:35–15:25</strong> → 🎫 <a href=\"https://doraemon100japan.com/ticket/\" target=\"_blank\">100%ドラえもん展</a>【<strong>已購票・15:30–16:00 入場時段・務必15:30前到場</strong>】約1.5–2h；<a href=\"https://tdp.tv-asahi.co.jp/\" target=\"_blank\">官網</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.6293567,139.7878091\" target=\"_blank\">📍 Google Map</a>",
           "type": "attraction",
-          "price": "屋上広場免費；ドラえもん展 大人2,400円・中高生1,800円"
+          "price": "✅ 哆啦A夢展 已購票（15:30–16:00 入場時段）"
         },
         {
           "id": "movement-to-odaiba",
