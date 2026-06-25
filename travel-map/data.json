@@ -26,6 +26,17 @@
           "price": "タビノス商店街併設"
         },
         {
+          "id": "yokai-immersive-26",
+          "name": "👹 YOKAI 妖怪沉浸數位展【備選・6/28截止】",
+          "lat": 35.620579,
+          "lng": 139.750879,
+          "time": "【彈性・備選・到時再定】",
+          "description": "世界首個妖怪主題<strong>沉浸式數位藝術展</strong>（3DCG・投影映射・全息＋立體雕塑，讓江戸/明治妖怪畫卷動起來）；<strong>天王洲・寺田倉庫G1ビル</strong>（天王洲アイル駅步行5分・東京モノレール線上、距浜松町酒店約1站）；✅ **體驗以視覺為主、解說日英雙語→不諳日文也能玩**；⚠️ <strong>6/28 結束</strong>→只6/26–6/28有機會，**6/26抵達當晚最可行**（放好行李後搭單軌1站去）；9:30–20:00（最終入場19:30）；<a href=\"https://www.yokaiimmersive.com/tokyo/en\" target=\"_blank\">官網</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.620579,139.750879\" target=\"_blank\">📍 Google Map</a>",
+          "type": "attraction",
+          "price": "前売 大人¥2,400・学生(高/大)¥1,600・子ども¥700・65+¥2,300（当日各+¥200）",
+          "note": "⚠️ 座標為天王洲アイル駅基準（寺田倉庫G1ビル 步行5分）"
+        },
+        {
           "id": "divercity-evening",
           "name": "DiverCity 晚餐 ＋ 彈性夜間表演",
           "lat": 35.6247851,
@@ -183,7 +194,7 @@
           "lat": 35.6247851,
           "lng": 139.7758551,
           "time": "17:30–19:00",
-          "description": "進出自由，時間完全彈性，自由選擇：✅<a href=\"https://unkomuseum.com/tokyo/\" target=\"_blank\">便便博物館</a>(1–1.5h) ✅Gundam Base(0.5–2h) ✅Gundam立像日景＆拍照 ✅商場購物逛街 ✅咖啡輕食；✅【スタンプラリー】ガンダムプロジェクト2026 第2弾（6/8–7/12）DiverCity 2F為集章點之一，集齊6章→即場抽獎機抽 RG 金塗装ガンプラ等（即場出結果，即場領獎，旅客適合參加）；<a href=\"https://mitsui-shopping-park.com/divercity-tokyo/info/2670391.html\" target=\"_blank\">DiverCity官網</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.6247851,139.7758551\" target=\"_blank\">📍 Google Map</a>",
+          "description": "進出自由，時間完全彈性，自由選擇：✅<a href=\"https://unkomuseum.com/tokyo/\" target=\"_blank\">便便博物館（うんこミュージアム）</a>(1–1.5h・<strong>無日時指定・walk-in OK・售完風險低</strong>，僅尖峰偶排隊；前売-¥200) ✅Gundam Base(0.5–2h) ✅Gundam立像日景＆拍照 ✅商場購物逛街 ✅咖啡輕食；✅【スタンプラリー】ガンダムプロジェクト2026 第2弾（6/8–7/12）DiverCity 2F為集章點之一，集齊6章→即場抽獎機抽 RG 金塗装ガンプラ等（即場出結果，即場領獎，旅客適合參加）；<a href=\"https://mitsui-shopping-park.com/divercity-tokyo/info/2670391.html\" target=\"_blank\">DiverCity官網</a> ／ <a href=\"https://www.google.com/maps/search/?api=1&query=35.6247851,139.7758551\" target=\"_blank\">📍 Google Map</a>",
           "type": "attraction",
           "price": "便便博物館¥2,000～；其他免費"
         },
